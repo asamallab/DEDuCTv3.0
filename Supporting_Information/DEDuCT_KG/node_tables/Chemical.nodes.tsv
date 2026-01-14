@@ -1,0 +1,1044 @@
+id	name	CASRN	PubChem_CID	node_type
+DED000001	4-Hydroxybenzoic acid	CAS:99-96-7	CID:135	Chemical
+DED000002	Acetaldehyde	CAS:75-07-0	CID:177	Chemical
+DED000003	Benzene	CAS:71-43-2	CID:241	Chemical
+DED000004	Octane	CAS:111-65-9	CID:356	Chemical
+DED000005	Phloroglucinol	CAS:108-73-6	CID:359	Chemical
+DED000006	p-Aminophenol	CAS:123-30-8	CID:403	Chemical
+DED000007	Propionaldehyde	CAS:123-38-6	CID:527	Chemical
+DED000008	Arsenite	CAS:15502-74-6	CID:544	Chemical
+DED000009	Ethanol	CAS:64-17-5	CID:702	Chemical
+DED000010	Formaldehyde	CAS:50-00-0	CID:712	Chemical
+DED000011	Formamide	CAS:75-12-7	CID:713	Chemical
+DED000012	Lindane	CAS:58-89-9	CID:727	Chemical
+DED000013	Iodine	CAS:7553-56-2	CID:807	Chemical
+DED000014	Methanol	CAS:67-56-1	CID:887	Chemical
+DED000015	Nitrate ion	CAS:14797-55-8	CID:943	Chemical
+DED000016	Nitrous Oxide	CAS:10024-97-2	CID:948	Chemical
+DED000017	p-Nitrophenol	CAS:100-02-7	CID:980	Chemical
+DED000018	Parathion	CAS:56-38-2	CID:991	Chemical
+DED000019	Pyrazinamide	CAS:98-96-4	CID:1046	Chemical
+DED000020	Methylbenzene	CAS:108-88-3	CID:1140	Chemical
+DED000021	2,4,6-Tribromophenol	CAS:118-79-6	CID:1483	Chemical
+DED000022	2,4-Dichlorophenoxyacetic acid	CAS:94-75-7	CID:1486	Chemical
+DED000023	4-(2,4-Dichlorophenoxy)butyric acid	CAS:94-82-6	CID:1489	Chemical
+DED000024	3,4-Methylenedioxymethamphetamine	CAS:42542-10-9	CID:1615	Chemical
+DED000025	2-Amino-1,3,4-triazole	CAS:61-82-5	CID:1639	Chemical
+DED000026	Chlorocresol	CAS:59-50-7	CID:1732	Chemical
+DED000027	Acephate	CAS:30560-19-1	CID:1982	Chemical
+DED000028	Alachlor	CAS:15972-60-8	CID:2078	Chemical
+DED000029	Aminoglutethimide	CAS:125-84-8	CID:2145	Chemical
+DED000030	Ampyrone	CAS:83-07-8	CID:2151	Chemical
+DED000031	Theophylline	CAS:58-55-9	CID:2153	Chemical
+DED000032	Anastrozole	CAS:120511-73-1	CID:2187	Chemical
+DED000033	Bisphenol A diglycidyl ether	CAS:1675-54-3	CID:2286	Chemical
+DED000034	beta-Naphthoflavone	CAS:6051-87-2	CID:2361	Chemical
+DED000035	Busulfan	CAS:55-98-1	CID:2478	Chemical
+DED000036	Caffeine	CAS:58-08-2	CID:2519	Chemical
+DED000037	Carbofuran	CAS:1563-66-2	CID:2566	Chemical
+DED000038	Citalopram	CAS:59729-33-8	CID:2771	Chemical
+DED000039	p-Cresol	CAS:106-44-5	CID:2879	Chemical
+DED000040	Cyclophosphamide	CAS:50-18-0	CID:2907	Chemical
+DED000041	Danthron	CAS:117-10-2	CID:2950	Chemical
+DED000042	Dichlorvos	CAS:62-73-7	CID:3039	Chemical
+DED000043	Endrin	CAS:72-20-8	CID:12358480	Chemical
+DED000044	Benzophenone	CAS:119-61-9	CID:3102	Chemical
+DED000045	Diuron	CAS:330-54-1	CID:3120	Chemical
+DED000046	Valproic acid	CAS:99-66-1	CID:3121	Chemical
+DED000047	Econazole	CAS:27220-47-9	CID:3198	Chemical
+DED000048	Emodin	CAS:518-82-1	CID:3220	Chemical
+DED000049	Endosulfan	CAS:115-29-7	CID:3224	Chemical
+DED000050	Diethyl ether	CAS:60-29-7	CID:3283	Chemical
+DED000051	Fenvalerate	CAS:51630-58-1	CID:3347	Chemical
+DED000052	Fluoxetine	CAS:54910-89-3	CID:3386	Chemical
+DED000053	Rac-[6]-Gingerol	CAS:39886-76-5	CID:3473	Chemical
+DED000054	Glutaraldehyde	CAS:111-30-8	CID:3485	Chemical
+DED000055	Guanethidine	CAS:55-65-2	CID:3518	Chemical
+DED000056	Heptachlor	CAS:76-44-8	CID:3589	Chemical
+DED000057	Hexylresorcinol	CAS:136-77-6	CID:3610	Chemical
+DED000058	Indole-3-carbinol	CAS:700-06-1	CID:3712	Chemical
+DED000059	Indomethacin	CAS:53-86-1	CID:3715	Chemical
+DED000060	1-Methyl-3-isobutylxanthine	CAS:28822-58-4	CID:3758	Chemical
+DED000061	Isoflurane	CAS:26675-46-7	CID:3763	Chemical
+DED000062	Isoniazid	CAS:54-85-3	CID:3767	Chemical
+DED000063	Kojic acid	CAS:501-30-4	CID:3840	Chemical
+DED000064	Letrozole	CAS:112809-51-5	CID:3902	Chemical
+DED000065	Malathion	CAS:121-75-5	CID:4004	Chemical
+DED000066	Methamidophos	CAS:10265-92-6	CID:4096	Chemical
+DED000067	Methyl parathion	CAS:298-00-0	CID:4130	Chemical
+DED000068	Mitotane	CAS:53-19-0	CID:4211	Chemical
+DED000069	Nordihydroguaiaretic acid	CAS:500-38-9	CID:4534	Chemical
+DED000070	Patulin	CAS:149-29-1	CID:4696	Chemical
+DED000071	Phenobarbital	CAS:50-06-6	CID:4763	Chemical
+DED000072	Phenolsulfonphthalein	CAS:143-74-8	CID:4766	Chemical
+DED000073	Phenothrin	CAS:26002-80-2	CID:4767	Chemical
+DED000074	Phloretin	CAS:60-82-2	CID:4788	Chemical
+DED000075	Prometryn	CAS:7287-19-6	CID:4929	Chemical
+DED000076	Propanil	CAS:709-98-8	CID:4933	Chemical
+DED000077	Propazine	CAS:139-40-2	CID:4937	Chemical
+DED000078	Raloxifene	CAS:84449-90-1	CID:5035	Chemical
+DED000079	Carbamylhydrazine	CAS:57-56-7	CID:5196	Chemical
+DED000080	Simazine	CAS:122-34-9	CID:5216	Chemical
+DED000081	Sulfathiazole	CAS:72-14-0	CID:5340	Chemical
+DED000082	Sulpiride	CAS:15676-16-1	CID:5355	Chemical
+DED000083	Tetramethylthiuram disulfide	CAS:137-26-8	CID:5455	Chemical
+DED000084	Trifluralin	CAS:1582-09-8	CID:5569	Chemical
+DED000085	Zinc chloride	CAS:7646-85-7	CID:5727	Chemical
+DED000086	Reserpine	CAS:50-55-5	CID:5770	Chemical
+DED000087	3,3',5-Triiodothyroacetic acid	CAS:51-24-1	CID:5803	Chemical
+DED000088	Spironolactone	CAS:52-01-7	CID:5833	Chemical
+DED000089	Trichlorfon	CAS:52-68-6	CID:5853	Chemical
+DED000090	Dibenz(a,h)anthracene	CAS:53-70-3	CID:5889	Chemical
+DED000091	Carbon tetrachloride	CAS:56-23-5	CID:5943	Chemical
+DED000092	Benz(a)anthracene	CAS:56-55-3	CID:5954	Chemical
+DED000093	Chlordane	CAS:12789-03-6	CID:5993	Chemical
+DED000094	Testosterone propionate	CAS:57-85-2	CID:5995	Chemical
+DED000095	7,12-Dimethylbenz(a)anthracene	CAS:57-97-6	CID:6001	Chemical
+DED000096	Methyltestosterone	CAS:58-18-4	CID:6010	Chemical
+DED000097	Aniline	CAS:62-53-3	CID:6115	Chemical
+DED000098	Carbaryl	CAS:63-25-2	CID:6129	Chemical
+DED000099	Colchicine	CAS:64-86-8	CID:6167	Chemical
+DED000100	Cycloheximide	CAS:66-81-9	CID:6197	Chemical
+DED000101	Chloroform	CAS:67-66-3	CID:6212	Chemical
+DED000102	Medroxyprogesterone 17-acetate	CAS:71-58-9	CID:6279	Chemical
+DED000103	1,2-Dihydroxy-9,10-anthracenedione	CAS:72-48-0	CID:6293	Chemical
+DED000104	Dichlorodiphenyldichloroethane	CAS:72-54-8	CID:6294	Chemical
+DED000105	N,N'-Diphenyl-4-phenylenediamine	CAS:74-31-7	CID:6319	Chemical
+DED000106	Methyl bromide	CAS:74-83-9	CID:6323	Chemical
+DED000107	Myclobutanil	CAS:88671-89-0	CID:6336	Chemical
+DED000108	Dichloromethane	CAS:75-09-2	CID:6344	Chemical
+DED000109	Carbon disulfide	CAS:75-15-0	CID:6348	Chemical
+DED000110	Ethylene oxide	CAS:75-21-8	CID:6354	Chemical
+DED000111	2-Bromopropane	CAS:75-26-3	CID:6358	Chemical
+DED000112	Bromodichloromethane	CAS:75-27-4	CID:6359	Chemical
+DED000113	Trichloroacetic acid	CAS:76-03-9	CID:6421	Chemical
+DED000114	Acetyl tributyl citrate	CAS:77-90-7	CID:6505	Chemical
+DED000115	Tributyl citrate	CAS:77-94-1	CID:6507	Chemical
+DED000116	Tri-p-cresyl phosphate	CAS:78-32-0	CID:6529	Chemical
+DED000117	Tri(2-butoxyethyl) phosphate	CAS:78-51-3	CID:6540	Chemical
+DED000118	Isoprene	CAS:78-79-5	CID:6557	Chemical
+DED000119	Acrylamide	CAS:79-06-1	CID:6579	Chemical
+DED000120	Dichloroacetic acid	CAS:79-43-6	CID:6597	Chemical
+DED000121	Tetrabromobisphenol A	CAS:79-94-7	CID:6618	Chemical
+DED000122	p-tert-Amylphenol	CAS:80-46-6	CID:6643	Chemical
+DED000123	Methyl methacrylate	CAS:80-62-6	CID:6658	Chemical
+DED000124	Benzanthrone	CAS:82-05-3	CID:6697	Chemical
+DED000125	2,6-Dihydroxyanthraquinone	CAS:84-60-6	CID:6776	Chemical
+DED000126	Dicyclohexyl phthalate	CAS:84-61-7	CID:6777	Chemical
+DED000127	Diisobutyl phthalate	CAS:84-69-5	CID:6782	Chemical
+DED000128	Dihexyl phthalate	CAS:84-75-3	CID:6786	Chemical
+DED000129	Dinonyl phthalate	CAS:84-76-4	CID:6787	Chemical
+DED000130	Santowhite powder	CAS:85-60-9	CID:6815	Chemical
+DED000131	Butyl glycolyl butyl phthalate	CAS:85-70-1	CID:6819	Chemical
+DED000132	Methylmercury	CAS:22967-92-6	CID:6860	Chemical
+DED000133	2,6-Dichlorophenol	CAS:87-65-0	CID:6899	Chemical
+DED000134	Versalide	CAS:88-29-9	CID:6930	Chemical
+DED000135	Dinoseb	CAS:88-85-7	CID:6950	Chemical
+DED000136	Thymol	CAS:89-83-8	CID:6989	Chemical
+DED000137	2-Phenyl phenol	CAS:90-43-7	CID:7017	Chemical
+DED000138	4,4'-Dihydroxybiphenyl	CAS:92-88-6	CID:7112	Chemical
+DED000139	Propyl p-hydroxybenzoate	CAS:94-13-3	CID:7175	Chemical
+DED000140	2,4-D butyl ester	CAS:94-80-4	CID:7206	Chemical
+DED000141	1,2-Dichlorobenzene	CAS:95-50-1	CID:7239	Chemical
+DED000142	1,2,4,5-Tetrachlorobenzene	CAS:12408-10-5	CID:7270	Chemical
+DED000143	2,4,5-Trichlorophenol	CAS:95-95-4	CID:7271	Chemical
+DED000144	3-Chloro-1,2-dihydroxypropane	CAS:96-24-2	CID:7290	Chemical
+DED000145	p-tert-Butyl catechol	CAS:98-29-3	CID:7381	Chemical
+DED000146	Butylphen	CAS:98-54-4	CID:7393	Chemical
+DED000147	Nitrobenzene	CAS:98-95-3	CID:7416	Chemical
+DED000148	4-sec-Butylphenol	CAS:99-71-8	CID:7453	Chemical
+DED000149	Methyl p-hydroxybenzoate	CAS:99-76-3	CID:7456	Chemical
+DED000150	4-Nitrotoluene	CAS:99-99-0	CID:7473	Chemical
+DED000151	Terephthalic acid	CAS:100-21-0	CID:7489	Chemical
+DED000152	Ethylbenzene	CAS:100-41-4	CID:7500	Chemical
+DED000153	Styrene	CAS:100-42-5	CID:7501	Chemical
+DED000154	Benzyl chloride	CAS:100-44-7	CID:7503	Chemical
+DED000155	p-Benzylphenol	CAS:101-53-1	CID:7563	Chemical
+DED000156	Triethanolamine	CAS:102-71-6	CID:7618	Chemical
+DED000157	Boric acid	CAS:10043-35-3	CID:7628	Chemical
+DED000158	Di-(2-ethylhexyl) adipate	CAS:103-23-1	CID:7641	Chemical
+DED000159	1,4-Cyclohexanedimethanol	CAS:105-08-8	CID:7735	Chemical
+DED000160	1,4-Benzenediamine	CAS:106-50-3	CID:7814	Chemical
+DED000161	Vinylcyclohexene dioxide	CAS:106-87-6	CID:7833	Chemical
+DED000162	Epichlorohydrin	CAS:106-89-8	CID:7835	Chemical
+DED000163	1-Bromopropane	CAS:106-94-5	CID:7840	Chemical
+DED000164	Allyl alcohol	CAS:107-18-6	CID:7858	Chemical
+DED000165	Vinyl acetate	CAS:108-05-4	CID:7904	Chemical
+DED000166	Melamine	CAS:108-78-1	CID:7955	Chemical
+DED000167	Ethylene glycol monomethyl ether	CAS:109-86-4	CID:8019	Chemical
+DED000168	Tetrahydrofuran	CAS:109-99-9	CID:8028	Chemical
+DED000169	Acetonylacetone	CAS:110-13-4	CID:8035	Chemical
+DED000170	Hexane	CAS:110-54-3	CID:8058	Chemical
+DED000171	Ethylene glycol monoethyl ether	CAS:110-80-5	CID:8076	Chemical
+DED000172	Ethoxyethanol acetate	CAS:111-15-9	CID:8095	Chemical
+DED000173	Ethylene glycol monobutyl ether	CAS:111-76-2	CID:8133	Chemical
+DED000174	Nonane	CAS:111-84-2	CID:8141	Chemical
+DED000175	Propylene	CAS:115-07-1	CID:8252	Chemical
+DED000176	2,2,2-Trichloroethanol	CAS:115-20-8	CID:8259	Chemical
+DED000177	Dicofol	CAS:115-32-2	CID:8268	Chemical
+DED000178	Tetradifon	CAS:116-29-0	CID:8305	Chemical
+DED000179	Phenyl salicylate	CAS:118-55-8	CID:8361	Chemical
+DED000180	Benzyl salicylate	CAS:118-58-1	CID:8363	Chemical
+DED000181	Trinitrotoluene	CAS:118-96-7	CID:8376	Chemical
+DED000182	Ethyl 4-hydroxybenzoate	CAS:120-47-8	CID:8434	Chemical
+DED000183	2,4-Dichlorophenol	CAS:120-83-2	CID:8449	Chemical
+DED000184	2,4-Dinitrotoluene	CAS:121-14-2	CID:8461	Chemical
+DED000185	Diamyl phthalate	CAS:131-18-0	CID:8561	Chemical
+DED000186	Benzophenone-6	CAS:131-54-4	CID:8570	Chemical
+DED000187	Diethyl adipate	CAS:141-28-6	CID:8844	Chemical
+DED000188	Benzo(b)fluoranthene	CAS:205-99-2	CID:9153	Chemical
+DED000189	Benzo(k)fluoranthene	CAS:207-08-9	CID:9158	Chemical
+DED000190	Acenaphthylene	CAS:208-96-8	CID:9161	Chemical
+DED000191	Lead diacetate	CAS:301-04-2	CID:9317	Chemical
+DED000192	Thiocyanate	CAS:302-04-5	CID:9322	Chemical
+DED000193	Linuron	CAS:330-55-2	CID:9502	Chemical
+DED000194	Perfluorodecanoic acid	CAS:335-76-2	CID:9555	Chemical
+DED000195	Cyproterone acetate	CAS:427-51-0	CID:9880	Chemical
+DED000196	Chlorfenvinphos	CAS:470-90-6	CID:10107	Chemical
+DED000197	Chrysophanic acid	CAS:481-74-3	CID:10208	Chemical
+DED000198	Perfluorooctyl iodide	CAS:507-63-1	CID:10491	Chemical
+DED000199	Malachite Green carbinol base	CAS:510-13-4	CID:10521	Chemical
+DED000200	Noramidopyrine	CAS:519-98-2	CID:10618	Chemical
+DED000201	Medroxyprogesterone	CAS:520-85-4	CID:10631	Chemical
+DED000202	m-Dichlorobenzene	CAS:541-73-1	CID:10943	Chemical
+DED000203	Cadmium acetate	CAS:543-90-8	CID:10986	Chemical
+DED000204	Glycidol	CAS:556-52-5	CID:11164	Chemical
+DED000205	Octamethylcyclotetrasiloxane	CAS:556-67-2	CID:11169	Chemical
+DED000206	Zinc acetate	CAS:557-34-6	CID:11192	Chemical
+DED000207	Formestane	CAS:566-48-3	CID:11273	Chemical
+DED000208	Congo red	CAS:573-58-0	CID:11313	Chemical
+DED000209	alpha-Naphthoflavone	CAS:604-59-1	CID:11790	Chemical
+DED000210	Methyl 2-benzoylbenzoate	CAS:606-28-0	CID:11816	Chemical
+DED000211	2-Methylresorcinol	CAS:608-25-3	CID:11843	Chemical
+DED000212	Pentachlorobenzene	CAS:608-93-5	CID:11855	Chemical
+DED000213	Methoxyacetic acid	CAS:625-45-6	CID:12251	Chemical
+DED000214	Dibromoacetic acid	CAS:631-64-1	CID:12433	Chemical
+DED000215	Dibutyldichlorotin	CAS:683-18-1	CID:12688	Chemical
+DED000216	Ametryn	CAS:834-12-8	CID:13263	Chemical
+DED000217	1-Methyl-2-pyrrolidinone	CAS:872-50-4	CID:13387	Chemical
+DED000218	2,3,6-Trichlorophenol	CAS:933-75-5	CID:13618	Chemical
+DED000219	2,3,5,6-Tetrachlorophenate	CAS:935-95-5	CID:13636	Chemical
+DED000220	Octylphenol	CAS:67554-50-1	CID:13700	Chemical
+DED000221	Testolactone	CAS:968-93-4	CID:13769	Chemical
+DED000222	Estradiol valerate	CAS:979-32-8	CID:13791	Chemical
+DED000223	4-Ethyl-1-phospha-2,6,7 trioxabicyclo(2.2.2)octane-1-oxide	CAS:1005-93-2	CID:13869	Chemical
+DED000224	Ethambutol	CAS:74-55-5	CID:14052	Chemical
+DED000225	p-Chlorostyrene	CAS:1073-67-2	CID:14085	Chemical
+DED000226	4-Cyclohexylphenol	CAS:1131-60-8	CID:14327	Chemical
+DED000227	4-Hydroxybenzophenone	CAS:1137-42-4	CID:14347	Chemical
+DED000228	Manganese oxide	CAS:1317-35-7	CID:14825	Chemical
+DED000229	4-Chloro-2-cresol	CAS:1570-64-5	CID:14855	Chemical
+DED000230	m-Chlorostyrene	CAS:2039-85-2	CID:14905	Chemical
+DED000231	o-Chlorostyrene	CAS:2039-87-4	CID:14906	Chemical
+DED000232	Pregnenolone carbonitrile	CAS:1434-54-4	CID:15032	Chemical
+DED000233	t-Butyl methyl ether	CAS:1634-04-4	CID:15413	Chemical
+DED000234	Malaoxon	CAS:1634-78-2	CID:15415	Chemical
+DED000235	4-Hydroxyazobenzene	CAS:1689-82-3	CID:15529	Chemical
+DED000236	Bromoxynil	CAS:1689-84-5	CID:15531	Chemical
+DED000237	2,4,2',4'-Tetranitrobiphenyl	CAS:1820-59-3	CID:15757	Chemical
+DED000238	Nitrofen	CAS:1836-75-5	CID:15787	Chemical
+DED000239	Nafoxidine hydrochloride	CAS:1847-63-8	CID:15805	Chemical
+DED000240	Paraquat dichloride	CAS:1910-42-5	CID:15938	Chemical
+DED000241	Paraquat	CAS:4685-14-7	CID:15939	Chemical
+DED000242	t-Butyl hydroquinone	CAS:1948-33-0	CID:16043	Chemical
+DED000243	Methiocarb	CAS:2032-65-7	CID:16248	Chemical
+DED000244	Ethyl p-nitrophenyl benzenethiophosphonate	CAS:2104-64-5	CID:16421	Chemical
+DED000245	Molinate	CAS:2212-67-1	CID:16653	Chemical
+DED000246	Tripropyltin chloride	CAS:2279-76-7	CID:16784	Chemical
+DED000247	Mirex	CAS:2385-85-5	CID:16945	Chemical
+DED000248	2,4,2',4'-Tetrachlorobiphenyl	CAS:2437-79-8	CID:17097	Chemical
+DED000249	4-Nitro-3-cresol	CAS:2581-34-2	CID:17412	Chemical
+DED000250	Bis(4-oxyphenyl)sulfide	CAS:2664-63-3	CID:17570	Chemical
+DED000251	Sunset Yellow	CAS:2783-94-0	CID:17730	Chemical
+DED000252	1,2,5,6,9,10-Hexabromocyclododecane	CAS:3194-55-6	CID:18529	Chemical
+DED000253	Basic Violet 2	CAS:3248-91-7	CID:14454445	Chemical
+DED000254	Dibromoacetonitrile	CAS:3252-43-5	CID:18617	Chemical
+DED000255	1,2-Dibromo-4-(1,2-dibromoethyl)cyclohexane	CAS:3322-93-8	CID:18728	Chemical
+DED000256	2-Chloro-4,6-diamino-s-triazine	CAS:3397-62-4	CID:18831	Chemical
+DED000257	Diquat dichloride	CAS:4032-26-2	CID:19943	Chemical
+DED000258	Isopropylparaben	CAS:4191-73-5	CID:20161	Chemical
+DED000259	Quadrosilan	CAS:4657-20-9	CID:20774	Chemical
+DED000260	2,3,4,5-Tetrachlorophenate	CAS:4901-51-3	CID:21013	Chemical
+DED000261	Chlorpyrifos-methyl	CAS:5598-13-0	CID:21803	Chemical
+DED000262	Terbuthylazine	CAS:5915-41-3	CID:22206	Chemical
+DED000263	Chlordimeform	CAS:6164-98-3	CID:22544	Chemical
+DED000264	Sodium silicate	CAS:1344-09-8	CID:23266	Chemical
+DED000265	Manganese	CAS:7439-96-5	CID:23930	Chemical
+DED000266	Palladium	CAS:7440-05-3	CID:23938	Chemical
+DED000267	Cadmium	CAS:7440-43-9	CID:23973	Chemical
+DED000268	Chromium	CAS:7440-47-3	CID:23976	Chemical
+DED000269	Uranium	CAS:7440-61-1	CID:23989	Chemical
+DED000270	Mercuric chloride	CAS:7487-94-7	CID:24085	Chemical
+DED000271	Ammonium perchlorate	CAS:7790-98-9	CID:24639	Chemical
+DED000272	Carmellose	CAS:9000-11-7	CID:24748	Chemical
+DED000273	Chlorine dioxide	CAS:10049-04-4	CID:24870	Chemical
+DED000274	Cadmium nitrate	CAS:10325-94-7	CID:25154	Chemical
+DED000275	Titanium dioxide	CAS:13463-67-7	CID:26042	Chemical
+DED000276	Quinalphos	CAS:13593-03-8	CID:26124	Chemical
+DED000277	Tri-(2-chloroisopropyl)phosphate	CAS:13674-84-5	CID:26176	Chemical
+DED000278	Tris(1,3-dichloro-2-propyl)phosphate	CAS:13674-87-8	CID:26177	Chemical
+DED000279	4-Chlorophenoxyacetic acid	CAS:122-88-3	CID:26229	Chemical
+DED000280	4-Pentylphenol	CAS:14938-35-3	CID:26975	Chemical
+DED000281	Chlorotoluron	CAS:15545-48-9	CID:27375	Chemical
+DED000282	2,3,4-Trichlorophenol	CAS:15950-66-0	CID:27582	Chemical
+DED000283	Chromium, ion (Cr3 )	CAS:16065-83-1	CID:27668	Chemical
+DED000284	Tetradecanoylphorbol acetate	CAS:16561-29-8	CID:27924	Chemical
+DED000285	Ornidazole	CAS:16773-42-5	CID:28061	Chemical
+DED000286	Benomyl	CAS:17804-35-2	CID:28780	Chemical
+DED000287	Chromium hexavalent ion	CAS:18540-29-9	CID:29131	Chemical
+DED000288	Metribuzin	CAS:21087-64-9	CID:30479	Chemical
+DED000289	Padimate-O	CAS:21245-02-3	CID:30541	Chemical
+DED000290	Cyanazine	CAS:21725-46-2	CID:30773	Chemical
+DED000291	Fenitrothion	CAS:122-14-5	CID:31200	Chemical
+DED000292	Tris(2,3-dibromo-1-propyl) phosphate	CAS:126-72-7	CID:31356	Chemical
+DED000293	Tributyl phosphate	CAS:126-73-8	CID:31357	Chemical
+DED000294	8-Bromo cyclic adenosine monophosphate	CAS:23583-48-4	CID:32014	Chemical
+DED000295	2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol	CAS:25973-55-1	CID:33263	Chemical
+DED000296	Diisodecyl phthalate	CAS:26761-40-0	CID:33599	Chemical
+DED000297	Tramadol	CAS:27203-92-5	CID:33741	Chemical
+DED000298	2,6-Dichlorostyrene	CAS:28469-92-3	CID:34254	Chemical
+DED000299	Octachlorostyrene	CAS:29082-74-4	CID:34466	Chemical
+DED000300	5,7-Dihydroxytryptamine	CAS:31363-74-3	CID:35781	Chemical
+DED000301	2,3',4,4',5-Pentachlorobiphenyl	CAS:31508-00-6	CID:35823	Chemical
+DED000302	2,2',4,4',5-Pentabromodiphenyl ether	CAS:60348-60-9	CID:36159	Chemical
+DED000303	3,4,3',4'-Tetrachlorobiphenyl	CAS:32598-13-3	CID:36187	Chemical
+DED000304	3,4,5,3',4',5'-Hexachlorobiphenyl	CAS:32774-16-6	CID:36231	Chemical
+DED000305	Procymidone	CAS:32809-16-8	CID:36242	Chemical
+DED000306	Amitraz	CAS:33089-61-1	CID:36324	Chemical
+DED000307	3,5,3',5'-Tetrachlorobiphenyl	CAS:33284-52-5	CID:36400	Chemical
+DED000308	2,5,2',5'-Tetrachlorobiphenyl	CAS:35693-99-3	CID:37248	Chemical
+DED000309	Iprodione	CAS:36734-19-7	CID:37517	Chemical
+DED000310	Ribavirin	CAS:36791-04-5	CID:37542	Chemical
+DED000311	2,2',3,5',6-Pentachlorobiphenyl	CAS:38379-99-6	CID:38012	Chemical
+DED000312	2,3,3',4',6-Pentachlorobiphenyl	CAS:38380-03-9	CID:38015	Chemical
+DED000313	2,2',3,4',5',6-Hexachlorobiphenyl	CAS:38380-04-0	CID:38016	Chemical
+DED000314	2,3,3',4,4',5-Hexachlorobiphenyl	CAS:38380-08-4	CID:38019	Chemical
+DED000315	2,3,6,2',3',6'-Hexachlorobiphenyl	CAS:38411-22-2	CID:38024	Chemical
+DED000316	3,3',5-Trichlorobiphenyl	CAS:38444-87-0	CID:38037	Chemical
+DED000317	Glyphosate-isopropylammonium	CAS:38641-94-0	CID:38078	Chemical
+DED000318	1,2,3,4,7,8-Hexachlorodibenzodioxin	CAS:39227-28-6	CID:38251	Chemical
+DED000319	1,2,4-Trichlorodibenzo-1,4-dioxin	CAS:39227-58-2	CID:38253	Chemical
+DED000320	1,2,3,7,8-Pentachlorodibenzo-p-dioxin	CAS:40321-76-4	CID:38439	Chemical
+DED000321	Pendimethalin	CAS:40487-42-1	CID:38479	Chemical
+DED000322	Profenofos	CAS:41198-08-7	CID:38779	Chemical
+DED000323	2,2',3,5'-Tetrachlorobiphenyl	CAS:41464-39-5	CID:38875	Chemical
+DED000324	2,2',4,5'-Tetrachlorobiphenyl	CAS:41464-40-8	CID:38876	Chemical
+DED000325	Triadimefon	CAS:43121-43-3	CID:39385	Chemical
+DED000326	Isoprothiolane	CAS:50512-35-1	CID:39681	Chemical
+DED000327	Dibenzo(b,e)(1,4)dioxin, 2,3-dibromo-7,8-dichloro-	CAS:50585-40-5	CID:39728	Chemical
+DED000328	2,3,7,8-Tetrabromodibenzo-4-dioxin	CAS:50585-41-6	CID:39729	Chemical
+DED000329	Deoxynivalenol	CAS:51481-10-8	CID:40024	Chemical
+DED000330	Permethrin	CAS:52645-53-1	CID:40326	Chemical
+DED000331	Permethrin, cis-	CAS:61949-76-6	CID:40463	Chemical
+DED000332	Deltamethrin	CAS:52918-63-5	CID:40585	Chemical
+DED000333	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	CAS:55097-80-8	CID:41322	Chemical
+DED000334	Triadimenol	CAS:55219-65-3	CID:41368	Chemical
+DED000335	Tetrakis(hydroxymethyl)phosphonium sulfate	CAS:55566-30-8	CID:41478	Chemical
+DED000336	2-Hydroxybenzo(a)pyrene	CAS:56892-30-9	CID:42027	Chemical
+DED000337	2,3,4,7,8-Pentachlorodibenzofuran	CAS:57117-31-4	CID:42128	Chemical
+DED000338	1,2,7,8-Tetrachlorodibenzofuran	CAS:58802-20-3	CID:42844	Chemical
+DED000339	Octyl dimethyl 4-aminobenzoic acid	CAS:58817-05-3	CID:42851	Chemical
+DED000340	2,4,5,2',4',5'-Hexabromobiphenyl	CAS:59080-40-9	CID:42948	Chemical
+DED000341	Fenarimol	CAS:60168-88-9	CID:43226	Chemical
+DED000342	Propiconazole	CAS:60207-90-1	CID:43234	Chemical
+DED000343	Paroxetine	CAS:61869-08-7	CID:43815	Chemical
+DED000344	Flutolanil	CAS:66332-96-5	CID:47898	Chemical
+DED000345	Colforsin	CAS:66575-29-9	CID:47936	Chemical
+DED000346	Dibenzofuran, 2,3,7,8-tetrabromo-	CAS:67733-57-7	CID:49973	Chemical
+DED000347	2,2',4,4',5,5'-Hexachlorodiphenyl ether	CAS:71859-30-8	CID:51439	Chemical
+DED000348	Lovastatin	CAS:75330-75-5	CID:53232	Chemical
+DED000349	Simvastatin	CAS:79902-63-9	CID:54454	Chemical
+DED000350	Mifepristone	CAS:84371-65-3	CID:55245	Chemical
+DED000351	Fadrozole	CAS:102676-47-1	CID:59693	Chemical
+DED000352	Clomiphene citrate	CAS:50-41-9	CID:60974	Chemical
+DED000353	tert-Amyl methyl ether	CAS:994-05-8	CID:61247	Chemical
+DED000354	Uranyl nitrate hexahydrate	CAS:13520-83-7	CID:61640	Chemical
+DED000355	2,2',3,4'-Tetrachlorobiphenyl	CAS:53469-21-9	CID:63103	Chemical
+DED000356	2,4,4',6-Tetrachlorobiphenyl	CAS:32598-12-2	CID:63107	Chemical
+DED000357	4-Dodecylphenol	CAS:104-43-8	CID:66030	Chemical
+DED000358	Egmol	CAS:81-92-5	CID:66495	Chemical
+DED000359	2,3,5,6-Tetrachlorohydroquinone	CAS:87-87-6	CID:66603	Chemical
+DED000360	4-(Diethylamino)benzaldehyde	CAS:120-21-8	CID:67114	Chemical
+DED000361	Perfluorododecanoic acid	CAS:307-55-1	CID:67545	Chemical
+DED000362	Perfluorohexanesulfonic acid	CAS:355-46-4	CID:67734	Chemical
+DED000363	1-Perfluorobutanesulfonic acid	CAS:375-73-5	CID:67815	Chemical
+DED000364	Artemether	CAS:71963-77-4	CID:68911	Chemical
+DED000365	4,4'-Dihydoxy-benzophenone	CAS:611-99-4	CID:69150	Chemical
+DED000366	Hydroxycyclohexyl phenyl ketone	CAS:947-19-3	CID:70355	Chemical
+DED000367	6-Hydroxyflavone	CAS:6665-83-4	CID:72279	Chemical
+DED000368	Prochloraz	CAS:67747-09-5	CID:73665	Chemical
+DED000369	2,4,4'-Trihydroxybenzophenone	CAS:1470-79-7	CID:73852	Chemical
+DED000370	N,N-Diphenyl-p-phenylenediamine	CAS:2350-01-8	CID:75371	Chemical
+DED000371	2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane	CAS:2971-36-0	CID:76302	Chemical
+DED000372	4,4'-Diiodobiphenyl	CAS:3001-15-8	CID:76348	Chemical
+DED000373	2,2-di(4-Methacryloxyphenyl)propane	CAS:3253-39-2	CID:76739	Chemical
+DED000374	1,3,5-Tribromo-2-(prop-2-en-1-yloxy)benzene	CAS:3278-89-5	CID:76767	Chemical
+DED000375	Perfluoro-n-undecanoic acid	CAS:2058-94-8	CID:77222	Chemical
+DED000376	2-(Propan-2-yl)-9H-thioxanthen-9-one	CAS:5495-84-1	CID:79633	Chemical
+DED000377	4,4'-(4-Methylpentane-2,2-diyl)diphenol	CAS:6807-17-6	CID:81259	Chemical
+DED000378	Tetramethrin	CAS:7696-12-0	CID:83975	Chemical
+DED000379	Cisplatin	CAS:15663-27-1	CID:5460033	Chemical
+DED000380	Cyproconazole	CAS:94361-06-5	CID:86132	Chemical
+DED000381	Fenbuconazole	CAS:114369-43-6	CID:86138	Chemical
+DED000382	2,3',4',6-Tetrachlorodiphenyl ether	CAS:130892-66-9	CID:86393	Chemical
+DED000383	Fludioxonil	CAS:131341-86-1	CID:86398	Chemical
+DED000384	Flufenacet	CAS:142459-58-3	CID:86429	Chemical
+DED000385	Penfenate	CAS:21757-82-4	CID:89040	Chemical
+DED000386	7-acetyl-1,1,3,4,4,6-hexamethyl-1,2,3,4-tetrahydronaphthalene	CAS:1506-02-1	CID:89440	Chemical
+DED000387	BAY 93820	CAS:24353-61-5	CID:90479	Chemical
+DED000388	2,2-Dimethoxy-2-phenylacetophenone	CAS:24650-42-8	CID:90571	Chemical
+DED000389	Equol	CAS:531-95-3	CID:91469	Chemical
+DED000390	Galaxolide	CAS:1222-05-5	CID:91497	Chemical
+DED000391	Photomirex	CAS:39801-14-4	CID:91632	Chemical
+DED000392	Bitertanol	CAS:55179-31-2	CID:91656	Chemical
+DED000393	2,2',4,6,6'-Pentachlorobiphenyl	CAS:56558-16-8	CID:91662	Chemical
+DED000394	Penconazole	CAS:66246-88-6	CID:91693	Chemical
+DED000395	Triflumizol	CAS:68694-11-1	CID:91699	Chemical
+DED000396	2-Methyl-4'-(methylthio)-2-morpholinopropiophenone	CAS:71868-10-5	CID:92387	Chemical
+DED000397	2,2',4,5,6'-Pentachlorodiphenyl ether	CAS:130892-67-0	CID:93547	Chemical
+DED000398	2,3-Bis(4-hydroxyphenyl)-propionitrile	CAS:1428-67-7	CID:102614	Chemical
+DED000399	4,4'-(Octahydro-4,7-methano-5H-inden-5-ylidene)bisphenol	CAS:1943-97-1	CID:102724	Chemical
+DED000400	3,3',4,4',5,5'-Hexabromobiphenyl	CAS:60044-26-0	CID:104942	Chemical
+DED000401	4-Hydroxy-2',4',6'-trichlorobiphenyl	CAS:14962-28-8	CID:105036	Chemical
+DED000402	Iron dextran	CAS:10124-49-9	CID:105075	Chemical
+DED000403	1,2,3,4,6,7-Hexachloronaphthalene	CAS:103426-96-6	CID:107698	Chemical
+DED000404	1,1'-Biphenyl, 2,2',4',5,5'-pentachloro-3-(methylsulfonyl)-	CAS:66640-60-6	CID:107862	Chemical
+DED000405	Dityrosine	CAS:980-21-2	CID:107904	Chemical
+DED000406	3,3',4,4'-Tetrabromobiphenyl	CAS:77102-82-0	CID:107953	Chemical
+DED000407	2,3',4,4'5,5'-Hexabromobiphenyl	CAS:67888-99-7	CID:108023	Chemical
+DED000408	1,1'-Biphenyl, 2,2',3,4,5'-pentachloro-3'-(methylsulfonyl)-	CAS:66640-58-2	CID:108132	Chemical
+DED000409	1,1'-Biphenyl, 2,2',4,5,5'-pentachloro-4'-(methylsulfonyl)-	CAS:66640-61-7	CID:108178	Chemical
+DED000410	1,1'-Biphenyl, 2,2',3,4,5'-pentachloro-4'-(methylsulfonyl)-	CAS:66640-59-3	CID:108210	Chemical
+DED000411	Tadalafil	CAS:171596-29-5	CID:110635	Chemical
+DED000412	1,2-Diphenylcyclobutane, cis-	CAS:7694-30-6	CID:111326	Chemical
+DED000413	Dibenzo(b,e)(1,4)dioxin, 2-bromo-3,7,8-trichloro-	CAS:109333-33-7	CID:114896	Chemical
+DED000414	6-methyl-1,3,8-trichlorodibenzofuran	CAS:118174-38-2	CID:114900	Chemical
+DED000415	1,1'-Biphenyl, 2,2',3,4,5,5'-hexachloro-3'-(methylsulfonyl)-	CAS:104086-18-2	CID:115218	Chemical
+DED000416	Thiacloprid	CAS:111988-49-9	CID:115224	Chemical
+DED000417	Bis(2-ethylhexyl) 2,3,4,5-tetrabromophthalate	CAS:26040-51-7	CID:117291	Chemical
+DED000418	4-Fluoro-4'-hydroxybenzophenone	CAS:25913-05-7	CID:117666	Chemical
+DED000419	1-Chloro-4-(2,2-dichloro-1-(4-chlorophenyl)ethenyl)-3-(methylsulfonyl)benzene	CAS:62938-14-1	CID:119115	Chemical
+DED000420	1,1'-Biphenyl, 2,2',3,4',5',6-hexachloro-4-(methylsulfonyl)-	CAS:116806-76-9	CID:119354	Chemical
+DED000421	1,1'-Biphenyl, 2,2',3,3',4',6-hexachloro-5-(methylsulfonyl)-	CAS:149949-90-6	CID:119383	Chemical
+DED000422	1,1'-Biphenyl, 2,2',4',5-tetrachloro-3-(methylsulfonyl)-	CAS:116807-52-4	CID:119587	Chemical
+DED000423	2,4-Diethyl-9H-thioxanthen-9-one	CAS:82799-44-8	CID:122825	Chemical
+DED000424	Perchlorate	CAS:14797-73-0	CID:123351	Chemical
+DED000425	Escitalopram	CAS:128196-01-0	CID:146570	Chemical
+DED000426	3-Methylsulfonyl-2,3',4',5-tetrachlorobiphenyl	CAS:116807-53-5	CID:146640	Chemical
+DED000427	1,1'-Biphenyl, 2,2',3,4',5',6-hexachloro-5-(methylsulfonyl)-	CAS:149949-88-2	CID:153962	Chemical
+DED000428	4-Isopropyl-9H-thioxanthen-9-one	CAS:83846-86-0	CID:158403	Chemical
+DED000429	Firemaster Bp-6	CAS:59536-65-1	CID:158629	Chemical
+DED000430	Enniatin B	CAS:917-13-5	CID:164754	Chemical
+DED000431	2,4,6-Triphenyl-1-hexene	CAS:18964-53-9	CID:177033	Chemical
+DED000432	Oxanthrene, 2,3,7-tribromo-8-chloro-	CAS:131167-12-9	CID:183016	Chemical
+DED000433	Fenhexamid	CAS:126833-17-8	CID:213031	Chemical
+DED000434	Dibenzyl phthalate	CAS:523-31-9	CID:220773	Chemical
+DED000435	Beta-Sitosterol	CAS:83-46-5	CID:222284	Chemical
+DED000436	Lilial	CAS:80-54-6	CID:228987	Chemical
+DED000437	2,2-(2-Chlorophenyl-4'-chlorophenyl)-1,1-dichloroethene	CAS:3424-82-6	CID:246598	Chemical
+DED000438	Sodium bromide	CAS:7647-15-6	CID:253881	Chemical
+DED000439	Cyclooctane, 1,2,5,6-tetrabromo-	CAS:3194-57-8	CID:296646	Chemical
+DED000440	Tributyltin bromide	CAS:1461-23-0	CID:305767	Chemical
+DED000441	4-Nonylphenol, branched	CAS:84852-15-3	CID:338733	Chemical
+DED000442	Methylmercuric chloride	CAS:115-09-3	CID:409301	Chemical
+DED000443	Naringenin	CAS:480-41-1	CID:439246	Chemical
+DED000444	Ochratoxin A	CAS:303-47-9	CID:442530	Chemical
+DED000445	Pulmatin	CAS:13241-28-6	CID:442731	Chemical
+DED000446	Gingerol	CAS:23513-14-6	CID:442793	Chemical
+DED000447	Ethylketocyclazocine	CAS:36292-66-7	CID:443409	Chemical
+DED000448	Resveratrol	CAS:501-36-0	CID:445154	Chemical
+DED000449	2-Butenal	CAS:4170-30-3	CID:447466	Chemical
+DED000450	Hydroxytamoxifen	CAS:68047-06-3	CID:449459	Chemical
+DED000451	Potassium perchlorate	CAS:7778-74-7	CID:516900	Chemical
+DED000452	Di-(5-methylhexyl)phthalate	CAS:41451-28-9	CID:591200	Chemical
+DED000453	3-(dibutylamino) phenol	CAS:43141-69-1	CID:601234	Chemical
+DED000454	Cinnamaldehyde	CAS:104-55-2	CID:637511	Chemical
+DED000455	Etorphine	CAS:14521-96-1	CID:644209	Chemical
+DED000456	3,3-dibromobisphenol A	CAS:29426-78-6	CID:656687	Chemical
+DED000457	3-monobromobisphenol A	CAS:6073-11-6	CID:656688	Chemical
+DED000458	2,2-bis(4-hydroxyphenyl)-propanol	CAS:142648-65-5	CID:656692	Chemical
+DED000459	Etomidate	CAS:33125-97-2	CID:667484	Chemical
+DED000460	2-Benzimidazolethiol	CAS:583-39-1	CID:707035	Chemical
+DED000461	Dieldrin	CAS:60-57-1	CID:969491	Chemical
+DED000462	3,3-bis(4-hydroxyphenyl)pentane	CAS:3600-64-4	CID:2288503	Chemical
+DED000463	Ethylene thiourea	CAS:96-45-7	CID:2723650	Chemical
+DED000464	Tamoxifen citrate	CAS:54965-24-1	CID:2733525	Chemical
+DED000465	Tamoxifen	CAS:10540-29-1	CID:2733526	Chemical
+DED000466	FC-143 surfactant	CAS:3825-26-1	CID:2776282	Chemical
+DED000467	Zeranol	CAS:26538-44-3	CID:2999413	Chemical
+DED000468	Tetrahydrofurandiol	CAS:50976-18-6	CID:3016578	Chemical
+DED000469	Bis(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluoro-1-dodecanol) hydrogen phosphate	CAS:1895-26-7	CID:3022255	Chemical
+DED000470	Maneb	CAS:12427-38-2	CID:3032581	Chemical
+DED000471	Tributylstannane	CAS:688-73-3	CID:5948	Chemical
+DED000472	Thiophanate-methyl	CAS:23564-05-8	CID:3032791	Chemical
+DED000473	4-(alpha-(4-Hydroxy-1-naphthyl)benzylidene)naphthalen-1(4H)-one	CAS:145-50-6	CID:3033966	Chemical
+DED000474	Mancozeb	CAS:8018-01-7	CID:3034368	Chemical
+DED000475	N,N'-Methylene-bis(2-amino-5-sulfhydryl-1,3,4-thiadiazole)	CAS:79319-85-0	CID:3035829	Chemical
+DED000476	Aluminum sulfate	CAS:10043-01-3	CID:24850	Chemical
+DED000477	3,5-Dibromo-2-(2,4-dibromophenoxy)phenol	CAS:79755-43-4	CID:3086109	Chemical
+DED000478	Phenol, 4,4'-(1,3-phenylenebis(1-methylethylidene))bis-	CAS:13595-25-0	CID:3292100	Chemical
+DED000479	Epoxiconazole	CAS:133855-98-8	CID:107901	Chemical
+DED000480	4,4'-Propane-1,1-diyldiphenol	CAS:1576-13-2	CID:4201081	Chemical
+DED000481	1,3,5-Tris(4-hydroxyphenyl)-4-propyl-1H-pyrazole	CAS:263717-53-9	CID:5040063	Chemical
+DED000482	Quercetin	CAS:117-39-5	CID:5280343	Chemical
+DED000483	Biochanin A	CAS:491-80-5	CID:5280373	Chemical
+DED000484	Formononetin	CAS:485-72-3	CID:5280378	Chemical
+DED000485	Luteolin	CAS:491-70-3	CID:5280445	Chemical
+DED000486	Budesonide	CAS:51333-22-3	CID:5281004	Chemical
+DED000487	Genistin	CAS:529-59-9	CID:5281377	Chemical
+DED000488	3-Methylquercetin	CAS:480-19-3	CID:5281654	Chemical
+DED000489	Myricetin	CAS:529-44-2	CID:5281672	Chemical
+DED000490	Coumestrol	CAS:479-13-0	CID:5281707	Chemical
+DED000491	Rosmarinic acid	CAS:20283-92-5	CID:5281792	Chemical
+DED000492	9,10-dihydroxy-12-octadecenoic acid		CID:5282958	Chemical
+DED000493	Cyclosporin A	CAS:59865-13-3	CID:5284373	Chemical
+DED000494	Amsonic acid	CAS:81-11-8	CID:6668	Chemical
+DED000495	Meptyldinocap	CAS:131-72-6	CID:5284389	Chemical
+DED000496	Polysorbate 80	CAS:9005-65-6	CID:5284448	Chemical
+DED000497	Toxaphene	CAS:8001-35-2	CID:5284469	Chemical
+DED000498	Zineb	CAS:12122-67-7	CID:5284484	Chemical
+DED000499	Cyproterone	CAS:2098-66-0	CID:5284537	Chemical
+DED000500	Levetiracetam	CAS:102767-28-2	CID:5284583	Chemical
+DED000501	Naloxone	CAS:465-65-6	CID:5284596	Chemical
+DED000502	Morphine	CAS:57-27-2	CID:5288826	Chemical
+DED000503	Fluvoxamine	CAS:54739-18-3	CID:5324346	Chemical
+DED000504	Lead	CAS:7439-92-1	CID:5352425	Chemical
+DED000505	Alternariol	CAS:641-38-3	CID:5359485	Chemical
+DED000506	Naltrexone	CAS:16590-41-3	CID:5360515	Chemical
+DED000507	Sodium methyldithiocarbamate	CAS:137-42-8	CID:5366415	Chemical
+DED000508	Carbon	CAS:7440-44-0	CID:5462310	Chemical
+DED000509	Boron	CAS:7440-42-8	CID:5462311	Chemical
+DED000510	Thiamethoxam	CAS:153719-23-4	CID:5821911	Chemical
+DED000511	Cyhexatin	CAS:13121-70-5	CID:9864905	Chemical
+DED000512	Alpha-Endosulfan	CAS:959-98-8	CID:6433227	Chemical
+DED000513	Abamectin	CAS:71751-41-2	CID:9920327	Chemical
+DED000514	beta-Zearalenol	CAS:71030-11-0	CID:6437352	Chemical
+DED000515	Benflumetol	CAS:82186-77-4	CID:6437380	Chemical
+DED000516	lambda-Cyhalothrin	CAS:91465-08-6	CID:6440554	Chemical
+DED000517	Kappa-Bifenthrin	CAS:439680-76-9	CID:6442842	Chemical
+DED000518	Dimethylbenzene	CAS:1330-20-7	CID:6850715	Chemical
+DED000519	1H-Benzimidazole, 5-methoxy-2-((S)-((4-methoxy-3,5-dimethyl-2- pyridinyl)methyl)sulfinyl)-	CAS:119141-88-7	CID:9568614	Chemical
+DED000520	Omeprazole, (R)-	CAS:119141-89-8	CID:9579578	Chemical
+DED000521	Medrogestone	CAS:977-79-7	CID:9949848	Chemical
+DED000522	Leukotoxin diol		CID:9966640	Chemical
+DED000523	3'-Methoxy-4'-nitroflavone	CAS:145370-39-4	CID:10017512	Chemical
+DED000524	2-(Perfluorooctyl)ethyl dihydrogen phosphate	CAS:57678-03-2	CID:10143739	Chemical
+DED000525	Manganese chloride	CAS:7773-01-5	CID:24480	Chemical
+DED000526	Esfenvalerate	CAS:66230-04-4	CID:10342051	Chemical
+DED000527	1,2,3-Tribromo-5-(2,4-dibromophenoxy)-4-methoxybenzene		CID:10908094	Chemical
+DED000528	Flumorph	CAS:211867-47-9	CID:20056423	Chemical
+DED000529	S-Metolachlor	CAS:87392-12-9	CID:11140605	Chemical
+DED000530	Crizotinib	CAS:877399-52-5	CID:11626560	Chemical
+DED000531	4,4-bis(4-hydroxyphenyl)heptane	CAS:7425-79-8	CID:11954121	Chemical
+DED000532	1,2-Diphenylcyclobutane, trans-	CAS:20071-09-4	CID:11954175	Chemical
+DED000533	Lipopolysaccharide		CID:11970143	Chemical
+DED000534	2-OH-BDE-123	CAS:80246-24-8	CID:11978695	Chemical
+DED000535	Endosulfan II	CAS:33213-65-9	CID:12309460	Chemical
+DED000536	Aldrin	CAS:309-00-2	CID:12310947	Chemical
+DED000537	FD&C Red 3	CAS:16423-68-0	CID:12961638	Chemical
+DED000538	2-Bromoallyl 2,4,6-tribromophenyl ether	CAS:99717-56-3	CID:13643667	Chemical
+DED000539	2,3',4',6-Tetrabromodiphenyl ether	CAS:189084-62-6	CID:15509894	Chemical
+DED000540	Hexabromocyclododecane	CAS:25637-99-4	CID:33121	Chemical
+DED000541	Detirelix	CAS:89662-30-6	CID:16129698	Chemical
+DED000542	Bis(tributyltin) oxide	CAS:56-35-9	CID:16682746	Chemical
+DED000543	Phentin acetate	CAS:900-95-8	CID:16682804	Chemical
+DED000544	Fenbutatin oxide	CAS:13356-08-6	CID:16683004	Chemical
+DED000545	Thimerosal	CAS:54-64-8	CID:16684434	Chemical
+DED000546	6-MeO-BDE-47	CAS:102739-99-1	CID:23249466	Chemical
+DED000547	Sodium nitrite	CAS:7632-00-0	CID:23668193	Chemical
+DED000548	Sodium bromate	CAS:7789-38-0	CID:23668195	Chemical
+DED000549	Sodium chlorite	CAS:7758-19-2	CID:23668197	Chemical
+DED000550	Potassium perfluorooctanesulfonate	CAS:2795-39-3	CID:23669238	Chemical
+DED000551	Monosodium glutamate	CAS:142-47-2	CID:23672308	Chemical
+DED000552	Sodium thioglycolate	CAS:367-51-1	CID:23690444	Chemical
+DED000553	Cylindrospermopsin	CAS:143545-90-8	CID:42628600	Chemical
+DED000554	4-Nitro-3-phenylphenol	CAS:21419-75-0	CID:44251561	Chemical
+DED000555	Ascorbic acid	CAS:50-81-7	CID:54670067	Chemical
+DED000556	Chlortetracycline	CAS:57-62-5	CID:54675777	Chemical
+DED000557	Oxytetracycline	CAS:79-57-2	CID:54675779	Chemical
+DED000558	2-Ethylhexyltetrabromobenzoate	CAS:183658-27-7	CID:71316600	Chemical
+DED000559	3,3',4,5'-Tetrabromodiphenyl ether	CAS:446254-48-4	CID:86208519	Chemical
+DED000560	Humic acid		CID:90472028	Chemical
+DED000561	Saisentong		CID:102196968	Chemical
+DED000562	2-Hydroxyatrazine	CAS:2163-68-0	CID:135398733	Chemical
+DED000563	Rifampin	CAS:13292-46-1	CID:135398735	Chemical
+DED000564	Sildenafil	CAS:139755-83-2	CID:135398744	Chemical
+DED000565	5-Nitro-1,2,4-triazol-3-one	CAS:932-64-9	CID:135406868	Chemical
+DED000566	Monophenyltin	CAS:2406-68-0	CID:6335496	Chemical
+DED000567	Thiodiazole copper	CAS:3234-61-5	CID:102196960	Chemical
+DED000568	Chlordecone	CAS:143-50-0	CID:299	Chemical
+DED000569	beta-Hexachlorocyclohexane	CAS:319-85-7	CID:727	Chemical
+DED000570	Pentachlorophenol	CAS:87-86-5	CID:992	Chemical
+DED000571	Methylcholanthrene	CAS:56-49-5	CID:1674	Chemical
+DED000572	4-Nonylphenol	CAS:104-40-5	CID:1752	Chemical
+DED000573	Acetaminophen	CAS:103-90-2	CID:1983	Chemical
+DED000574	Acetochlor	CAS:34256-82-1	CID:1988	Chemical
+DED000575	Atrazine	CAS:1912-24-9	CID:2256	Chemical
+DED000576	Benzo(a)pyrene	CAS:50-32-8	CID:2336	Chemical
+DED000577	Butyl benzyl phthalate	CAS:85-68-7	CID:2347	Chemical
+DED000578	Chlorpyrifos	CAS:2921-88-2	CID:2730	Chemical
+DED000579	Cypermethrin	CAS:52315-07-8	CID:2912	Chemical
+DED000580	Diazinon	CAS:333-41-5	CID:3017	Chemical
+DED000581	Dibutyl phthalate	CAS:84-74-2	CID:3026	Chemical
+DED000582	Dichlorodiphenyl dichloroethylene	CAS:72-55-9	CID:3035	Chemical
+DED000583	Chlorophenothane	CAS:50-29-3	CID:3036	Chemical
+DED000584	Fipronil	CAS:120068-37-3	CID:3352	Chemical
+DED000585	Flutamide	CAS:13311-84-7	CID:3397	Chemical
+DED000586	Glyphosate	CAS:1071-83-6	CID:3496	Chemical
+DED000587	Ibuprofen	CAS:15687-27-1	CID:3672	Chemical
+DED000588	Methoxychlor	CAS:72-43-5	CID:4115	Chemical
+DED000589	Miconazole	CAS:22916-47-8	CID:4189	Chemical
+DED000590	Benzophenone-3	CAS:131-57-7	CID:4632	Chemical
+DED000591	Sodium fluoride	CAS:7681-49-4	CID:5235	Chemical
+DED000592	5-Chloro-2-(2,4-dichlorophenoxy)phenol	CAS:3380-34-5	CID:5564	Chemical
+DED000593	Dexamethasone	CAS:50-02-2	CID:5743	Chemical
+DED000594	Ethinylestradiol	CAS:57-63-6	CID:5991	Chemical
+DED000595	Trichloroethylene	CAS:79-01-6	CID:6575	Chemical
+DED000596	2,2',6,6'-Tetrachlorobisphenol A	CAS:79-95-8	CID:6619	Chemical
+DED000597	Bisphenol A	CAS:80-05-7	CID:6623	Chemical
+DED000598	Bis(4-hydroxyphenyl)sulfone	CAS:80-09-1	CID:6626	Chemical
+DED000599	Diethyl phthalate	CAS:84-66-2	CID:6781	Chemical
+DED000600	2,4,6-Trichlorophenol	CAS:88-06-2	CID:6914	Chemical
+DED000601	4-Phenylphenol	CAS:92-69-3	CID:7103	Chemical
+DED000602	Butyl p-hydroxybenzoate	CAS:94-26-8	CID:7184	Chemical
+DED000603	1,2-Dibromo-3-chloropropane	CAS:96-12-8	CID:7280	Chemical
+DED000604	Triclocarban	CAS:101-20-2	CID:7547	Chemical
+DED000605	4,4'-Diaminodiphenylmethane	CAS:101-77-9	CID:7577	Chemical
+DED000606	Triphenyl phosphate	CAS:115-86-6	CID:8289	Chemical
+DED000607	Tris(2-chloroethyl) phosphate	CAS:115-96-8	CID:8295	Chemical
+DED000608	Bis(2-ethylhexyl) phthalate	CAS:117-81-7	CID:8343	Chemical
+DED000609	Homosalate	CAS:118-56-9	CID:8362	Chemical
+DED000610	Hexachlorobenzene	CAS:118-74-1	CID:8370	Chemical
+DED000611	Benzophenone-2	CAS:131-55-5	CID:8571	Chemical
+DED000612	2,4-Dihydroxybenzophenone	CAS:131-56-6	CID:8572	Chemical
+DED000613	Monobutyl phthalate	CAS:131-70-4	CID:8575	Chemical
+DED000614	Ziram	CAS:137-30-4	CID:8722	Chemical
+DED000615	4-tert-Octylphenol	CAS:140-66-9	CID:8814	Chemical
+DED000616	Perfluorooctanoic acid	CAS:335-67-1	CID:9554	Chemical
+DED000617	4,4'-Bisphenol F	CAS:620-92-8	CID:12111	Chemical
+DED000618	Triphenyltin chloride	CAS:639-58-7	CID:12540	Chemical
+DED000619	Tolylfluanid	CAS:731-27-1	CID:12898	Chemical
+DED000620	o,p'-DDT	CAS:789-02-6	CID:13089	Chemical
+DED000621	Decabromobiphenyl ether	CAS:1163-19-5	CID:14410	Chemical
+DED000622	Arsenic trioxide	CAS:1327-53-3	CID:14888	Chemical
+DED000623	Tributylchlorostannane	CAS:1461-22-9	CID:15096	Chemical
+DED000624	Tetrachlorodibenzodioxin	CAS:1746-01-6	CID:15625	Chemical
+DED000625	4-Octylphenol	CAS:1806-26-4	CID:15730	Chemical
+DED000626	Isobutyl p-hydroxybenzoate	CAS:4247-02-3	CID:20240	Chemical
+DED000627	Mono-(2-ethylhexyl)phthalate	CAS:4376-20-9	CID:20393	Chemical
+DED000628	2-Ethylhexyl methoxycinnamate	CAS:5466-77-3	CID:5355130	Chemical
+DED000629	2,4,4'-Trichlorobiphenyl	CAS:7012-37-5	CID:23448	Chemical
+DED000630	Nickel sulfate	CAS:7786-81-4	CID:24586	Chemical
+DED000631	Butylated hydroxyanisole	CAS:25013-16-5	CID:8456	Chemical
+DED000632	Cadmium chloride	CAS:10108-64-2	CID:24947	Chemical
+DED000633	Trenbolone	CAS:10161-33-8	CID:25015	Chemical
+DED000634	Carbendazim	CAS:10605-21-7	CID:25429	Chemical
+DED000635	Ammonium chloride	CAS:12125-02-9	CID:25517	Chemical
+DED000636	Tetrachloroethylene	CAS:127-18-4	CID:31373	Chemical
+DED000637	Butylated hydroxytoluene	CAS:128-37-0	CID:31404	Chemical
+DED000638	2,4,5,2',4',5'-Hexachlorobiphenyl	CAS:35065-27-1	CID:37034	Chemical
+DED000639	Enilconazole	CAS:35554-44-0	CID:37175	Chemical
+DED000640	2,2',5-Trichlorobiphenyl	CAS:37680-65-2	CID:37803	Chemical
+DED000641	Vinclozolin	CAS:50471-44-8	CID:39676	Chemical
+DED000642	Aroclor 1254	CAS:11097-69-1	CID:40470	Chemical
+DED000643	Finasteride	CAS:98319-26-7	CID:57363	Chemical
+DED000644	3,4,5,3',4'-Pentachlorobiphenyl	CAS:57465-28-8	CID:63090	Chemical
+DED000645	Bisphenol B	CAS:77-40-7	CID:66166	Chemical
+DED000646	Perfluoro-1-iodohexane	CAS:355-43-1	CID:67733	Chemical
+DED000647	Perfluoro-n-nonanoic acid	CAS:375-95-1	CID:67821	Chemical
+DED000648	Sertraline	CAS:79617-96-2	CID:68617	Chemical
+DED000649	1H,1H,2H,2H-Perfluorodecanol	CAS:678-39-7	CID:69619	Chemical
+DED000650	Bisphenol AF	CAS:1478-61-1	CID:73864	Chemical
+DED000651	Perfluorooctane sulfonic acid	CAS:1763-23-1	CID:74483	Chemical
+DED000652	4,4'-Isopropylidenedi-2,6-xylol	CAS:5613-46-7	CID:79717	Chemical
+DED000653	Phenol, 4,4'-(1,1-dimethyl-3-methylene-1,3-propanediyl)bis-	CAS:13464-24-9	CID:83494	Chemical
+DED000654	Tebuconazole	CAS:107534-96-3	CID:86102	Chemical
+DED000655	Nicotine	CAS:54-11-5	CID:89594	Chemical
+DED000656	2,2',4,4'-Tetrabromodiphenyl ether	CAS:5436-43-1	CID:95170	Chemical
+DED000657	Fulvestrant	CAS:129453-61-8	CID:104741	Chemical
+DED000658	2,3-Dibromopropyl 2,4,6-tribromophenyl ether	CAS:35109-60-5	CID:118216	Chemical
+DED000659	4-hydroxy-2,3,3,4,5-pentachlorobiphenyl	CAS:152969-11-4	CID:177947	Chemical
+DED000660	Aflatoxin B1	CAS:1162-65-8	CID:186907	Chemical
+DED000661	Estradiol 3-benzoate	CAS:50-50-0	CID:222757	Chemical
+DED000662	4,4'-Cyclohexylidenebisphenol	CAS:843-55-0	CID:232446	Chemical
+DED000663	Testosterone 17beta-cypionate	CAS:58-20-8	CID:441404	Chemical
+DED000664	Cyanoginosin LR	CAS:101043-37-2	CID:445434	Chemical
+DED000665	Diethylstilbestrol	CAS:56-53-1	CID:448537	Chemical
+DED000666	Ketoconazole	CAS:65277-42-1	CID:47576	Chemical
+DED000667	Diisononyl phthalate	CAS:28553-12-0	CID:590836	Chemical
+DED000668	Bisphenol E	CAS:2081-08-5	CID:608116	Chemical
+DED000669	1,1-Bis(4-hydroxyphenyl)-1-phenylethane	CAS:1571-75-1	CID:623849	Chemical
+DED000670	Propyl thiouracil	CAS:51-52-5	CID:657298	Chemical
+DED000671	Apigenin	CAS:520-36-5	CID:5280443	Chemical
+DED000672	Genistein	CAS:446-72-0	CID:5280961	Chemical
+DED000673	Zearalenone	CAS:17924-92-4	CID:5281576	Chemical
+DED000674	Chrysin	CAS:480-40-0	CID:5281607	Chemical
+DED000675	Daidzein	CAS:486-66-8	CID:5281708	Chemical
+DED000676	alpha-Zearalenol	CAS:36455-72-8	CID:5284645	Chemical
+DED000677	Triphenylstannane	CAS:892-20-6	CID:6460	Chemical
+DED000678	Arsenic	CAS:7440-38-2	CID:5359596	Chemical
+DED000679	3-Benzylidene camphor	CAS:15087-24-8	CID:5901612	Chemical
+DED000680	Hexabutyldistannane	CAS:813-19-4	CID:6327815	Chemical
+DED000681	3-(4'-Methylbenzylidene)camphor	CAS:36861-47-9	CID:37563	Chemical
+DED000682	lambda-Cyhalothrin, (-)-	CAS:76703-65-6	CID:6440557	Chemical
+DED000683	Decabromodiphenyl ethane	CAS:84852-53-9	CID:10985889	Chemical
+DED000684	4-hydroxy-2,2,3,4-tetrabromodiphenyl ether	CAS:602326-22-7	CID:71374219	Chemical
+DED000685	Imidacloprid	CAS:138261-41-3	CID:86287518	Chemical
+DED000686	Diethyl hydrogen phosphate	CAS:598-02-7	CID:654	Chemical
+DED000687	3-Nitropropionic acid	CAS:504-88-1	CID:1678	Chemical
+DED000688	Clotrimazole	CAS:23593-75-1	CID:2812	Chemical
+DED000689	Diclofenac	CAS:15307-86-5	CID:3033	Chemical
+DED000690	Disulfiram	CAS:97-77-8	CID:3117	Chemical
+DED000691	Fluconazole	CAS:86386-73-4	CID:3365	Chemical
+DED000692	Lamotrigine	CAS:84057-84-1	CID:3878	Chemical
+DED000693	Iodoacetic acid	CAS:64-69-7	CID:5240	Chemical
+DED000694	N-Nitrosodiethylamine	CAS:55-18-5	CID:5921	Chemical
+DED000695	Vinyl chloride	CAS:75-01-4	CID:6338	Chemical
+DED000696	1,2-Propylene oxide	CAS:75-56-9	CID:6378	Chemical
+DED000697	Dibutylstannane	CAS:1002-53-5	CID:6513	Chemical
+DED000698	Benzyl p-hydroxybenzoate	CAS:94-18-8	CID:7180	Chemical
+DED000699	3,4-Dichloroaniline	CAS:95-76-1	CID:7257	Chemical
+DED000700	Toluene-2,4-diamine	CAS:95-80-7	CID:7261	Chemical
+DED000701	1,2,3-Trichloropropane	CAS:96-18-4	CID:7285	Chemical
+DED000702	4-Nitroaniline	CAS:100-01-6	CID:7475	Chemical
+DED000703	p-Bromophenyl phenyl ether	CAS:101-55-3	CID:7565	Chemical
+DED000704	Bis(4-aminophenyl) ether	CAS:101-80-4	CID:7579	Chemical
+DED000705	N-Methyldiethanolamine	CAS:105-59-9	CID:7767	Chemical
+DED000706	4-Xylene	CAS:106-42-3	CID:7809	Chemical
+DED000707	4-Chloroaniline	CAS:106-47-8	CID:7812	Chemical
+DED000708	1,3-Butadiene	CAS:106-99-0	CID:7845	Chemical
+DED000709	Acrylonitrile	CAS:107-13-1	CID:7855	Chemical
+DED000710	Furan	CAS:110-00-9	CID:8029	Chemical
+DED000711	Diolamine	CAS:111-42-2	CID:8113	Chemical
+DED000712	Bis(2-methoxyethyl) phthalate	CAS:117-82-8	CID:8344	Chemical
+DED000713	p-Cresidine	CAS:120-71-8	CID:8445	Chemical
+DED000714	Dimethyl phthalate	CAS:131-11-3	CID:8554	Chemical
+DED000715	Captan	CAS:133-06-2	CID:8606	Chemical
+DED000716	Folpet	CAS:133-07-3	CID:8607	Chemical
+DED000717	1-Naphthylamine	CAS:134-32-7	CID:8640	Chemical
+DED000718	Malachite green	CAS:569-64-2	CID:11294	Chemical
+DED000719	Phosphoric acid, diphenyl ester	CAS:838-85-7	CID:13282	Chemical
+DED000720	Chlormequat Chloride	CAS:999-81-5	CID:13836	Chemical
+DED000721	1-Aminomethylphosphonic acid	CAS:1066-51-9	CID:14017	Chemical
+DED000722	Tetrabutyltin	CAS:1461-25-2	CID:15098	Chemical
+DED000723	Chlorothalonil	CAS:1897-45-6	CID:15910	Chemical
+DED000724	3,3'-Dichlorobiphenyl	CAS:2050-67-1	CID:16307	Chemical
+DED000725	Captafol	CAS:2425-06-1	CID:17038	Chemical
+DED000726	Cesium chloride	CAS:7647-17-8	CID:24293	Chemical
+DED000727	Zinc Sulfate	CAS:7733-02-0	CID:24424	Chemical
+DED000728	Potassium dichromate	CAS:7778-50-9	CID:24502	Chemical
+DED000729	2,2'-Dichlorobiphenyl	CAS:13029-08-8	CID:25622	Chemical
+DED000730	Methylenedianiline dihydrochloride	CAS:13552-44-8	CID:26108	Chemical
+DED000731	Napropamide	CAS:15299-99-7	CID:27189	Chemical
+DED000732	Tetramethylene dibenzoate	CAS:19224-27-2	CID:29511	Chemical
+DED000733	Triazophos	CAS:24017-47-8	CID:32184	Chemical
+DED000734	2,4'-Dichlorobiphenyl	CAS:34883-43-7	CID:36982	Chemical
+DED000735	2,3,4,2',3',4'-Hexachlorobiphenyl	CAS:38380-07-3	CID:38018	Chemical
+DED000736	Diclofop-methyl	CAS:51338-27-3	CID:39985	Chemical
+DED000737	Mono-n-butyltin	CAS:78763-54-9	CID:54267	Chemical
+DED000738	o-Dianisidine dihydrochloride	CAS:20325-40-0	CID:62311	Chemical
+DED000739	Leucomalachite green	CAS:129-73-7	CID:67215	Chemical
+DED000740	Diisopentyl phthalate	CAS:605-50-5	CID:69059	Chemical
+DED000741	Flusilazole	CAS:85509-19-9	CID:73675	Chemical
+DED000742	Phenol, 4,4'-(9H-fluoren-9-ylidene)bis-	CAS:3236-71-3	CID:76716	Chemical
+DED000743	2-(2'-Hydroxy-3',5'-di-tert-butylphenyl)benzotriazole	CAS:3846-71-7	CID:77455	Chemical
+DED000744	1,6-Diiodoperfluorohexane	CAS:375-80-4	CID:78994	Chemical
+DED000745	2,4'-Dihydroxydiphenyl sulfone	CAS:5397-34-2	CID:79381	Chemical
+DED000746	Dicapryl succinate	CAS:14491-66-8	CID:84475	Chemical
+DED000747	1,1-Bis(4-hydroxyphenyl)-2,2-dichloroethylene	CAS:14868-03-2	CID:84677	Chemical
+DED000748	Hydroxyflutamide	CAS:52806-53-8	CID:91649	Chemical
+DED000749	theta-Cypermethrin	CAS:71697-59-1	CID:91691	Chemical
+DED000750	Pyriproxyfen	CAS:95737-68-1	CID:91753	Chemical
+DED000751	Alpha-Cypermethrin	CAS:67375-30-8	CID:93357	Chemical
+DED000752	Triptolide	CAS:38748-32-2	CID:107985	Chemical
+DED000753	1,2,3,4,5,6-Hexachloronaphthalene	CAS:58877-88-6	CID:108177	Chemical
+DED000754	Phenol, 4-((4-(phenylmethoxy)phenyl)sulfonyl)-	CAS:63134-33-8	CID:113063	Chemical
+DED000755	Mono(2-ethyl-5-oxohexyl)phthalate	CAS:40321-98-0	CID:119096	Chemical
+DED000756	2-Ethyl-5-carboxypentyl phthalate	CAS:40809-41-4	CID:148386	Chemical
+DED000757	Mono(2-ethylhexyl) terephthalate	CAS:155603-50-2	CID:154683	Chemical
+DED000758	Naproxen	CAS:22204-53-1	CID:156391	Chemical
+DED000759	Propanoic acid, 2-(4-(2,4-dichlorophenoxy)phenoxy)-, methyl ester, (2S)-	CAS:75021-72-6	CID:156542	Chemical
+DED000760	Propisochlor	CAS:86763-47-5	CID:167454	Chemical
+DED000761	Mono(2-ethyl-5-hydroxyhexyl) phthalate	CAS:40321-99-1	CID:170295	Chemical
+DED000762	Mercury chloride	CAS:51312-24-4	CID:171022	Chemical
+DED000763	Acetamiprid	CAS:135410-20-7	CID:213021	Chemical
+DED000764	Sodium sulfide	CAS:1313-82-2	CID:237873	Chemical
+DED000765	Sodium arsenite	CAS:7784-46-5	CID:443495	Chemical
+DED000766	Ditiocarb sodium	CAS:148-18-5	CID:533728	Chemical
+DED000767	Bisphenol P	CAS:2167-51-3	CID:630355	Chemical
+DED000768	Dienestrol	CAS:84-17-3	CID:667476	Chemical
+DED000769	(1S)-cis-(alphaR)-cypermethrin	CAS:72204-44-5	CID:3086172	Chemical
+DED000770	5-Caffeylquinic acid	CAS:906-33-2	CID:5280633	Chemical
+DED000771	p-Chloroaniline hydrochloride	CAS:20265-96-7	CID:5284363	Chemical
+DED000772	Zinc dibutyldithiocarbamate	CAS:136-23-2	CID:5284483	Chemical
+DED000773	3-[(3-(2-Carboxyethyl)-4-methylpyrrol-2-YL)methylene]-2-indolinone	CAS:215543-92-3	CID:5289418	Chemical
+DED000774	Triphenyltin hydroxide	CAS:76-87-9	CID:9907219	Chemical
+DED000775	2,3,4,5,6,8-Hexachlorodecane	CAS:1852481-27-6	CID:6537498	Chemical
+DED000776	Triticonazole	CAS:131983-72-7	CID:6537961	Chemical
+DED000777	Dibutyltin dilaurate	CAS:77-58-7	CID:16682738	Chemical
+DED000778	Phenol, 2,5-dibromo-4-(2,4-dibromophenoxy)-	CAS:602326-23-8	CID:11092337	Chemical
+DED000779	Phtpp	CAS:805239-56-9	CID:11201035	Chemical
+DED000780	Diisononyl hexahydrophthalate	CAS:166412-78-8	CID:11524680	Chemical
+DED000781	Neanthine	CAS:123-88-6	CID:12521357	Chemical
+DED000782	(1S)-trans-(Alphar)-cypermethrin	CAS:83860-32-6	CID:12617361	Chemical
+DED000783	(S)-Lactofen		CID:12926729	Chemical
+DED000784	Napropamide-M	CAS:41643-35-0	CID:13013865	Chemical
+DED000785	Phenylmercuric acetate	CAS:62-38-4	CID:16682730	Chemical
+DED000786	Perfluorohexane sulfonate	CAS:108427-53-8	CID:16760155	Chemical
+DED000787	N-(6-Aminopyridin-2-yl)-4'-cyanobiphenyl-4-sulfonamide	CAS:857290-04-1	CID:23725123	Chemical
+DED000788	Doxycycline	CAS:564-25-0	CID:54671203	Chemical
+DED000789	(R)-Lactofen		CID:67930073	Chemical
+DED000790	Mefentrifluconazole	CAS:1417782-03-6	CID:71230671	Chemical
+DED000791	Atorvastatin calcium trihydrate	CAS:344423-98-9	CID:656846	Chemical
+DED000792	4-Hydroxybenzoic acid 3-hydroxybutyl ester		CID:85682529	Chemical
+DED000793	1,2-Dichloroethane	CAS:107-06-2	CID:11	Chemical
+DED000794	Catechol	CAS:120-80-9	CID:289	Chemical
+DED000795	Chloroacetic Acid	CAS:79-11-8	CID:300	Chemical
+DED000796	O-Cresol	CAS:95-48-7	CID:335	Chemical
+DED000797	3-Methylcatechol	CAS:488-17-5	CID:340	Chemical
+DED000798	Hydrogen Peroxide	CAS:7722-84-1	CID:784	Chemical
+DED000799	Hydroquinone	CAS:123-31-9	CID:785	Chemical
+DED000800	Phenanthrene	CAS:85-01-8	CID:995	Chemical
+DED000801	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	CAS:28289-54-5	CID:1388	Chemical
+DED000802	6-Formylindolo(3,2-b)carbazole	CAS:172922-91-7	CID:1863	Chemical
+DED000803	Acetazolamide	CAS:59-66-5	CID:1986	Chemical
+DED000804	Alprazolam	CAS:28981-97-7	CID:2118	Chemical
+DED000805	Carbamazepine	CAS:298-46-4	CID:2554	Chemical
+DED000806	Carbonyl cyanide (m-chlorophenyl)hydrazone	CAS:555-60-2	CID:2603	Chemical
+DED000807	Clofibrate	CAS:637-07-0	CID:2796	Chemical
+DED000808	Diazepam	CAS:439-14-5	CID:3016	Chemical
+DED000809	Dibenzothiophene	CAS:132-65-0	CID:3023	Chemical
+DED000810	5-Fluorouracil	CAS:51-21-8	CID:3385	Chemical
+DED000811	2,5-Dihydroxybenzoic acid	CAS:490-79-9	CID:3469	Chemical
+DED000812	1H-Pyrrole-1-carboxamide, 3-ethyl-2,5-dihydro-4-methyl-N-2-4-(trans-4-methylcyclohexyl)aminocarbonylaminosulfonylphenylethyl-2-oxo-	CAS:93479-97-1	CID:3476	Chemical
+DED000813	Gossypol	CAS:303-45-7	CID:3503	Chemical
+DED000814	6-(1-(5,6,7,8-Tetrahydro-3,5,5,8,8-pentamethyl-2-naphthalenyl)cyclopropyl)-3-pyridinecarboxylic acid	CAS:153559-76-3	CID:3922	Chemical
+DED000815	Metformin	CAS:657-24-9	CID:4091	Chemical
+DED000816	Methomyl	CAS:16752-77-5	CID:4109	Chemical
+DED000817	Methyl Salicylate	CAS:119-36-8	CID:4133	Chemical
+DED000818	Nitroglycerin	CAS:55-63-0	CID:4510	Chemical
+DED000819	Oxazepam	CAS:604-75-1	CID:4616	Chemical
+DED000820	4-Chlorophenol	CAS:106-48-9	CID:4684	Chemical
+DED000821	1,4-Dichlorobenzene	CAS:106-46-7	CID:4685	Chemical
+DED000822	Pentoxifylline	CAS:6493-05-6	CID:4740	Chemical
+DED000823	Tcpobop	CAS:76150-91-9	CID:5382	Chemical
+DED000824	Temephos	CAS:3383-96-8	CID:5392	Chemical
+DED000825	Pirinixic Acid	CAS:50892-23-4	CID:5694	Chemical
+DED000826	Mitomycin C	CAS:50-07-7	CID:5746	Chemical
+DED000827	2-Aminophenol	CAS:95-55-6	CID:5801	Chemical
+DED000828	N-Nitrosomorpholine	CAS:59-89-2	CID:6046	Chemical
+DED000829	Bromoacetic Acid	CAS:79-08-3	CID:6227	Chemical
+DED000830	Mestranol	CAS:72-33-3	CID:6291	Chemical
+DED000831	Tribromoacetic Acid	CAS:75-96-7	CID:6415	Chemical
+DED000832	1,1',1''-(Chlorosilylidyne)tris(benzene)	CAS:76-86-8	CID:6458	Chemical
+DED000833	o-Cresyl phosphate	CAS:78-30-8	CID:6527	Chemical
+DED000834	Bisphenol C	CAS:79-97-0	CID:6620	Chemical
+DED000835	Rotenone	CAS:83-79-4	CID:6758	Chemical
+DED000836	Diphenyl phthalate	CAS:84-62-8	CID:6778	Chemical
+DED000837	Carbazole	CAS:86-74-8	CID:6854	Chemical
+DED000838	Isobutyl salicylate	CAS:87-19-4	CID:6873	Chemical
+DED000839	Isoamyl salicylate	CAS:87-20-7	CID:6874	Chemical
+DED000840	Hexabromobenzene	CAS:87-82-1	CID:6905	Chemical
+DED000841	Pentabromotoluene	CAS:87-83-2	CID:6906	Chemical
+DED000842	Veratrole	CAS:91-16-7	CID:7043	Chemical
+DED000843	Methyleugenol	CAS:93-15-2	CID:7127	Chemical
+DED000844	2-Methoxy-4-Methylphenol	CAS:93-51-6	CID:7144	Chemical
+DED000845	2-Bromophenol	CAS:95-56-7	CID:7244	Chemical
+DED000846	2,4-Di-tert-butylphenol	CAS:96-76-4	CID:7311	Chemical
+DED000847	1,2-Dibromoethane	CAS:106-93-4	CID:7839	Chemical
+DED000848	Dichlone	CAS:117-80-6	CID:8342	Chemical
+DED000849	Bis(2-butoxyethyl) phthalate	CAS:117-83-9	CID:8345	Chemical
+DED000850	di-N-Octyl Phthalate	CAS:117-84-0	CID:8346	Chemical
+DED000851	2-Ethylhexyl salicylate	CAS:118-60-5	CID:8364	Chemical
+DED000852	Ethyl Salicylate	CAS:118-61-6	CID:8365	Chemical
+DED000853	Chloranil	CAS:118-75-2	CID:8371	Chemical
+DED000854	2,2'-Methylenebis(4-methyl-6-tert-butylphenol)	CAS:119-47-1	CID:8398	Chemical
+DED000855	Diallyl phthalate	CAS:131-17-9	CID:8560	Chemical
+DED000856	2,2'-Dihydroxy-4-methoxybenzophenone	CAS:131-53-3	CID:8569	Chemical
+DED000857	Testosterone Enanthate	CAS:315-37-7	CID:9416	Chemical
+DED000858	Azacytidine	CAS:320-67-2	CID:9444	Chemical
+DED000859	Cyanamide	CAS:420-04-2	CID:9864	Chemical
+DED000860	Decamethylcyclopentasiloxane	CAS:541-02-6	CID:10913	Chemical
+DED000861	Tri-m-cresyl phosphate	CAS:563-04-2	CID:11232	Chemical
+DED000862	Bromoethene	CAS:593-60-2	CID:11641	Chemical
+DED000863	Isopropyl salicylate	CAS:607-85-2	CID:11838	Chemical
+DED000864	Pentabromophenol	CAS:608-71-9	CID:11852	Chemical
+DED000865	N-Methyl-N-nitrosourea	CAS:684-93-5	CID:12699	Chemical
+DED000866	4-Methylimidazole	CAS:822-36-6	CID:13195	Chemical
+DED000867	3-Methoxycatechol	CAS:934-00-9	CID:13622	Chemical
+DED000868	2-Ethylhexyl diphenyl phosphate	CAS:1241-94-7	CID:14716	Chemical
+DED000869	2-Bromo-4,6-dinitroaniline	CAS:1817-73-8	CID:15752	Chemical
+DED000870	4,4'-Dihydroxydiphenyl ether	CAS:1965-09-9	CID:16069	Chemical
+DED000871	Tetrahydrocannabinol	CAS:1972-08-3	CID:16078	Chemical
+DED000872	4-Chlorocatechol	CAS:2138-22-9	CID:16496	Chemical
+DED000873	3-Isopropylcatechol	CAS:2138-48-9	CID:16498	Chemical
+DED000874	Urea, (3,4-dichlorophenyl)-	CAS:2327-02-8	CID:16854	Chemical
+DED000875	4-Hexylphenol	CAS:2446-69-7	CID:17132	Chemical
+DED000876	Trioctyl trimellitate	CAS:3319-31-1	CID:18725	Chemical
+DED000877	4,5-Dichlorocatechol	CAS:3428-24-8	CID:18909	Chemical
+DED000878	Diheptyl phthalate	CAS:3648-21-3	CID:19284	Chemical
+DED000879	1,2-Ethanediol, 1,2-dimethanesulfonate	CAS:4672-49-5	CID:20796	Chemical
+DED000880	Deethylatrazine	CAS:6190-65-4	CID:22563	Chemical
+DED000881	Di-(2-ethylhexyl) terephthalate	CAS:6422-86-2	CID:22932	Chemical
+DED000882	Mercury	CAS:7439-97-6	CID:23931	Chemical
+DED000883	Aluminum Chloride	CAS:7446-70-0	CID:24012	Chemical
+DED000884	Silica	CAS:7631-86-9	CID:24261	Chemical
+DED000885	Sodium Nitrate	CAS:7631-99-4	CID:24268	Chemical
+DED000886	Nickel Dichloride	CAS:7718-54-9	CID:24385	Chemical
+DED000887	Lead chloride	CAS:7758-95-4	CID:24459	Chemical
+DED000888	Copper sulfate pentahydrate	CAS:7758-99-8	CID:24463	Chemical
+DED000889	3,5-Dichlorocatechol	CAS:13673-92-2	CID:26173	Chemical
+DED000890	Isosorbide Mononitrate	CAS:16051-77-7	CID:27661	Chemical
+DED000891	Streptozocin	CAS:18883-66-4	CID:29327	Chemical
+DED000892	6-Chloro-2,3-dihydrobenzoxazol-2-one	CAS:19932-84-4	CID:29858	Chemical
+DED000893	4-Aminoacetanilide	CAS:122-80-5	CID:31230	Chemical
+DED000894	Doxorubicin	CAS:23214-92-8	CID:31703	Chemical
+DED000895	Monobenzyl phthalate	CAS:2528-16-7	CID:31736	Chemical
+DED000896	Pcb 74	CAS:32690-93-0	CID:36218	Chemical
+DED000897	Pcb 138	CAS:35065-28-2	CID:37035	Chemical
+DED000898	Pcb 180	CAS:35065-29-3	CID:37036	Chemical
+DED000899	Pcb 170	CAS:35065-30-6	CID:37037	Chemical
+DED000900	Climbazole	CAS:38083-17-9	CID:37907	Chemical
+DED000901	Pcb 99	CAS:38380-01-7	CID:38013	Chemical
+DED000902	Oxyfluorfen	CAS:42874-03-3	CID:39327	Chemical
+DED000903	2,2',3,3',5,6'-Hexachlorobiphenyl	CAS:52744-13-5	CID:40517	Chemical
+DED000904	Staurosporine	CAS:62996-74-1	CID:44259	Chemical
+DED000905	4-Ethylguaiacol	CAS:2785-89-9	CID:62465	Chemical
+DED000906	Hexaconazole	CAS:79983-71-4	CID:66461	Chemical
+DED000907	Perfluorohexanoic Acid	CAS:307-24-4	CID:67542	Chemical
+DED000908	Perfluorodecanesulfonic acid	CAS:335-77-3	CID:67636	Chemical
+DED000909	3-Fluorocatechol	CAS:363-52-0	CID:67764	Chemical
+DED000910	Perfluoroheptanoic acid	CAS:375-85-9	CID:67818	Chemical
+DED000911	Perfluoroheptanesulfonic acid	CAS:375-92-8	CID:67820	Chemical
+DED000912	Perfluorotetradecanoic acid	CAS:376-06-7	CID:67822	Chemical
+DED000913	Propyl salicylate	CAS:607-90-9	CID:69092	Chemical
+DED000914	3,3,4,4,5,5,6,6,7,7,8,8,8-Tridecafluorooctan-1-ol	CAS:647-42-7	CID:69537	Chemical
+DED000915	Perfluorooctanesulfonamide	CAS:754-91-6	CID:69785	Chemical
+DED000916	4-Ethyl-1,2-benzenediol	CAS:1124-39-6	CID:70761	Chemical
+DED000917	Paclobutrazol	CAS:76738-62-0	CID:73671	Chemical
+DED000918	Phenol, 4,4'-(1-methylethylidene)bis(2-(2-propen-1-yl)-	CAS:1745-89-7	CID:74457	Chemical
+DED000919	1-Hexanol, 3,3,4,4,5,5,6,6,6-nonafluoro-	CAS:2043-47-2	CID:74883	Chemical
+DED000920	Tris(isopropylphenyl) phosphate	CAS:2502-15-0	CID:75628	Chemical
+DED000921	Rosiglitazone	CAS:122320-73-4	CID:77999	Chemical
+DED000922	4,4'-Methylenebis(2,6-dimethylphenol)	CAS:5384-21-4	CID:79345	Chemical
+DED000923	Tetraconazole	CAS:112281-77-3	CID:80277	Chemical
+DED000924	Methanone, (2,4-dihydroxyphenyl)(2-hydroxy-4-methoxyphenyl)-	CAS:7392-62-3	CID:81876	Chemical
+DED000925	Bexarotene	CAS:153559-49-0	CID:82146	Chemical
+DED000926	2-Benzyl-2-(dimethylamino)-1-(4-(morpholin-4-yl)phenyl)butan-1-one	CAS:119313-12-1	CID:86171	Chemical
+DED000927	Difenoconazole	CAS:119446-68-3	CID:86173	Chemical
+DED000928	Metconazole	CAS:125116-23-6	CID:86210	Chemical
+DED000929	Cyprodinil	CAS:121552-61-2	CID:86367	Chemical
+DED000930	Flurochloridone	CAS:61213-25-0	CID:91677	Chemical
+DED000931	4,5-Dichloro-2-n-octyl-4-isothiazolin-3-one	CAS:64359-81-5	CID:91688	Chemical
+DED000932	Pyridaben	CAS:96489-71-3	CID:91754	Chemical
+DED000933	Bis(2-propylheptyl)phthalate	CAS:53306-54-0	CID:92344	Chemical
+DED000934	1,1,1-Tris(4-hydroxyphenyl)ethane	CAS:27955-94-8	CID:93118	Chemical
+DED000935	Benzene, 2,4-dimethoxy-1-methyl-	CAS:38064-90-3	CID:96403	Chemical
+DED000936	Diosgenin	CAS:512-04-9	CID:99474	Chemical
+DED000937	Cyfluthrin	CAS:68359-37-5	CID:104926	Chemical
+DED000938	N-(3,5-Dichlorophenyl)-2-hydroxy-2-methyl-3-butenamide	CAS:83792-61-4	CID:115209	Chemical
+DED000939	2-((((3,5-Dichlorophenyl)amino)carbonyl)oxy)-2-methyl-3-butenoic acid	CAS:119209-27-7	CID:119359	Chemical
+DED000940	alpha-(1-Chlorocyclopropyl)-alpha-((2-chlorophenyl)methyl)-1H-1,2,4-triazole-1-ethanol	CAS:120983-64-4	CID:119361	Chemical
+DED000941	Methotrexate	CAS:59-05-2	CID:126941	Chemical
+DED000942	4-Aminocatechol	CAS:13047-04-6	CID:151726	Chemical
+DED000943	Bde 153	CAS:68631-49-2	CID:155166	Chemical
+DED000944	Phosphoric acid, (1,1-dimethylethyl)phenyl diphenyl ester	CAS:56803-37-3	CID:158333	Chemical
+DED000945	4-Fluoro-1,2-benzenediol	CAS:367-32-8	CID:160458	Chemical
+DED000946	Tartrazine	CAS:1934-21-0	CID:164825	Chemical
+DED000947	Dimethyl phosphorothioate	CAS:1112-38-5	CID:168140	Chemical
+DED000948	Tetrabromobisphenol S	CAS:39635-79-5	CID:170231	Chemical
+DED000949	Bis(1,3-dichloro-2-propyl) phosphate	CAS:72236-72-7	CID:188119	Chemical
+DED000950	Catecholamine		CID:189460	Chemical
+DED000951	Boscalid	CAS:188425-85-6	CID:213013	Chemical
+DED000952	2,2-Bis(4-hydroxy-3-isopropylphenyl)propane		CID:228537	Chemical
+DED000953	Bis(4-hydroxyphenyl)diphenylmethane	CAS:1844-01-5	CID:232881	Chemical
+DED000954	3,6-Dichlorocarbazole		CID:236487	Chemical
+DED000955	3-Bromocarbazole		CID:252446	Chemical
+DED000956	1,3,6,8-Tetrabromocarbazole		CID:258744	Chemical
+DED000957	Dithiothreitol	CAS:3483-12-3	CID:439196	Chemical
+DED000958	Rosuvastatin	CAS:287714-41-4	CID:446157	Chemical
+DED000959	Cocaine	CAS:50-36-2	CID:446220	Chemical
+DED000960	Thapsigargin	CAS:67526-95-8	CID:446378	Chemical
+DED000961	Diclazuril	CAS:101831-37-2	CID:456389	Chemical
+DED000962	Sophoraflavanone B	CAS:53846-50-7	CID:480764	Chemical
+DED000963	Isoxanthohumol	CAS:70872-29-6	CID:513197	Chemical
+DED000964	Metamizole Sodium	CAS:68-89-3	CID:522325	Chemical
+DED000965	2,2',4-Trihydroxybenzophenone	CAS:13087-18-8	CID:578663	Chemical
+DED000966	4,4'-(9-Fluorenylidene)dianiline	CAS:15499-84-0	CID:631552	Chemical
+DED000967	Cannabidiol	CAS:13956-29-1	CID:644019	Chemical
+DED000968	N-(2,3-dimethylphenyl)-2-morpholin-4-ylacetamide		CID:755358	Chemical
+DED000969	Isoeugenol	CAS:97-54-1	CID:853433	Chemical
+DED000970	Cotinine	CAS:486-56-6	CID:854019	Chemical
+DED000971	Stf-31		CID:984333	Chemical
+DED000972	Methimazole	CAS:60-56-0	CID:1349907	Chemical
+DED000973	9-(nonafluorobutyl)-2,3,6,7-tetrahydro-1H,5H,11H-pyrano[2,3-f]pyrido[3,2,1-ij]quinolin-11-one		CID:1905602	Chemical
+DED000974	1H,1H,10H,10H-perfluorodecane-1,10-diol	CAS:754-96-1	CID:2733404	Chemical
+DED000975	1-Ethyl-3-methylimidazolium chloride	CAS:65039-09-0	CID:2734160	Chemical
+DED000976	1-Butyl-3-methylimidazolium chloride	CAS:79917-90-1	CID:2734161	Chemical
+DED000977	1-Hexyl-3-methylimidazolium	CAS:85100-82-9	CID:2734164	Chemical
+DED000978	Propanoic acid, 2-(4-hydroxyphenoxy)-, ethyl ester	CAS:65343-67-1	CID:3017597	Chemical
+DED000979	Perfluorotridecanoic acid	CAS:72629-94-8	CID:3018355	Chemical
+DED000980	Oxine-copper	CAS:10380-28-6	CID:3032555	Chemical
+DED000981	Azoxystrobin	CAS:131860-33-8	CID:3034285	Chemical
+DED000982	Fipronil sulfone	CAS:120068-36-2	CID:3078139	Chemical
+DED000983	4-Nitrocatechol	CAS:3316-09-4	CID:3505109	Chemical
+DED000984	9,9-Bis[4-(2-hydroxyethoxy)phenyl]fluorene	CAS:117344-32-8	CID:3764404	Chemical
+DED000985	Lithium Bis(Trifluoromethanesulfonyl)Imide	CAS:90076-65-6	CID:87103854	Chemical
+DED000986	1H,1H,8H,8H-Perfluorooctane-1,8-diol		CID:3820533	Chemical
+DED000987	2,3,4'-Trihydroxy-4-methoxybenzophenone		CID:3908719	Chemical
+DED000988	4,4'-(3,3,5-Trimethylcyclohexylidene)bis(phenol)	CAS:129188-99-4	CID:4134035	Chemical
+DED000989	2-(Heptafluoropropyl)-3-phenylquinoxaline		CID:4232416	Chemical
+DED000990	Sitagliptin	CAS:486460-32-6	CID:4369359	Chemical
+DED000991	Perfluorooctanoate		CID:4986139	Chemical
+DED000992	Metofluthrin	CAS:240494-70-6	CID:5282227	Chemical
+DED000993	Codeine	CAS:76-57-3	CID:5284371	Chemical
+DED000994	Oxycodone	CAS:76-42-6	CID:5284603	Chemical
+DED000995	Topiramate	CAS:97240-79-4	CID:5284627	Chemical
+DED000996	Flumethrin	CAS:69770-45-2	CID:91702	Chemical
+DED000997	Pyraclostrobin	CAS:175013-18-0	CID:6422843	Chemical
+DED000998	2,4,7-Trimethyldibenzothiophene		CID:6428292	Chemical
+DED000999	Uniconazole	CAS:83657-22-1	CID:6436604	Chemical
+DED001000	Prothioconazole	CAS:178928-70-6	CID:6451142	Chemical
+DED001001	6-(4-chlorophenyl)imidazo(2,1-b)(1,3)thiazole-5-carbaldehyde O-(3,4-dichlorobenzyl)oxime	CAS:338404-52-7	CID:9600409	Chemical
+DED001002	(6R,25R)-5-O-Demethyl-28-deoxy-6,28-epoxy-25-methylmilbemycin B	CAS:51596-10-2	CID:9828343	Chemical
+DED001003	Milbemycin A4	CAS:51596-11-3	CID:9959038	Chemical
+DED001004	2,3,7,8-Tetrachlorobenzo-p-dioxin		CID:9965302	Chemical
+DED001005	2,7-Dibromocarbazole		CID:11151503	Chemical
+DED001006	Cyflumetofen	CAS:400882-07-7	CID:11496052	Chemical
+DED001007	Tembotrione	CAS:335104-84-2	CID:11556911	Chemical
+DED001008	Cyantraniliprole	CAS:736994-63-1	CID:11578610	Chemical
+DED001009	(-)-Nicotine hydrogen (+)-tartrate		CID:11957628	Chemical
+DED001010	2,4,4'-Tribromodiphenyl ether	CAS:41318-75-6	CID:12110098	Chemical
+DED001011	Chloro-tris(1,1,2,2,3,3,4,4,4-nonadeuteriobutyl)stannane	CAS:1257647-76-9	CID:12228730	Chemical
+DED001012	Npc328442	CAS:39765-80-5	CID:12313421	Chemical
+DED001013	N-(3,4-Dichlorophenyl)-N'-methoxyurea	CAS:17356-61-5	CID:12441890	Chemical
+DED001014	2-Bromo-9H-carbazole	CAS:3652-90-2	CID:12717089	Chemical
+DED001015	2,2-Bis(2-hydroxy-5-biphenylyl)propane		CID:13059052	Chemical
+DED001016	5-(1,2,2,2-Tetrafluoro)ethoxy-perfluoro-3-oxa-4-methylpentanesulfonic acid		CID:14317645	Chemical
+DED001017	Diiodoacetic acid	CAS:598-89-0	CID:14795000	Chemical
+DED001018	1,2,9,10-Tetrachlorodecane		CID:15842085	Chemical
+DED001019	Enzalutamide	CAS:915087-33-1	CID:15951529	Chemical
+DED001020	Mono-3-hydroxybutyl phthalate		CID:18427030	Chemical
+DED001021	2-(3-Chloro-4-hydroxyphenyl)-2-(4-hydroxyphenyl)propane		CID:20161169	Chemical
+DED001022	Trichlorobisphenol A	CAS:40346-55-2	CID:20569227	Chemical
+DED001023	1,2-Dichlorotetradecane		CID:20788562	Chemical
+DED001024	2-((6-Chloro-1,1,2,2,3,3,4,4,5,5,6,6-dodecafluorohexyl)oxy)-1,1,2,2-tetrafluoroethanesulfonic acid	CAS:756426-58-1	CID:22568738	Chemical
+DED001025	Chloro(iodo)acetic acid	CAS:53715-09-6	CID:23426777	Chemical
+DED001026	Phenobarbital Sodium	CAS:57-30-7	CID:23674889	Chemical
+DED001027	Potassium perfluorohexanesulfonate	CAS:3871-99-6	CID:23678874	Chemical
+DED001028	Potassium hexafluorophosphate	CAS:17084-13-8	CID:23688904	Chemical
+DED001029	Ammonium 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propanoate	CAS:62037-80-3	CID:51342034	Chemical
+DED001030	Isoflucypram	CAS:1255734-28-1	CID:66553206	Chemical
+DED001031	Bisphenol A monosulfate	CAS:267244-09-7	CID:67701712	Chemical
+DED001032	2-(1-Phenoxypropan-2-yloxy)pyridine		CID:67893782	Chemical
+DED001033	2-[(Dimethoxyphosphoryl)sulfanyl]butanedioic acid		CID:71330824	Chemical
+DED001034	2-[(2-Hydroxy-2-methylpropoxy)carbonyl]benzoate	CAS:64339-39-5	CID:71371900	Chemical
+DED001035	2-(1-Hydroxy-7-methyloctoxy)carbonylbenzoate	CAS:898544-10-0	CID:86249264	Chemical
+DED001036	2,3-Dibromopropyl-2,4,6-tribromophenyl ether		CID:88314418	Chemical
+DED001037	Sodium p-perfluorous nonenoxybenzene sulfonate		CID:101233334	Chemical
+DED001038	Bis(2-chloro-1-methylethyl) hydrogen phosphate	CAS:789440-10-4	CID:101640759	Chemical
+DED001039	Monocarboxy isononyl phthalate		CID:123249118	Chemical
+DED001040	2-(6-Hydroxy-2-propylheptoxy)carbonylbenzoic acid	CAS:1372605-11-2	CID:131668311	Chemical
+DED001041	Nicofluprole		CID:134590429	Chemical
+DED001042	1,2-Cyclohexanedicarboxylic Acid Mono 4-Methyloctyl Ester		CID:139025582	Chemical
+DED001043	Difluoro{[2,2,4,5-tetrafluoro-5-(trifluoromethoxy)-1,3-dioxolan-4-yl]oxy}acetic acid	CAS:1190931-41-9	CID:145865716	Chemical

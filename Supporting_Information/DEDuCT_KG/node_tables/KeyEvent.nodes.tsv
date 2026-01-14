@@ -1,0 +1,1548 @@
+id	name	BOL	node_type
+KE:3	Reduction, 17beta-estradiol synthesis by ovarian granulosa cells	Cellular	KE
+KE:8	Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity	Cellular	KE
+KE:9	Activation, 5HT2c	Molecular	KE
+KE:10	Acetylcholine accumulation in synapses	Cellular	KE
+KE:12	Acetylcholinesterase (AchE) Inhibition	Cellular	KE
+KE:17	Altered gene expression, AHR nuclear translocator (ARNT)-dependent pathway	Molecular	KE
+KE:18	Activation, AhR	Molecular	KE
+KE:21	Altered regulation, Alpha hemoglobin	Cellular	KE
+KE:25	Agonism, Androgen receptor	Molecular	KE
+KE:26	Antagonism, Androgen receptor	Molecular	KE
+KE:28	Reduction, Angiogenesis	Molecular	KE
+KE:36	Inhibition, Aromatase	Molecular	KE
+KE:39	Increased Cholinergic Signaling	Organ	KE
+KE:40	Decrease, Mitochondrial ATP production	Cellular	KE
+KE:41	Inhibition, Bile Salt Export Pump (ABCB11)	Molecular	KE
+KE:46	Accumulation, Biological membranes	Cellular	KE
+KE:49	Reduction, Ca and HCO3 transport to shell gland	Tissue	KE
+KE:50	Increase, Ca++ (intracellular)	Cellular	KE
+KE:51	Inhibition, Ca++ ATPase	Molecular	KE
+KE:52	Decreased, Calcium influx	Cellular	KE
+KE:54	Up Regulation, CD36	Molecular	KE
+KE:55	Increase, Cell injury/death	Cellular	KE
+KE:57	Proliferation, Cell proliferation in the absence of cytotoxicity	Cellular	KE
+KE:64	Reduction, Ionotropic GABA receptor chloride channel conductance	Cellular	KE
+KE:66	Activation, ChREBP	Molecular	KE
+KE:68	Accumulation, Collagen	Tissue	KE
+KE:77	Production, Critical Metabolites (CGA 330050 and CGA 265307)	Cellular	KE
+KE:78	Reduction, Cumulative fecundity and spawning	Individual	KE
+KE:79	Inhibition, Cyclooxygenase activity	Molecular	KE
+KE:80	Up Regulation, CYP1A1	Molecular	KE
+KE:87	Release, Cytokine	Cellular	KE
+KE:89	Synthesis, De Novo Fatty Acid (FA)	Cellular	KE
+KE:97	Alkylation, DNA	Molecular	KE
+KE:103	Increase, Ecdysone receptor agonism	Molecular	KE
+KE:105	Inhibition, Mitochondrial Electron Transport Chain Complexes	Molecular	KE
+KE:106	Reduction, Eggshell thickness	Tissue	KE
+KE:110	Impairment, Endothelial network	Cellular	KE
+KE:111	Agonism, Estrogen receptor	Molecular	KE
+KE:112	Antagonism, Estrogen receptor	Molecular	KE
+KE:115	Increase, FA Influx	Cellular	KE
+KE:116	Activation, FAS	Molecular	KE
+KE:118	Formation, Formation of hemoglobin adducts	Cellular	KE
+KE:119	N/A, Gap	Tissue	KE
+KE:122	Activation, Glucocorticoid Receptor	Molecular	KE
+KE:129	Reduction, Gonadotropins, circulating concentrations	Organ	KE
+KE:130	Depletion, GSH	Cellular	KE
+KE:131	Down Regulation, Gulcose-6-phosphate dehydrogenase	Cellular	KE
+KE:139	N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects	Tissue	KE
+KE:140	Decreased, HSD17B10 expression	Cellular	KE
+KE:142	Hyperplasia, Hyperplasia	Tissue	KE
+KE:145	Induction, IKB inhibitory protein	Cellular	KE
+KE:147	Inhibition, Inducible Nitric Oxide Synthase by Metabolite CGA 265307	Cellular	KE
+KE:149	Increase, Inflammation	Cellular	KE
+KE:151	Activation, Inflammatory cytokines, chemokines, cytoprotective gene pathways	Molecular	KE
+KE:152	Suppression, Inflammatory cytokines	Individual	KE
+KE:155	Inadequate DNA repair	Cellular	KE
+KE:161	Increase, Liver and splenic hemosiderosis	Organ	KE
+KE:164	Induction, Liver “Dysfunctional” Changes by CGA 330050	Organ	KE
+KE:165	Activation, Long term AHR receptor driven direct and indirect gene expression changes	Cellular	KE
+KE:166	Decreased, Long-term potentiation (LTP)	Organ	KE
+KE:167	Activation, LXR	Molecular	KE
+KE:168	Decreased, Lymphocytes	Individual	KE
+KE:169	Disruption, Membrane integrity	Cellular	KE
+KE:173	N/A, Methemoglobinemia, decreased hemoglobin, hematocrit, red blood cell number	Organ	KE
+KE:176	Damaging Mitochondria	Cellular	KE
+KE:177	Mitochondrial dysfunction	Cellular	KE
+KE:178	Disruption, Mitochondrial electron transport chain	Cellular	KE
+KE:179	Decreased, Mitochondrial fatty acid beta-oxidation	Molecular	KE
+KE:185	Increase, Mutations	Molecular	KE
+KE:188	Neuroinflammation	Tissue	KE
+KE:191	Neuronal dysfunction	Cellular	KE
+KE:192	Altered, Neurophysiology	Organ	KE
+KE:193	Decreased, Nitric Oxide	Cellular	KE
+KE:195	Inhibition, NMDARs	Molecular	KE
+KE:201	Binding of antagonist, NMDA receptors	Molecular	KE
+KE:202	Inhibition, Nuclear factor kappa B (NF-kB)	Molecular	KE
+KE:209	Peptide Oxidation	Molecular	KE
+KE:213	N/A, Parent compound is converted to the reactive metabolite and forms free radicals leading to oxidation of heme iron(II) in hemoglobin to iron(III)	Molecular	KE
+KE:214	Bile accumulation, Pathological condition	Cellular	KE
+KE:216	Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)	Cellular	KE
+KE:219	Reduction, Plasma 17beta-estradiol concentrations	Organ	KE
+KE:220	Increase, Plasma vitellogenin concentrations	Organ	KE
+KE:221	Reduction, Plasma vitellogenin concentrations	Organ	KE
+KE:227	Activation, PPARα	Molecular	KE
+KE:228	peroxisome proliferator activated receptor promoter demethylation	Molecular	KE
+KE:231	Decreased, PPAR-alpha activation	Molecular	KE
+KE:232	Decreased, PPAR-beta activation	Molecular	KE
+KE:233	Decreased, PPAR-gamma activation	Molecular	KE
+KE:239	Activation, Pregnane-X receptor, NR1l2	Molecular	KE
+KE:240	Feminisation or incomplete development, Primary and accessory male sex organs	Organ	KE
+KE:243	Reduction, Prostaglandin E2 concentration	Tissue	KE
+KE:244	Alkylation, Protein	Molecular	KE
+KE:245	Activation, PXR/SXR	Molecular	KE
+KE:246	Increase, RBC congestion in liver	Organ	KE
+KE:249	Production, Reactive oxygen species	Tissue	KE
+KE:250	Damaging, Red blood cells; hemolysis	Cellular	KE
+KE:252	Increase, Renal pathology due to VTG deposition	Organ	KE
+KE:253	N/A, Reproductive failure	Individual	KE
+KE:257	Increase, Excessive reactive Oxygen Species	Molecular	KE
+KE:258	Activation, SCD-1	Molecular	KE
+KE:264	Activation, SREBP-1c	Molecular	KE
+KE:265	Activation, Stellate cells	Cellular	KE
+KE:266	Decrease, Steroidogenic acute regulatory protein (STAR)	Cellular	KE
+KE:269	Induction, Sustained Cell Proliferation	Cellular	KE
+KE:270	Induction, Sustained Hepatotoxicity	Individual	KE
+KE:272	Activation/Proliferation, T-cells	Organ	KE
+KE:274	Reduction, Testosterone synthesis by ovarian theca cells	Cellular	KE
+KE:277	Thyroid hormone synthesis, Decreased	Cellular	KE
+KE:279	Thyroperoxidase, Inhibition	Molecular	KE
+KE:280	Thyroxine (T4) in neuronal tissue, Decreased	Organ	KE
+KE:281	Thyroxine (T4) in serum, Decreased	Tissue	KE
+KE:285	Reduction, Vitellogenin synthesis in liver	Tissue	KE
+KE:286	Altered, Transcription of genes by the androgen receptor	Tissue	KE
+KE:288	Activation of specific nuclear receptors, Transcriptional change	Cellular	KE
+KE:289	Decrease, Translocator protein (TSPO)	Cellular	KE
+KE:291	Accumulation, Triglyceride	Cellular	KE
+KE:295	Induction, Upregulation of glucuronyltransferase activity	Molecular	KE
+KE:298	Insufficiency, Vascular	Molecular	KE
+KE:305	Inhibition, VegfR2	Molecular	KE
+KE:307	Increase, Vitellogenin synthesis in liver	Tissue	KE
+KE:309	Reduction, Vitellogenin accumulation into oocytes and oocyte growth/development	Cellular	KE
+KE:310	Alteration, Wnt pathway	Cellular	KE
+KE:313	Increase, Allergic Respiratory Hypersensitivity Response	Organ	KE
+KE:317	Altered, Cardiovascular development/function	Organ	KE
+KE:319	Loss, Cochlear function	Organ	KE
+KE:321	N/A, Cyanosis occurs	Individual	KE
+KE:323	Increased, Disease susceptibility	Individual	KE
+KE:327	Accumulation, Fatty acid	Organ	KE
+KE:328	Decrease, Fecundity	Individual	KE
+KE:330	Decrease, Fertility	Individual	KE
+KE:334	Promotion, Hepatocelluar carcinoma	Individual	KE
+KE:336	Increase, Heritable mutations in offspring	Individual	KE
+KE:337	N/A, Impairment of reproductive capacity	Individual	KE
+KE:341	Impairment, Learning and memory	Individual	KE
+KE:344	N/A, Liver fibrosis	Organ	KE
+KE:345	N/A, Liver Steatosis	Organ	KE
+KE:347	Formation, Liver tumor	Individual	KE
+KE:348	Malformation, Male reproductive tract	Organ	KE
+KE:350	Increase, Mortality	Individual	KE
+KE:351	Increased Mortality	Population	KE
+KE:352	N/A, Neurodegeneration	Tissue	KE
+KE:357	Cholestasis, Pathology	Individual	KE
+KE:360	Decrease, Population growth rate	Population	KE
+KE:361	Decline, Population	Population	KE
+KE:364	Impaired development of, Reproductive organs	Individual	KE
+KE:369	Uroporphyria	Individual	KE
+KE:373	Formation, Pro-mutagenic DNA Adducts	Molecular	KE
+KE:376	Increased, Induced Mutations in Critical Genes	Cellular	KE
+KE:378	Tumorigenesis, Hepatocellular carcinoma	Individual	KE
+KE:381	Reduced levels of BDNF	Molecular	KE
+KE:382	Aberrant, Dendritic morphology	Cellular	KE
+KE:383	Reduced, Presynaptic release of glutamate	Molecular	KE
+KE:385	Decrease of synaptogenesis	Cellular	KE
+KE:386	Decrease of neuronal network function	Organ	KE
+KE:388	Overactivation, NMDARs	Cellular	KE
+KE:389	Increased, Intracellular Calcium overload	Cellular	KE
+KE:396	Covalent Binding, Protein	Molecular	KE
+KE:398	Activation, Dendritic Cells	Cellular	KE
+KE:402	Cognitive function, decreased	Individual	KE
+KE:403	Suppression, Immune system	Individual	KE
+KE:405	disrupted, ovarian cycle	Individual	KE
+KE:406	decreased, Fertility	Individual	KE
+KE:408	reduction in ovarian granulosa cells, Aromatase (Cyp19a1)	Cellular	KE
+KE:409	Metabolism of AFB1, Production of Reactive Electrophiles	Molecular	KE
+KE:413	Reduction, Testosterone synthesis in Leydig cells	Cellular	KE
+KE:414	Increase, Luteinizing hormone (LH)	Cellular	KE
+KE:415	Hyperplasia, Leydig cell	Cellular	KE
+KE:416	Increase proliferation, Leydig cell	Cellular	KE
+KE:421	Increased, glomerular rupture and renal hemorrhaging	Organ	KE
+KE:422	Increased, nephropathy	Individual	KE
+KE:424	Inhibition, Na+/I- symporter (NIS)	Molecular	KE
+KE:425	Decrease of Thyroidal iodide	Cellular	KE
+KE:442	Decreased, Population trajectory	Population	KE
+KE:444	Increased, Atrioventricular block and bradycardia	Organ	KE
+KE:445	Respiratory distress/arrest	Organ	KE
+KE:446	Reduction, fetal/adult testosterone	Tissue	KE
+KE:447	Reduction, Cholesterol transport in mitochondria	Cellular	KE
+KE:450	Suppression, VLDL secretion	Cellular	KE
+KE:451	Inhibition, Mitochondrial fatty acid beta-oxidation	Molecular	KE
+KE:454	Increased, Triglyceride formation	Cellular	KE
+KE:455	Hepatic lipid accumulation	Organ	KE
+KE:456	Suppression, Constitutive androstane receptor, NR1l3	Molecular	KE
+KE:457	Activation, SREBF1	Molecular	KE
+KE:458	Increased, De Novo FA synthesis	Cellular	KE
+KE:459	Increased, Liver Steatosis	Organ	KE
+KE:461	Suppression, HNF4alpha	Molecular	KE
+KE:462	Up Regulation, SCD-1	Molecular	KE
+KE:463	Up Regulation, FAS	Molecular	KE
+KE:465	Increased, FA Influx	Cellular	KE
+KE:466	Up Regulation, LDLR (low density lipoprotein receptor)	Molecular	KE
+KE:467	Increased, LDL uptake	Cellular	KE
+KE:468	Inhibition, PPAR alpha	Molecular	KE
+KE:470	Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)	Molecular	KE
+KE:471	Inhibition, FoxA2	Molecular	KE
+KE:472	Down Regulation, CPT1A	Molecular	KE
+KE:474	Down Regulation, HMGCS2	Molecular	KE
+KE:477	Decreased, Ketogenesis	Cellular	KE
+KE:478	Activation, NRF2	Molecular	KE
+KE:479	Activation, NR1H4	Molecular	KE
+KE:480	Activation, SHP	Molecular	KE
+KE:482	Decreased, DHB4/HSD17B4	Molecular	KE
+KE:483	Activation, LXR alpha	Molecular	KE
+KE:484	Activation, AKT2	Molecular	KE
+KE:486	systemic inflammation leading to hepatic steatosis	Organ	KE
+KE:488	Decrease, Ovulation	Organ	KE
+KE:491	Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)	Organ	KE
+KE:493	Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts	Molecular	KE
+KE:494	Glucocorticoid Receptor Agonist, Activation	Molecular	KE
+KE:495	Repressed expression of steroidogenic enzymes	Cellular	KE
+KE:496	Increased apoptosis, decreased fetal/adult Leydig Cells	Cellular	KE
+KE:505	Decreased sperm quantity / quality in the adult, Decreased fertility	Individual	KE
+KE:520	Decreased sperm quantity or quality in the adult, Decreased fertility	Individual	KE
+KE:525	Apoptosis of adult Leydig cells, Decreased testosterone by adult Leydig cells	Cellular	KE
+KE:526	Inhibition, Inhibition of Dopamine-beta-hydroxylase	Molecular	KE
+KE:527	Decreased, Decreased fecundity	Individual	KE
+KE:528	Decreased, Synthesis of NE	Cellular	KE
+KE:529	Decreased, GnRH cfos activity	Molecular	KE
+KE:530	Decreased, GnRH pulsatility/release	Cellular	KE
+KE:531	Decreased, LH Surge	Cellular	KE
+KE:532	Delayed, Ovulation	Individual	KE
+KE:533	Decreased, Cortical granule release/distribution upon fertilization	Cellular	KE
+KE:534	Altered, Formation of cortical envelope	Cellular	KE
+KE:535	Abnormal, Sperm penetration (polyspermy)	Cellular	KE
+KE:536	Altered, Chromosome number (polyploid) zygote	Cellular	KE
+KE:540	Decreased testosterone by the fetal Leydig cells, Dysgensis of fetal Leydig cells	Organ	KE
+KE:541	Decreased testosterone by the fetal Leydig cells, Decreased COUP-TFII stem Leydig cells	Cellular	KE
+KE:543	Decreased fertility in the adult, Decreased sperm quantity and/or quality in the adult testis	Individual	KE
+KE:559	Activation, Nicotinic acetylcholine receptor	Molecular	KE
+KE:560	Abnormal, Foraging activity and behavior	Individual	KE
+KE:563	Death/Failure, Colony	Population	KE
+KE:564	Abnormal, Roll change within caste	Population	KE
+KE:565	Reduced, Brood care	Population	KE
+KE:566	impaired, Larval development	Population	KE
+KE:568	impaired, Hive thermoregulation	Population	KE
+KE:570	Accumulation, Damaged mitochondrial DNA	Cellular	KE
+KE:571	Accelerated, Aging	Individual	KE
+KE:572	Decrease, Number of worker bees	Population	KE
+KE:577	impaired, Development	Individual	KE
+KE:584	Inhibition, sodium channel	Molecular	KE
+KE:585	Decreased, Sodium conductance 1	Cellular	KE
+KE:586	Reduced, swimming speed	Individual	KE
+KE:587	Reduced, feeding 1	Individual	KE
+KE:588	Increased, predation	Population	KE
+KE:590	N/A, hypoxia	Tissue	KE
+KE:591	Increased, amputations	Individual	KE
+KE:592	Reduced, survival	Population	KE
+KE:593	Inhibition, Ether-a-go-go (ERG) voltage-gated potassium channel	Molecular	KE
+KE:598	modulation, sodium channel	Molecular	KE
+KE:599	prolonged, Depolarization of neuronal membrane	Cellular	KE
+KE:600	Overactivation, Neuronotransmitter release	Molecular	KE
+KE:601	Overactivation, muscle contraction	Tissue	KE
+KE:602	Increased, Ataxia, paralysis, or hyperactivity	Organ	KE
+KE:613	Occurrence, Epileptic seizure	Individual	KE
+KE:616	Occurrence, A paroxysmal depolarizing shift	Tissue	KE
+KE:618	Decreased, Neuronal network function in adult brain	Organ	KE
+KE:619	Inhibition, 5-hydroxytryptamine transporter (5-HTT; SERT)	Molecular	KE
+KE:621	Increase, cilia movement	Tissue	KE
+KE:622	Increased, locomotion	Individual	KE
+KE:623	Increase, predation	Population	KE
+KE:624	Increased, foot detachment	Individual	KE
+KE:625	Increased, muscular waves in foot	Organ	KE
+KE:626	Increased, serotonin (5-HT)	Cellular	KE
+KE:627	Decreased, anxiety	Individual	KE
+KE:629	Decreased, sheltering	Individual	KE
+KE:633	Decrease, histaminergic neuron excitation	Cellular	KE
+KE:634	N/A, sedation	Individual	KE
+KE:635	Decreased, locomotion	Individual	KE
+KE:636	Decreased, survival	Population	KE
+KE:637	impaired, Learning and memory	Individual	KE
+KE:638	Antagonism, Histamine Receptor (H2)	Molecular	KE
+KE:640	Decreased steroidogenesis, Proteomic alterations in the adult Leydig cell	Molecular	KE
+KE:642	Decreased Cholesterol, Decreased De Novo Biosynthesis of Choleseterol	Molecular	KE
+KE:643	Decreased Cholesterol, Decreased Uptake of Lipoproteins	Molecular	KE
+KE:644	Decreased Cholesterol, Decreased Transport of Cholesterol to the Inner Mitochondrial Membrane	Molecular	KE
+KE:645	Decreased Cholesterol, Decreased Testosterone Production by Adult Leydig Cells	Cellular	KE
+KE:646	Decreased Cholesterol, Decreased sperm quantity and/or quality in the adult testis	Organ	KE
+KE:647	Decreased, steroidogenic protein expression	Cellular	KE
+KE:648	Decreased steroidogenesis, Increased Apoptosis of Adult Leydig Cells	Tissue	KE
+KE:649	Decreased steroidogenesis, Alterations in the Leydig Cell Cytoskeleton	Tissue	KE
+KE:650	Stimulation of adult Leydig cells via the Adrenal Corticosterone, Increased Glucocorticoid	Molecular	KE
+KE:651	Glucocorticoid Receptor mediated alterations in steriodogenic enzymes, Decreased testosterone by adult Leydig cells	Cellular	KE
+KE:652	Direct effects of Corticosterone on steroidogenesis, Decreased testosterone by adult Leydig cells	Cellular	KE
+KE:653	Decreased testosterone by the fetal Leydig cells, Increased corticosterone	Cellular	KE
+KE:654	Decreased testosterone by the fetal Leydig cells, Activation by other glucocorticoid receptor agonists	Cellular	KE
+KE:655	Decreased testosterone by the fetal Leydig cells, Increased COUP-TFII in fetal Leydig cells	Cellular	KE
+KE:656	Decreased, Chicken Ovalbumin Upstream Promoter Transcription Factor II (COUP-TFII)	Cellular	KE
+KE:657	Decreased testosterone by the fetal Leydig cells, Dysgenesis of fetal Leydig cells	Organ	KE
+KE:658	Decreased testosterone by the fetal Leydig cells, Increased estradiol	Cellular	KE
+KE:659	Decreased testosterone by the fetal Leydig cells, Activation by other estradiol agonists	Cellular	KE
+KE:660	decreased testosterone by fetal Leydig cells, Dysgenesis of fetal Leydig cells	Organ	KE
+KE:661	Decreased testosterone by the fetal Leydig cells, Alterations in the fetal testis proteome	Molecular	KE
+KE:662	Decreased testosterone by the fetal Leydig cells, Hypermethylation in the fetal testis	Molecular	KE
+KE:663	Desensitization, Nicotinic acetylcholine receptor	Molecular	KE
+KE:664	Overwhelmed, Mitochondrial DNA repair mechanisms	Cellular	KE
+KE:667	Binding at picrotoxin site, iGABAR chloride channel	Molecular	KE
+KE:669	Reduction, Neuronal synaptic inhibition	Cellular	KE
+KE:671	Reduced, Prostaglandin F2alpha concentration, plasma	Individual	KE
+KE:672	Reduced, Prostaglandin F2alpha synthesis, ovary	Organ	KE
+KE:673	Reduced, Spawning behavior	Individual	KE
+KE:674	Reduced, Ability to attract spawning mates	Individual	KE
+KE:675	Reduced, Reproductive Success	Individual	KE
+KE:678	Reduced, Pheromone release	Individual	KE
+KE:679	Decline, Population trajectory	Population	KE
+KE:681	Decreased, Prostaglandin F2alpha synthesis, ovary	Organ	KE
+KE:682	Generation, Amplified excitatory postsynaptic potential (EPSP)	Cellular	KE
+KE:685	Reduced, Prostaglandins, ovary	Organ	KE
+KE:687	Reduced, Prostaglandin E2 concentration, hypothalamus	Tissue	KE
+KE:689	Reduced, Gonadotropin releasing hormone, hypothalamus	Tissue	KE
+KE:690	Reduced, Luteinizing hormone (LH), plasma	Tissue	KE
+KE:691	Reduced, Maturation inducing steroid, plasma	Tissue	KE
+KE:692	Reduced, Maturation inducing steroid receptor signalling, oocyte	Tissue	KE
+KE:693	Increased, cyclic adenosine monophosphate	Tissue	KE
+KE:694	Reduced, Meiotic prophase I/metaphase I transition, oocyte	Cellular	KE
+KE:695	Upregulated, Spindle assembly checkpoint protein Mad2-oocyte	Molecular	KE
+KE:696	Increased, Chromosome misseggregation	Cellular	KE
+KE:697	impaired, ion channels	Cellular	KE
+KE:698	Altered, Action Potential	Cellular	KE
+KE:699	Increased, cardiac arrthymia	Organ	KE
+KE:708	Increased, Accumulation of alpha2u microglobulin (proximal tubular epithelium)	Tissue	KE
+KE:709	Increase, Cytotoxicity (renal tubular cell)	Cellular	KE
+KE:710	Increase, Regenerative cell proliferation (tubular epithelial cells)	Cellular	KE
+KE:713	Increase, Adenomas/carcinomas (renal tubular)	Tissue	KE
+KE:714	Increased, Binding of chemicals to 2u (serum)	Molecular	KE
+KE:715	Activation, Constitutive androstane receptor	Molecular	KE
+KE:716	Increase, cell proliferation (hepatocytes)	Cellular	KE
+KE:718	Binding, Tubulin	Molecular	KE
+KE:719	Increase, hepatocellular adenomas and carcinomas	Tissue	KE
+KE:720	Disruption, Microtubule dynamics	Molecular	KE
+KE:721	Disorganization, Meiotic Spindle	Cellular	KE
+KE:723	Altered, Chromosome number	Cellular	KE
+KE:724	Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme	Cellular	KE
+KE:726	Increased, Induction of pyruvate dehydrogenase (PDH)	Molecular	KE
+KE:728	Increase, Aneuploid offspring	Individual	KE
+KE:733	Increase, Necrosis (terminal bronchiolar cells)	Cellular	KE
+KE:734	Increase, Regenerative cell proliferation (terminal bronchiolar epithelial cells)	Cellular	KE
+KE:735	Increase, Hyperplasia (terminal bronchiolar cells)	Cellular	KE
+KE:736	Increase, Adenomas/carcinomas (bronchioloalveolar)	Tissue	KE
+KE:739	Increase, Hypertrophy and proliferation (follicular cell)	Cellular	KE
+KE:740	Increase, Hyperplasia (follicular cells)	Cellular	KE
+KE:741	Increase, Adenomas/carcinomas (follicular cell)	Tissue	KE
+KE:743	Decreased, Testosterone binding to androgen receptor (hypothalamus)	Molecular	KE
+KE:744	Increase, Hyperplasia (Leydig cells)	Cellular	KE
+KE:745	Increase, Leydig cell tumors	Cellular	KE
+KE:746	Increase, Dopaminergic activity	Cellular	KE
+KE:747	Decreased, Prolactin	Tissue	KE
+KE:748	Increased, Estrogen receptor (ER) activity	Molecular	KE
+KE:749	Decreased, Progesterone from corpus luteum	Tissue	KE
+KE:752	Altered, Meiotic chromosome dynamics	Cellular	KE
+KE:754	Increased, Luteinizing hormone (LH)	Tissue	KE
+KE:756	Hippocampal gene expression, Altered	Tissue	KE
+KE:757	Hippocampal anatomy, Altered	Tissue	KE
+KE:758	Hippocampal Physiology, Altered	Tissue	KE
+KE:759	Increased, Kidney Failure	Population	KE
+KE:760	Activation, Glutamate-gated chloride channel	Molecular	KE
+KE:761	Increased, Chloride conductance	Cellular	KE
+KE:762	Activation, ionotropic GABA Receptor chloride channel	Molecular	KE
+KE:763	hyperpolarisation, neuron	Cellular	KE
+KE:764	N/A, Ataxia, paralysis, or hyperactivity	Organ	KE
+KE:765	Decreased, population 1	Population	KE
+KE:766	Inhibition, 4-hydroxyphenyl-pyruvate dioxygenase (HPPD) enzyme	Molecular	KE
+KE:767	Increase, Hyperplasia (renal tubular cells)	Cellular	KE
+KE:768	Increase, Cytotoxicity	Cellular	KE
+KE:769	Increase, Oxidative metabolism	Cellular	KE
+KE:770	Increase, Cytotoxicity (club cells)	Cellular	KE
+KE:771	Decrease, Serum thyroid hormone (T4/T3)	Tissue	KE
+KE:772	Increase, Hyperplasia (glandular epithelial cells of endometrium)	Cellular	KE
+KE:773	Increase, Endometrial adenocarcinomas	Tissue	KE
+KE:774	Increase, Preneoplastic foci (hepatocytes)	Cellular	KE
+KE:775	Increased, Plasma tyrosine	Tissue	KE
+KE:776	Increase, Cytotoxicity (corneal cells)	Cellular	KE
+KE:777	Increase, Inflammation (corneal cells)	Cellular	KE
+KE:778	Increase, Regenerative cell proliferation (corneal cells)	Cellular	KE
+KE:779	Increase, Papillomas/carcinomas (squamous cells)	Cellular	KE
+KE:780	Increase, Cytotoxicity (epithelial cells)	Cellular	KE
+KE:781	Increase, Regenerative cell proliferation (forestomach epithelial cells)	Cellular	KE
+KE:782	Increase, Hyperplasia (forestomach epithelial cells)	Cellular	KE
+KE:783	Increase, Cytotoxicity (tubular epithelial cells)	Cellular	KE
+KE:784	Increase, Hyperplasia (tubular epithelial cells)	Cellular	KE
+KE:786	Increase, Cytotoxicity (hepatocytes)	Cellular	KE
+KE:787	Increase, Regenerative cell proliferation (hepatocytes)	Cellular	KE
+KE:791	Increased, Leutinizing hormone (LH)	Tissue	KE
+KE:793	Increase, Urinary bladder calculi	Organ	KE
+KE:794	Increase, Cytotoxicity (urothelial cells)	Cellular	KE
+KE:795	Increase, Regenerative cell proliferation (urothelial cells)	Cellular	KE
+KE:796	Increase, Hyperplasia (urothelial)	Cellular	KE
+KE:797	Increase, Adenomas/carcinomas (urothelial)	Tissue	KE
+KE:798	Inhibition, Prolyl hydroxylases	Cellular	KE
+KE:799	Increased, HIF-1 heterodimer	Cellular	KE
+KE:800	Decreased, Aromatase (Cyp19a1) mRNA	Cellular	KE
+KE:801	modulation, Unknown	Molecular	KE
+KE:802	Increased, HIF-1 alpha transcription	Cellular	KE
+KE:804	Inhibition, HMG-CoA reductase	Cellular	KE
+KE:805	Decreased, mevalonate	Cellular	KE
+KE:807	Decreased, cholesterol	Tissue	KE
+KE:809	malformed, Male reproductive tract	Individual	KE
+KE:813	Increased, Serum creatinine	Organ	KE
+KE:814	Occurrence, Kidney toxicity	Organ	KE
+KE:818	Occurrence, Cytoplasmic vacuolization (Renal tubule)	Organ	KE
+KE:819	Decreased, Glomerular filtration	Tissue	KE
+KE:820	Decreased, Renal plasma flow	Tissue	KE
+KE:821	Decreased, Sodium reabsorption	Organ	KE
+KE:823	Occurrence, Cystic dilatation (renal tubule)	Organ	KE
+KE:824	Occurrence, Cytoplasmic vacuolization (podocyte)	Organ	KE
+KE:825	Decreased, Renal ability to dilute urine	Organ	KE
+KE:826	Activation, Keratinocytes	Cellular	KE
+KE:827	sensitisation, skin	Organ	KE
+KE:828	Inhibition, Phospholipase A	Molecular	KE
+KE:829	Damage, Lipid bilayer	Cellular	KE
+KE:831	Disturbance, Lysosomal function	Cellular	KE
+KE:833	Occurrence, Cytoplasmic vacuolization (hepatocyte)	Cellular	KE
+KE:835	Occurrence, Ballooning degeneration (hepatocyte)	Cellular	KE
+KE:836	Occurrence, Cytoplasmic vacuolization (Bile duct cell)	Cellular	KE
+KE:837	Occurrence, Cytoplasmic vacuolization (kupffer cell)	Cellular	KE
+KE:838	Induction, Microvesicular fat	Tissue	KE
+KE:839	Formation, Mallory body	Cellular	KE
+KE:840	Formation, Liver fibrosis	Tissue	KE
+KE:844	Oxidation, Uroporphyrinogen	Cellular	KE
+KE:845	Inhibition, UROD	Molecular	KE
+KE:846	Accumulation, Highly carboxylated porphyrins	Organ	KE
+KE:848	Decreased, Binding of NE to NE receptors on GnRH neurons	Cellular	KE
+KE:849	Inhibition, Antgonism of NE receptor	Molecular	KE
+KE:850	Induction, CYP1A2/CYP1A5	Molecular	KE
+KE:851	Decrease of GABAergic interneurons	Cellular	KE
+KE:853	Changes/Inhibition, Cellular Homeostasis and Apoptosis	Cellular	KE
+KE:854	Alterations, Cellular proliferation / hyperplasia	Tissue	KE
+KE:856	Formation, Hepatocellular and Bile duct tumors	Organ	KE
+KE:858	Decreased, PPARalpha transactivation of gene expression	Molecular	KE
+KE:860	Decreased, Mitochondrial Fatty Acid Beta Oxidation	Molecular	KE
+KE:861	Decreased, Ketogenesis (production of ketone bodies)	Cellular	KE
+KE:862	Not Increased, Circulating Ketone Bodies	Tissue	KE
+KE:863	Increased, Catabolism of Muscle Protein	Organ	KE
+KE:864	Decreased, Body Weight	Individual	KE
+KE:867	Decrease, Intracellular pH	Cellular	KE
+KE:868	Increase, Tissue Degeneration, Necrosis & Atrophy	Tissue	KE
+KE:869	Increase, Respiratory or Squamous Metaplasia	Tissue	KE
+KE:870	Increase, Cell Proliferation	Cellular	KE
+KE:872	Increase, Site of Contact Nasal Tumors	Organ	KE
+KE:875	Binding of agonist, Ionotropic glutamate receptors	Molecular	KE
+KE:876	Increase, Mutations in Critical Genes	Molecular	KE
+KE:878	Inhibition, SREBP1c	Molecular	KE
+KE:879	Activation, MTTP	Cellular	KE
+KE:880	Increased, ApoB100	Tissue	KE
+KE:881	Increased, Triglyceride	Cellular	KE
+KE:885	Increase, Cancer	Tissue	KE
+KE:887	Inhibition, NADH-ubiquinone oxidoreductase  (complex I)	Cellular	KE
+KE:888	Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	Molecular	KE
+KE:889	Impaired, Proteostasis	Cellular	KE
+KE:890	Degeneration of dopaminergic neurons of the nigrostriatal pathway	Organ	KE
+KE:896	Parkinsonian motor deficits	Individual	KE
+KE:898	Disruption, Lysosome	Cellular	KE
+KE:902	Inflammation, Liver	Organ	KE
+KE:926	Oxidation, Glutathione (To be considered with MIE)	Molecular	KE
+KE:927	KE1 : S-Glutathionylation, eNOS	Molecular	KE
+KE:932	KE4 : Uncoupling, eNOS	Cellular	KE
+KE:933	KE6 : Depletion, Nitric Oxide	Cellular	KE
+KE:934	KE3 : Decrease, Tetrahydrobiopterin	Cellular	KE
+KE:935	KE2 : Decrease, GTPCH-1	Cellular	KE
+KE:937	KE7 : Impaired, Vasodilation	Organ	KE
+KE:941	Activation, EGFR	Molecular	KE
+KE:944	dimerization, AHR/ARNT	Molecular	KE
+KE:945	reduced dimerization, ARNT/HIF1-alpha	Molecular	KE
+KE:947	Increase, Early Life Stage Mortality	Individual	KE
+KE:948	reduced production, VEGF	Cellular	KE
+KE:951	KE8 : Increase, Vascular Resistance	Organ	KE
+KE:952	Hypertension	Individual	KE
+KE:957	Binding, Transthyretin in serum	Molecular	KE
+KE:958	Displacement, Serum thyroxine (T4) from transthyretin	Molecular	KE
+KE:959	Increased, Free serum thyroxine (T4)	Tissue	KE
+KE:960	Increased, Uptake of thyroxine into tissue	Cellular	KE
+KE:961	Increased, Clearance of thyroxine from serum	Tissue	KE
+KE:962	Increase, Mucin production	Cellular	KE
+KE:964	Inhibition of Aromatase Enzyme, Chemical exposure during critical window of estrous cycle between diestrus 2 and proestrus inhibits aromatase conversion of testosterone to estradiol	Molecular	KE
+KE:965	reduction in ovarian granulosa cells synthesis of estradiol, Reduced steroidogenic production of estradiol in granulosa cells	Cellular	KE
+KE:966	Reduced Estradiol in Circulation, Reduced steroidogenic production of estradiol in granulosa cells leading to decreased estradiol in circulation	Tissue	KE
+KE:967	Decreased positive estrogenic feedback on hypothalamus, Reduced estradiol in circulation decreases estrogen concentration at hypothalamus	Organ	KE
+KE:968	Decreased Kisspeptin release from neurons in AVPV, Decreased hypothalamic estrogen reduces kisspeptinergic neuron response	Cellular	KE
+KE:969	Decreased GnRH Release, Decreased Kisspeptin stimulation of GnRH neurons	Cellular	KE
+KE:970	Decreased LH release from Anterior Pituitary, Decreased GnRH stimulation of Anterior Pituitary Gonadotrophs	Cellular	KE
+KE:971	Ovulation of oocytes Reduced, Delayed, or Blocked, Decrease or delay in LH surge required for ovulation	Individual	KE
+KE:972	Decreased fertility, Reduced number of oocytes ovulated	Individual	KE
+KE:973	KE5 : Decrease, AKT/eNOS activity	Cellular	KE
+KE:979	Interference, nuclear localization of NFAT	Molecular	KE
+KE:980	Inhibition, Calcineurin Activity	Molecular	KE
+KE:981	Reduction, NFAT/AP-1 complex formation	Cellular	KE
+KE:984	Impairment, T-cell dependent antibody response	Individual	KE
+KE:988	Decrease, Circulating ecdysis triggering hormone	Tissue	KE
+KE:990	Increase, Incomplete ecdysis	Individual	KE
+KE:993	Decrease, Abdominal muscle contraction	Tissue	KE
+KE:996	Decrease, Digestion of old cuticle	Organ	KE
+KE:998	Binding of antagonist, PPAR alpha	Molecular	KE
+KE:1000	stabilization, PPAR alpha co-repressor	Molecular	KE
+KE:1001	Increased, Developmental Defects	Molecular	KE
+KE:1002	Inhibition, Deiodinase 2	Molecular	KE
+KE:1003	Decreased, Triiodothyronine (T3)	Tissue	KE
+KE:1004	Reduced, Posterior swim bladder inflation	Organ	KE
+KE:1005	Reduced, Swimming performance	Individual	KE
+KE:1007	Reduced, Anterior swim bladder inflation	Organ	KE
+KE:1008	Reduced, Hearing	Organ	KE
+KE:1009	Inhibition, Deiodinase 1	Molecular	KE
+KE:1012	Increased, Inhibitory postsynaptic potential	Cellular	KE
+KE:1014	Induction, Somatic muscle paralysis	Tissue	KE
+KE:1015	Increased, Neuronal synaptic inhibition	Cellular	KE
+KE:1016	Inhibition, Feeding	Individual	KE
+KE:1018	Activation, Glutamate-gated chloride channels	Molecular	KE
+KE:1019	Induction, pharyngeal muscle paralysis	Tissue	KE
+KE:1023	Increased, Thyroid-stimulating hormone (TSH)	Tissue	KE
+KE:1028	Activation of specific nuclear receptors, PPAR-gamma activation	Molecular	KE
+KE:1029	Increased, adipogenesis	Cellular	KE
+KE:1032	Increased, secretion of local growth factors	Cellular	KE
+KE:1033	Increased, proliferation of mesenchymal cells	Cellular	KE
+KE:1034	Increased, IGF-1 (mouse)	Cellular	KE
+KE:1035	Increased, Firbrosarcoma	Tissue	KE
+KE:1036	Increased, liposarcoma	Tissue	KE
+KE:1037	Increased, hemagiosarcoma	Tissue	KE
+KE:1038	Activation, beta-2 adrenergic receptor	Molecular	KE
+KE:1039	Increased activity, beta-2 adrenergic receptor	Molecular	KE
+KE:1040	relaxation, smooth muscle	Tissue	KE
+KE:1042	Proliferation/Clonal Expansion, smooth muscle	Cellular	KE
+KE:1043	Hypertrophy/hyperplasia, smooth muscle	Cellular	KE
+KE:1044	Promotion, mesovarian leiomyomas	Tissue	KE
+KE:1045	Decreased, Ovarian E2	Tissue	KE
+KE:1046	Suppression, Estrogen receptor (ER) activity	Molecular	KE
+KE:1047	Increased, secretion of GnRH from hypothalamus	Cellular	KE
+KE:1049	Increased, secrection of FSH from anterior pituitary	Cellular	KE
+KE:1050	Increased, secretion of LH from anterior pituitary	Cellular	KE
+KE:1051	Hyperplasia, ovarian stromal cells	Cellular	KE
+KE:1052	Hyperplasia, ovarian epithelium	Tissue	KE
+KE:1053	Promotion, ovarian adenomas	Tissue	KE
+KE:1054	Promotion, ovarian granular cell tumors	Cellular	KE
+KE:1056	Decrease, E2 blood concentrations at hypothalamus	Tissue	KE
+KE:1057	Increased, PPAR-alpha activation	Molecular	KE
+KE:1058	Decreased, bile flow	Organ	KE
+KE:1059	Increased, cholestasis	Organ	KE
+KE:1060	Alteration, lipid metabolism	Cellular	KE
+KE:1061	prolonged, elevation of serun CCK	Tissue	KE
+KE:1062	Increased, Cellular proliferation / hyperplasia of acinar cells	Cellular	KE
+KE:1063	Increased, Pancreatic acinar tumors	Organ	KE
+KE:1064	prepubertal increase, Estrogen receptor (ER) activity	Molecular	KE
+KE:1065	Activation, estrogen receptor alpha	Molecular	KE
+KE:1066	Promotion, SIX-1 postive basal-type progenitor cells	Cellular	KE
+KE:1067	Proliferation/Clonal Expansion, aberrant basal cells	Cellular	KE
+KE:1068	squamous metaplasia, aberrant basal cells	Tissue	KE
+KE:1069	Increased, Hyperplasia (glandular epithelial cells of endometrium)	Cellular	KE
+KE:1070	Increased, adenosquamous carcinomas of endometrium	Tissue	KE
+KE:1071	Decreased, GnRH pulsatility/release in hypothalamus	Cellular	KE
+KE:1072	Decreased, LH Surge from anterior pituitary	Cellular	KE
+KE:1074	interruption, Ovulation	Individual	KE
+KE:1075	prolonged, estrus	Individual	KE
+KE:1076	Increased, circulating estrogen levels	Organ	KE
+KE:1077	Increased, prolactin exposure	Tissue	KE
+KE:1078	Hyperplasia, Mammary gland	Tissue	KE
+KE:1079	Increased, Adenomas/carcinomas (mammary)	Tissue	KE
+KE:1081	Increased, lactotroph hyperplasia and hypertrophy	Cellular	KE
+KE:1082	Increased, adenomas (pituitary)	Tissue	KE
+KE:1083	Decreased, Dopaminergic activity	Cellular	KE
+KE:1084	Increased, prolactin secretion	Tissue	KE
+KE:1085	Increased, hyperplasia (mammary gland)	Tissue	KE
+KE:1086	persistent, cytotoxicity (pleura or peritoneum)	Cellular	KE
+KE:1087	Increased, inflammation	Cellular	KE
+KE:1088	Oxidative stress	Cellular	KE
+KE:1089	Increased, Cell Proliferation (mesothelium)	Cellular	KE
+KE:1090	Increased, mesotheliomas	Tissue	KE
+KE:1096	Increased, blood uric acid concentration	Tissue	KE
+KE:1097	Occurrence, renal proximal tubular necrosis	Tissue	KE
+KE:1098	Increased, blood potassium concentration	Tissue	KE
+KE:1101	Altered, Amphibian metamorphosis	Organ	KE
+KE:1106	Occurrence, cardiac arrhythmia	Organ	KE
+KE:1107	Weakened, Colony	Population	KE
+KE:1108	Abnormal, Role change within caste	Population	KE
+KE:1115	Increase, Reactive oxygen species	Cellular	KE
+KE:1116	Decreased, Triiodothyronine (T3) in tissues	Tissue	KE
+KE:1122	Under carboxylated clotting factors will not assemble on cell surfaces to form clot, Failure of secondary hemostasis	Tissue	KE
+KE:1130	Failure in vascular repair mechanisms, Unresolved blood loss (hemorrhage)	Organ	KE
+KE:1131	Failure in gamma-glutamyl carboxylation of  clotting factors II, VII, IX and X, Under carboxylation of clotting factors (e.g., des-gamma-carboxy prothrombin)	Molecular	KE
+KE:1132	Blood loss and development of anemia, Impaired oxygen delivery and nutrient delivery to tissue, impaired carbon dioxide and waste product removal	Cellular	KE
+KE:1133	Hemostasis, Depletion from blood of fully functional carboxylated clotting factors	Tissue	KE
+KE:1134	Irreversible inhibition of hepatic VKOR by binding of AR at tyrosine 139, Failure to cycle vitamin K epoxide to vitamin K to form vitamin K hydroquinone	Molecular	KE
+KE:1135	Reduced fitness or even mortality, Acidosis, hypovolemic shock and organ dysfunction	Tissue	KE
+KE:1138	Uncoupling of oxidative phosphorylation, Reduced ability to generate ATP	Molecular	KE
+KE:1139	Increased, water retention in foot	Organ	KE
+KE:1141	Decreased, Reproductive Success	Individual	KE
+KE:1142	Increased, valve movement	Tissue	KE
+KE:1143	Depletion, energy reserves	Individual	KE
+KE:1151	Osteoporosis and vascular calcification, Bone deterioration	Individual	KE
+KE:1152	Inhibition, Iodotyrosine deiodinase (IYD)	Molecular	KE
+KE:1153	Inhibition, Deiodinase 3	Molecular	KE
+KE:1154	Increased, Triiodothyronine (T3) in tissues	Tissue	KE
+KE:1155	Inhibition, Pendrin	Molecular	KE
+KE:1156	Inhibition, Dual oxidase	Molecular	KE
+KE:1157	Activation, Hepatic nuclear receptor(s)	Molecular	KE
+KE:1158	Increased, Hepatic thyroid hormone uptake/transport	Tissue	KE
+KE:1161	Increased, oocyte maturation	Organ	KE
+KE:1163	Increased, Reproductive Success	Individual	KE
+KE:1164	Increased, Population	Population	KE
+KE:1169	Anticoagulant rodenticide interferes with carboxylation of Gla proteins in bone, Impairment of post-translational modification (carboxylation) of osteocalcin	Molecular	KE
+KE:1170	Increase, Phenotypic enzyme activity	Cellular	KE
+KE:1171	Increase, Clonal Expansion of Altered Hepatic Foci	Cellular	KE
+KE:1172	Increased activation, Nuclear factor kappa B (NF-kB)	Cellular	KE
+KE:1174	Activation, NADPH Oxidase	Molecular	KE
+KE:1181	Activation, Estrogen receptor	Molecular	KE
+KE:1182	Increase, Cell Proliferation (Epithelial Cells)	Cellular	KE
+KE:1183	Decreased, Apoptosis (Epithelial Cells)	Cellular	KE
+KE:1187	Increased, ER binding to DNA (classical pathway)	Molecular	KE
+KE:1188	Increased, ER binding to T.F. to DNA (non-classical pathway)	Molecular	KE
+KE:1189	Increased, Proliferation (Endothelial cells)	Cellular	KE
+KE:1190	Increased, Migration (Endothelial Cells)	Cellular	KE
+KE:1191	Increased, Non-genomic signaling	Cellular	KE
+KE:1192	Increased, Ductal Hyperplasia	Tissue	KE
+KE:1193	N/A, Breast Cancer	Individual	KE
+KE:1194	Increase, DNA damage	Molecular	KE
+KE:1195	modulation, Extracellular Matrix Composition	Cellular	KE
+KE:1196	Increased, Invasion	Cellular	KE
+KE:1197	Activation, Fibroblasts	Cellular	KE
+KE:1198	Activation, Macrophages	Cellular	KE
+KE:1202	Suppression, IL-2 and IL-4 production	Cellular	KE
+KE:1205	Activation, Juvenile hormone receptor	Molecular	KE
+KE:1206	Induction, Doublesex1 gene	Molecular	KE
+KE:1208	Increased, Male offspring	Population	KE
+KE:1209	Induction, Male reproductive tract	Organ	KE
+KE:1210	Alteration, Food-web structures	Population	KE
+KE:1213	Increased, Angiogenesis	Cellular	KE
+KE:1214	Altered gene expression specific to CAR activation, Hepatocytes	Cellular	KE
+KE:1215	TRPA1 activation, TRPA1 Receptor	Molecular	KE
+KE:1218	Opening of calcium channel, Calcium influx	Cellular	KE
+KE:1220	Trigeminal nerve activation	Tissue	KE
+KE:1222	SP (Substance P) release, Local increase of SP	Cellular	KE
+KE:1223	Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea	Tissue	KE
+KE:1226	Increased Respiratory irritability and Chronic Cough,	Organ	KE
+KE:1239	Altered, Gene Expression	Molecular	KE
+KE:1240	Altered, Protein Production	Cellular	KE
+KE:1241	Increased, Motility	Cellular	KE
+KE:1242	Increased, Second Messenger Production	Cellular	KE
+KE:1243	Altered, Ca2+-calmodulin activated signal transduction	Cellular	KE
+KE:1250	Decrease, Lung function	Individual	KE
+KE:1252	Binding to (interferes with) topoisomerase II enzyme	Molecular	KE
+KE:1253	MLL chromosomal translocation	Cellular	KE
+KE:1254	Infant leukaemia	Individual	KE
+KE:1255	induced spawning	Individual	KE
+KE:1256	increased mantel display	Organ	KE
+KE:1257	Induced parturition	Individual	KE
+KE:1258	Decompartmentalization	Cellular	KE
+KE:1259	narcosis	Cellular	KE
+KE:1260	Direct mitochondrial inhibition	Molecular	KE
+KE:1262	Apoptosis	Cellular	KE
+KE:1263	Necrosis	Tissue	KE
+KE:1264	Increase, Nuclear receptor E75b gene expression	Molecular	KE
+KE:1265	Increase, Fushi tarazu factor-1 gene expression	Molecular	KE
+KE:1266	Decrease, Circulating crustacean cardioactive peptide	Tissue	KE
+KE:1267	Decrease, Ecdysis motoneuron bursts	Tissue	KE
+KE:1268	Decrease, Excitatory postsynaptic potential	Tissue	KE
+KE:1269	Increase, COX-2 expression	Molecular	KE
+KE:1270	Inactivation of PPARγ	Molecular	KE
+KE:1271	Activation of TGF-β signaling	Cellular	KE
+KE:1275	Collagen Deposition	Tissue	KE
+KE:1276	Lung fibrosis	Organ	KE
+KE:1277	Reproductive failure	Individual	KE
+KE:1278	ROS formation	Molecular	KE
+KE:1279	Increase, Oxidative Stress / Activation, PMK-1 P38 MAPK	Cellular	KE
+KE:1280	Activation, HIF-1	Cellular	KE
+KE:1281	Increased, DNA Damage-Repair	Cellular	KE
+KE:1283	Activation, TGF-beta pathway	Cellular	KE
+KE:1284	Up Regulation, SREBF2	Cellular	KE
+KE:1285	Up Regulation, Unsaturated fatty acid	Cellular	KE
+KE:1286	Down Regulation, GSS and GSTs gene	Cellular	KE
+KE:1287	Glutathione synthesis	Cellular	KE
+KE:1288	Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene	Cellular	KE
+KE:1289	Perturbation of cholesterol	Cellular	KE
+KE:1290	Glutathione homeostasis	Cellular	KE
+KE:1291	Hepatotoxicity	Cellular	KE
+KE:1292	Activation, JNK	Cellular	KE
+KE:1295	Defect of Embryogenesis	Tissue	KE
+KE:1299	Activation, AKT	Molecular	KE
+KE:1300	Activation, mTORC1	Molecular	KE
+KE:1305	Increase, cytosolic fatty acid	Cellular	KE
+KE:1310	Activation, PI3K	Molecular	KE
+KE:1316	Inhibit, serotonin transporter activity	Molecular	KE
+KE:1317	Decreased, serotonin transporter activity	Molecular	KE
+KE:1318	Decreased, extracellular sodium (Na+)	Molecular	KE
+KE:1319	Decreased, extracellular chloride (Cl-)	Molecular	KE
+KE:1320	Increased, extracellular serotonin	Molecular	KE
+KE:1321	Increased, intracellular sodium (Na+)	Molecular	KE
+KE:1322	Increased, intracellular chloride (Cl-)	Molecular	KE
+KE:1323	Decreased, intracellular serotonin	Molecular	KE
+KE:1324	Decreased, packaged serotonin	Molecular	KE
+KE:1325	Decreased, synaptic release	Molecular	KE
+KE:1326	Increased, 5-HT3 (5-hydroxytryptamine)	Molecular	KE
+KE:1328	Inactivated, 5-HTR (serotonin receptors)	Molecular	KE
+KE:1329	Reduce expression, BDNF (Brain-derived neurotrophic factor)	Molecular	KE
+KE:1330	Decreased, neuroplasticity	Molecular	KE
+KE:1334	Increase, cortisone	Molecular	KE
+KE:1335	Reduced, BDNF (Brain-derived neurotrophic factor)	Molecular	KE
+KE:1336	Activation, 5-HT2A (Serotonin 2A)	Molecular	KE
+KE:1337	Activate, PLC (Phospholipase C)	Molecular	KE
+KE:1338	Increase, inositol triphosphate	Molecular	KE
+KE:1339	Increase, intracellular calcium	Cellular	KE
+KE:1340	Activate, calmodulin	Molecular	KE
+KE:1341	Increase, myosin light chain phosphorylation	Molecular	KE
+KE:1342	Increase, vascular smooth muscle contraction	Molecular	KE
+KE:1343	Increase, hypertension	Individual	KE
+KE:1344	Increased, seizure	Individual	KE
+KE:1345	Increased, agitation	Molecular	KE
+KE:1346	Increased, depression	Individual	KE
+KE:1347	Decreased, extracellular serotonin	Molecular	KE
+KE:1348	Increase, seizure	Individual	KE
+KE:1349	Activated, presynaptic neuron 1	Molecular	KE
+KE:1350	Increased, glutamate	Molecular	KE
+KE:1351	Activated, NMDA receptor	Molecular	KE
+KE:1352	Activated, voltage-gated sodium channel	Molecular	KE
+KE:1353	Binding to voltage-gated sodium channel	Molecular	KE
+KE:1355	Activated, membrane depolarization	Cellular	KE
+KE:1356	Inactive, membrane depolarization	Molecular	KE
+KE:1357	Increased, RDX dose	Molecular	KE
+KE:1358	Repress, GABA-A receptor	Molecular	KE
+KE:1359	Activate, GABA-A receptor	Molecular	KE
+KE:1360	Activate, presynaptic neuron 2	Molecular	KE
+KE:1361	Increase, GABA	Molecular	KE
+KE:1362	Increased, hippocampal hyperdepolarization	Molecular	KE
+KE:1363	Increased, epilepsy	Individual	KE
+KE:1365	Increase, Apoptosis	Cellular	KE
+KE:1366	Decrease, Oogenesis	Organ	KE
+KE:1367	Inhibit, gastric ulcer formation	Organ	KE
+KE:1368	Inhibition, PTGS-1 (Prostaglandin-endoperoxide synthase 1)	Molecular	KE
+KE:1369	Activation, PTGS-1 (Prostaglandin-endoperoxide synthase 1)	Molecular	KE
+KE:1370	Activation, PTGS-2 (Prostaglandin-endoperoxide synthase 2)	Molecular	KE
+KE:1371	Inhibition, PTGS-2 (Prostaglandin-endoperoxide synthase 2)	Molecular	KE
+KE:1372	Increase, bicarbonate	Molecular	KE
+KE:1373	Increase, mucous	Molecular	KE
+KE:1375	Increase, platelet aggregation	Tissue	KE
+KE:1376	Increase, angiogenesis	Tissue	KE
+KE:1377	Decrease, leukocyte adherence	Tissue	KE
+KE:1378	Increase, leukocyte adherence	Tissue	KE
+KE:1379	Activate, leukocyte	Cellular	KE
+KE:1380	Activate, mucosal defense	Tissue	KE
+KE:1381	Increase, surfactant	Molecular	KE
+KE:1382	Decrease, surfactant	Molecular	KE
+KE:1383	Activate, phospholipase	Molecular	KE
+KE:1384	Increase, ammonium (NH4+)	Molecular	KE
+KE:1385	Activated, gastric ulcer formation	Organ	KE
+KE:1386	CYP7B activity, inhibition	Molecular	KE
+KE:1387	7α-hydroxypregnenolone synthesis in the brain, decreased	Cellular	KE
+KE:1388	Dopamine release in the brain, decreased	Tissue	KE
+KE:1389	Locomotor activity, decreased	Individual	KE
+KE:1390	Sexual behavior, decreased	Individual	KE
+KE:1391	Activation of Cyp2E1	Molecular	KE
+KE:1392	Oxidative Stress	Molecular	KE
+KE:1393	Hepatocytotoxicity	Cellular	KE
+KE:1394	Induction, persistent proliferation/sustained proliferation	Cellular	KE
+KE:1395	Liver Cancer	Organ	KE
+KE:1396	Increased, glucocorticoid receptor activity	Molecular	KE
+KE:1397	Increased, serotonin transporter activity	Cellular	KE
+KE:1398	Increased, intracellular serotonin	Cellular	KE
+KE:1399	Increased, packaged serotonin	Cellular	KE
+KE:1400	Increased, synaptic release	Cellular	KE
+KE:1401	Decreased, 5-HT3	Tissue	KE
+KE:1402	Reduced, PTGS1 function	Molecular	KE
+KE:1403	Reduced, platelet aggregation	Tissue	KE
+KE:1404	Decreased, mucosal blood flow	Tissue	KE
+KE:1405	Reduced, mucosal defense	Tissue	KE
+KE:1406	Decreased, mucous	Tissue	KE
+KE:1407	Decreased, bicarbonate	Tissue	KE
+KE:1408	Reduced, PTGS2 function	Cellular	KE
+KE:1409	Decreased, angiogenesis	Tissue	KE
+KE:1410	Increased, leukocyte adherence	Tissue	KE
+KE:1411	Increased, leukocyte activation	Tissue	KE
+KE:1412	Helicobacter pylori infection	Tissue	KE
+KE:1413	Reduced, presynaptic neuron 2 activity	Cellular	KE
+KE:1414	Decreased, GABA	Cellular	KE
+KE:1415	Reduced, GABA-A receptor activation	Molecular	KE
+KE:1416	Decreased, intracellular chloride	Cellular	KE
+KE:1417	NFE2/Nrf2 repression	Molecular	KE
+KE:1419	Reduced, FXR activity	Molecular	KE
+KE:1420	Reduced, SHP activity	Molecular	KE
+KE:1421	Activated, LXR	Molecular	KE
+KE:1422	Reduced, PPARalpha	Molecular	KE
+KE:1423	Reduced, HSD17B4 activity	Molecular	KE
+KE:1424	Reduced, fatty acid beta oxidation	Molecular	KE
+KE:1425	Mu Opioid Receptor Agonism	Molecular	KE
+KE:1426	Release of G Proteins	Cellular	KE
+KE:1427	Opening of G protein gated inward rectifying K channels	Cellular	KE
+KE:1428	Analgesia	Individual	KE
+KE:1429	Inhibition of N-type Ca ion channels	Cellular	KE
+KE:1430	Inhibition of neurotransmitter vesicle release	Cellular	KE
+KE:1431	Serotonin 1A Receptor Agonism	Molecular	KE
+KE:1432	Anti-depressant Activity	Individual	KE
+KE:1433	Increased CGRP, neuronal release of CGRP	Cellular	KE
+KE:1434	Irritation of nasal mucosa inducing sneeze reflex	Tissue	KE
+KE:1435	Increased neurokinin A (NKA) by neuronal cells	Cellular	KE
+KE:1438	Transcription of genes encoding acute phase proteins, Increased	Organ	KE
+KE:1439	Systemic acute phase response	Organ	KE
+KE:1442	Foam cell formation	Organ	KE
+KE:1443	Atherosclerosis	Individual	KE
+KE:1444	Increase, Follicular atresia	Organ	KE
+KE:1445	Increase, Lipid peroxidation	Molecular	KE
+KE:1446	Decrease, Coupling of oxidative phosphorylation	Molecular	KE
+KE:1447	obesity	Individual	KE
+KE:1448	activation of CCAAT/enhancer-binding protein alpha	Molecular	KE
+KE:1449	increased adipogenesis	Tissue	KE
+KE:1450	decreased dopamine	Molecular	KE
+KE:1452	decreased DNA methylation of tyrosine hydroxylase	Cellular	KE
+KE:1453	decreased methylation of dopamine transporter promoter	Cellular	KE
+KE:1456	Increase, Differentiation of fibroblasts	Cellular	KE
+KE:1457	Epithelial Mesenchymal Transition	Cellular	KE
+KE:1458	Pulmonary fibrosis	Organ	KE
+KE:1461	Increase, DNA double-strand breaks	Molecular	KE
+KE:1462	Thiol group of chemicals interact with sulfuhydryl groups of proteins to form thiol adducts	Molecular	KE
+KE:1463	Inhibition of lysyl oxidase	Cellular	KE
+KE:1464	Reduction of collagen crosslinking	Tissue	KE
+KE:1465	Weak collagen matrix	Tissue	KE
+KE:1466	Notochord distortion or malformations	Organ	KE
+KE:1467	Growth, reduction	Individual	KE
+KE:1468	Activation, Latent Transforming Growth Factor Beta 1	Molecular	KE
+KE:1469	Activation, Transforming Growth Factor beta pathway	Molecular	KE
+KE:1471	Increase, Uncoupling of photophosphorylation	Cellular	KE
+KE:1472	Decrease, ATP production	Cellular	KE
+KE:1473	Decrease, Chlorophyll synthesis	Cellular	KE
+KE:1474	Decrease, Light harvest capacity	Cellular	KE
+KE:1475	Decrease, Photosynthesis	Cellular	KE
+KE:1476	Decrease, Glycolysis	Cellular	KE
+KE:1477	Decrease, Oxidative phosphorylation	Cellular	KE
+KE:1478	Decrease, Leaf cell mitosis	Tissue	KE
+KE:1479	Decrease, Leaf development	Organ	KE
+KE:1481	Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	Molecular	KE
+KE:1482	Depletion, mtDNA	Cellular	KE
+KE:1486	Binding of substrate, endocytic receptor	Molecular	KE
+KE:1487	Binding, Thiol/seleno-proteins involved in protection against oxidative stress	Molecular	KE
+KE:1488	Glutamate dyshomeostasis	Cellular	KE
+KE:1489	N/A, Steatohepatisis	Organ	KE
+KE:1490	Inhibition, Fatty Acid Beta Oxidation	Molecular	KE
+KE:1491	Increased, Oncotic Necrosis	Tissue	KE
+KE:1492	Tissue resident cell activation	Cellular	KE
+KE:1493	Increased Pro-inflammatory mediators	Tissue	KE
+KE:1494	Leukocyte recruitment/activation	Cellular	KE
+KE:1495	Substance interaction with the lung resident cell membrane components	Molecular	KE
+KE:1496	Increased, secretion of proinflammatory mediators	Cellular	KE
+KE:1497	Increased, recruitment of inflammatory cells	Tissue	KE
+KE:1498	Loss of alveolar capillary membrane integrity	Tissue	KE
+KE:1499	Increased, activation of T (T) helper (h) type 2 cells	Tissue	KE
+KE:1500	Increased, fibroblast proliferation and myofibroblast differentiation	Tissue	KE
+KE:1501	Increased, extracellular matrix deposition	Tissue	KE
+KE:1502	Histone deacetylase inhibition	Molecular	KE
+KE:1503	Histone acetylation, increase	Cellular	KE
+KE:1505	Cell cycle, disrupted	Cellular	KE
+KE:1506	Testicular atrophy	Organ	KE
+KE:1508	CYP2E1 Activation	Molecular	KE
+KE:1509	Protein Adduct Formation	Molecular	KE
+KE:1511	Lipid Peroxidation	Molecular	KE
+KE:1512	Unfolded Protein Response	Molecular	KE
+KE:1513	General Apoptosis	Cellular	KE
+KE:1514	Neurodegeneration	Organ	KE
+KE:1515	Spermatocyte depletion	Tissue	KE
+KE:1521	Decrease, Growth	Individual	KE
+KE:1522	Inhibition, Chitin synthase 1	Molecular	KE
+KE:1523	Decrease, Cuticular chitin content	Tissue	KE
+KE:1524	Increase, Premature molting	Individual	KE
+KE:1525	Increase, Sulfonylurea receptor binding	Molecular	KE
+KE:1526	Increase, Opening of voltage-dependent calcium channel	Cellular	KE
+KE:1527	Increase, Cell membrane depolarization	Cellular	KE
+KE:1528	Fatty Acid Beta Oxidation, Decreased	Molecular	KE
+KE:1529	Blockade, L-Type Calcium Channels	Molecular	KE
+KE:1530	Decrease, Calcium currents	Cellular	KE
+KE:1531	Decrease, Calcium binding to Troponin C	Cellular	KE
+KE:1532	Decrease, Cardiac contractility	Organ	KE
+KE:1533	Decrease, Cardiac ejection fraction	Organ	KE
+KE:1535	Heart failure	Organ	KE
+KE:1536	Disruption, Intracellular calcium mobilization	Cellular	KE
+KE:1537	Disruption, Sarcomere assembly	Cellular	KE
+KE:1538	Decreased protection against oxidative stress	Cellular	KE
+KE:1539	Endocytotic lysosomal uptake	Molecular	KE
+KE:1541	Mitochondrial Complex I inhibition	Molecular	KE
+KE:1542	Increase, Mitochondrial complex III antagonism	Molecular	KE
+KE:1543	Mitochondrial Complex IV inhibition	Molecular	KE
+KE:1544	Mitochondrial Complex V inhibition	Molecular	KE
+KE:1545	Decrease in mitochondrial oxidative phosphorylation	Cellular	KE
+KE:1547	Mitochondrial Injury	Cellular	KE
+KE:1548	Necrotic Tissue	Tissue	KE
+KE:1549	Liver Injury	Organ	KE
+KE:1553	Increase mutations	Molecular	KE
+KE:1554	Increase Chromosomal Aberrations	Molecular	KE
+KE:1555	Increase cell proliferation	Cellular	KE
+KE:1556	Increase, lung cancer	Organ	KE
+KE:1557	Neural crest cell migration, reduced	Cellular	KE
+KE:1558	Collagen production, reduced	Tissue	KE
+KE:1559	Facial cartilage structures are reduced in size and morphologically distorted	Tissue	KE
+KE:1560	Altered differentiation	Cellular	KE
+KE:1561	Neural tube defects	Tissue	KE
+KE:1562	Decreased Na/K ATPase activity	Cellular	KE
+KE:1563	Decreased proximal tubular vectorial transport	Tissue	KE
+KE:1564	Chemical induced Fanconi syndrome	Individual	KE
+KE:1574	Inhibition, IKK complex	Molecular	KE
+KE:1575	Activation, Caspase 8 pathway	Molecular	KE
+KE:1576	Activation, Tissue resident cells (Kuppfer cells)	Cellular	KE
+KE:1579	Increase, proinflammatory mediators (TNFalpha)	Molecular	KE
+KE:1580	Binding of microtubule stabilizing agents (MSA) to microtubules	Molecular	KE
+KE:1581	Disturbance in microtubule dynamic instability	Cellular	KE
+KE:1582	Impaired axonial transport	Cellular	KE
+KE:1583	Sensory axonal peripheral neuropathy	Individual	KE
+KE:1584	Interaction of α-diketones with arginine residues	Molecular	KE
+KE:1585	Proteasomal dysfunction	Molecular	KE
+KE:1586	Airway epithelial injury	Cellular	KE
+KE:1587	Fibroproliferative airway lesions	Tissue	KE
+KE:1588	Bronchiolitis obliterans	Individual	KE
+KE:1592	ROS generation from photoactivated chemicals	Molecular	KE
+KE:1594	Oxidation of membrane lipids	Cellular	KE
+KE:1595	Oxidation/denatuation of membrane proteins	Cellular	KE
+KE:1599	Inflamatory events in light-exposed tissues	Organ	KE
+KE:1602	Increased Muscarinic Acetylcholine Receptors	Molecular	KE
+KE:1603	Chronic kidney disease	Organ	KE
+KE:1604	Inhibition of N-linked glycosylation	Molecular	KE
+KE:1605	Accumulation of misfolded proteins	Cellular	KE
+KE:1606	Activation of hepatic stellate cells	Cellular	KE
+KE:1607	Increase, Necrosis	Tissue	KE
+KE:1609	Inhibition, Cytochrome P450 enzyme (CYP17A1) activity	Molecular	KE
+KE:1610	Reduction, 17-OH-pregnenolone conversion in DHEA	Cellular	KE
+KE:1611	Reduction, 17-OH-progesterone conversion in androstenedione	Cellular	KE
+KE:1613	Decrease, dihydrotestosterone (DHT) level	Tissue	KE
+KE:1614	Decrease, androgen receptor activation	Tissue	KE
+KE:1615	Impaired inguinoscrotal testicular descent phase	Organ	KE
+KE:1616	Malformation, cryptorchidism - maldescended testis	Organ	KE
+KE:1617	Inhibition, 5α-reductase	Molecular	KE
+KE:1619	Increase, DNA methyltransferase inhibition	Molecular	KE
+KE:1623	Occurrence, Focal Seizure	Tissue	KE
+KE:1627	Inhibition of tyrosinase	Molecular	KE
+KE:1628	Reduction of L-Dopaquinone	Cellular	KE
+KE:1629	Reduction in melanin level	Cellular	KE
+KE:1630	Reduction of melanosome level	Tissue	KE
+KE:1631	Reduction fo Pigmentation pattern	Individual	KE
+KE:1632	Increase in reactive oxygen and nitrogen species (RONS)	Molecular	KE
+KE:1633	Increase in inflammation	Tissue	KE
+KE:1634	Increase, Oxidative DNA damage	Molecular	KE
+KE:1635	Increase, DNA strand breaks	Molecular	KE
+KE:1636	Increase, Chromosomal aberrations	Cellular	KE
+KE:1637	Retinaldehyde dehydrogenase inhibition	Molecular	KE
+KE:1640	Altered, Photoreceptor patterning	Cellular	KE
+KE:1641	Decreased retinoic acid (RA) synthesis	Cellular	KE
+KE:1642	Decreased plasma RA level	Tissue	KE
+KE:1643	Altered, Visual function	Organ	KE
+KE:1647	GSK3beta inactivation	Molecular	KE
+KE:1651	Treatment-resistant gastric cancer	Tissue	KE
+KE:1653	Binding of inhibitor to mitochondrial complex III	Molecular	KE
+KE:1654	Binding of inhibitor to mitochondrial complex IV	Molecular	KE
+KE:1655	Binding of inhibitor to mitochondrial complex V	Molecular	KE
+KE:1656	Antagonism, Thyroid Receptor	Molecular	KE
+KE:1657	Inhibition of cystathionine beta-synthase	Molecular	KE
+KE:1661	Increased Homocysteine level	Cellular	KE
+KE:1665	Increased, Plasma HCY level	Tissue	KE
+KE:1666	Induced, dysfunction of microcirculation	Organ	KE
+KE:1667	Impaired,anterior-posterior axis development	Individual	KE
+KE:1668	Frustrated phagocytosis	Cellular	KE
+KE:1669	Increased, DNA damage and mutation	Cellular	KE
+KE:1670	Lung cancer	Organ	KE
+KE:1672	Inhibition of lung surfactant function	Molecular	KE
+KE:1673	Alveolar collapse	Cellular	KE
+KE:1677	Reduced tidal volume	Organ	KE
+KE:1680	Inhibition, TBX1	Molecular	KE
+KE:1681	Disruption, Neural crest cell migration	Cellular	KE
+KE:1682	Disruption, Progenitor cells of second heart field	Cellular	KE
+KE:1683	Impairment, Fourth pharyngeal arch development	Tissue	KE
+KE:1684	Abnormalities, Cardiac outflow tract formation	Organ	KE
+KE:1685	Anomalies, Congenital cardiac conotruncal	Individual	KE
+KE:1686	Deposition of Energy	Molecular	KE
+KE:1688	anogenital distance (AGD), decreased	Tissue	KE
+KE:1690	Decrease, circulating testosterone levels	Tissue	KE
+KE:1691	Antagonism,LH receptor	Molecular	KE
+KE:1692	Reduction, Progesterone synthesis	Cellular	KE
+KE:1693	Reduction, Plasma progesterone concentration	Tissue	KE
+KE:1694	Reduction, progesterone uptake, decresed maturation	Cellular	KE
+KE:1695	Impaired ovulation	Organ	KE
+KE:1696	Decrease of egg production and cummulative fecundity	Individual	KE
+KE:1697	Increase, DNA methyltransferase expression	Molecular	KE
+KE:1698	Increase, hypermethylation of the promotor region of gonadotropin releasing hormone receptor	Molecular	KE
+KE:1699	Decrease, expression of gonadotropin releasing hormone receptor	Molecular	KE
+KE:1700	Impaired IL-1R1 signaling in T cell	Molecular	KE
+KE:1702	Suppression of  T cell activation	Cellular	KE
+KE:1703	Dysregulation of heart rate and vascular tone	Organ	KE
+KE:1705	Impaired coordination and movement	Individual	KE
+KE:1706	Stimulation, TLR7/8	Molecular	KE
+KE:1707	Increase, IL-23 from matured dendritic cells	Cellular	KE
+KE:1708	Th17 cell migration and inflammation induction	Cellular	KE
+KE:1709	Psoriatic skin disease	Individual	KE
+KE:1710	Binding to estrogen receptor (ER)-α in immune cells	Molecular	KE
+KE:1711	Induction of GATA3 expression	Cellular	KE
+KE:1712	Increase of Th2 cells producing IL-4	Cellular	KE
+KE:1713	Increase of anti-DNA antibody from autoreactive B cell	Cellular	KE
+KE:1714	Exacerbation of systemic lupus erythematosus (SLE)	Individual	KE
+KE:1715	Inhibition of JAK3	Molecular	KE
+KE:1716	Blockade of STAT5 phosphorylation	Cellular	KE
+KE:1717	Suppression of STAT5 binding to cytokine gene promoters	Cellular	KE
+KE:1718	Suppression of IL-4 production	Cellular	KE
+KE:1719	Impairment of T-cell dependent antibody response	Individual	KE
+KE:1720	Trypsin inhibition	Molecular	KE
+KE:1721	Increased intestinal monitor peptide level	Organ	KE
+KE:1722	Increased blood CCK level	Organ	KE
+KE:1723	Increased exocrine secretion from pancreatic acinar cells	Cellular	KE
+KE:1724	Acinar cell proliferation	Cellular	KE
+KE:1725	Pancreatic acinar cell tumors	Molecular	KE
+KE:1738	SARS-CoV-2 cell entry	Cellular	KE
+KE:1739	Binding to ACE2	Molecular	KE
+KE:1740	Induced dysregulation of ACE2	Molecular	KE
+KE:1741	Induced, Angiotensin (Ang) II accumulation	Tissue	KE
+KE:1743	Increase plasma Ang II	Tissue	KE
+KE:1748	Increase, the risk of acute respiratory failure	Organ	KE
+KE:1750	Increased inflammatory immune responses	Tissue	KE
+KE:1752	Increased Angiotensin II	Cellular	KE
+KE:1753	Chronic reactive oxygen species	Molecular	KE
+KE:1754	Porcupine-induced Wnt secretion and Wnt signaling activation	Cellular	KE
+KE:1755	beta-catenin activation	Cellular	KE
+KE:1756	Decreased,  plasma 11-ketotestosterone level	Tissue	KE
+KE:1757	Reduce, Sperm count	Individual	KE
+KE:1758	Impaired, Spermatogenesis	Organ	KE
+KE:1761	Inhibition, Fin regeneration	Tissue	KE
+KE:1762	Urothelial cell injury/death	Cellular	KE
+KE:1763	Urothelial Tumor	Organ	KE
+KE:1767	Increase, Protein oxidation	Molecular	KE
+KE:1768	Increase, Abnormal osmoregulation	Tissue	KE
+KE:1769	Increase, Body fluid overload	Tissue	KE
+KE:1770	Decrease, Mitochondrial membrane potential	Cellular	KE
+KE:1771	Decrease, Adenosine triphosphate pool	Cellular	KE
+KE:1772	Decrease, Triglyceride	Cellular	KE
+KE:1773	Decrease, Global DNA methylation	Molecular	KE
+KE:1774	Increase, Caspase transcription	Molecular	KE
+KE:1775	Increase, Oocyte apoptosis	Cellular	KE
+KE:1776	Increase, Ovarian somatic cell apoptosis	Cellular	KE
+KE:1777	Increase, Ovarian follicle breakdown	Organ	KE
+KE:1778	Decrease, Heritable DNA methylation (F3)	Molecular	KE
+KE:1779	Increase, Caspase transcription (F3)	Molecular	KE
+KE:1780	Increase, Oocyte apoptosis (F3)	Cellular	KE
+KE:1781	Decrease, Fecundity (F3)	Individual	KE
+KE:1782	Decrease, Oogenesis (F3)	Organ	KE
+KE:1783	Increase, Ovarian somatic cell apoptosis (F3)	Cellular	KE
+KE:1784	Increase, Ovarian follicle breakdown (F3)	Organ	KE
+KE:1785	Increase, Mitochondrial ATP synthase antagonism	Molecular	KE
+KE:1786	Nipple retention (NR), increased	Individual	KE
+KE:1787	Downregulation, ACE2	Cellular	KE
+KE:1788	Status epilepticus	Individual	KE
+KE:1789	Reduction, 17beta-estradiol synthesis by the undifferentiated gonad	Cellular	KE
+KE:1790	Increased, Differentiation to Testis	Tissue	KE
+KE:1791	Increased, Male Biased Sex Ratio	Population	KE
+KE:1792	Toll-like receptor 4 activation	Molecular	KE
+KE:1793	Activator protein 1 activation	Cellular	KE
+KE:1794	Pin-1 activation	Cellular	KE
+KE:1795	Latent Transforming growth Factor beta expression	Cellular	KE
+KE:1796	11β-hydroxylase inhibition	Molecular	KE
+KE:1798	Decreased spermatogenesis	Organ	KE
+KE:1799	Inhibition of 11β-HSD	Molecular	KE
+KE:1800	Granulosa cell proliferation of gonadotropin-independent follicles, Reduced	Cellular	KE
+KE:1806	Inhibition, Chitinase	Molecular	KE
+KE:1807	Inhibition, Chitobiase	Molecular	KE
+KE:1812	Increase, Cytochrome c release	Cellular	KE
+KE:1814	benzoquinone imine and acylglucuronide metabolites	Molecular	KE
+KE:1815	Activation of ER stress	Cellular	KE
+KE:1816	Mitochondrial dysfunction EMPTY	Cellular	KE
+KE:1817	Apoptotic cell death	Cellular	KE
+KE:1818	Immune cell activation	Cellular	KE
+KE:1819	IFNγ signaling	Cellular	KE
+KE:1820	Immune mediated hepatitis	Organ	KE
+KE:1821	Decrease, Cell proliferation	Cellular	KE
+KE:1822	Maturation of TNF/iNOS-Producing Dendritic Cells	Cellular	KE
+KE:1825	Increase, Cell death	Cellular	KE
+KE:1828	Increased, Thyroxine (T4) in serum	Organ	KE
+KE:1829	Altered, Thyroid hormone-dependent gene expression	Molecular	KE
+KE:1830	Displacement, Serum thyroxine (T4) from carrier protein	Molecular	KE
+KE:1831	Binding, Thyroid binding globulin in serum	Molecular	KE
+KE:1834	Decrease, Acyl-CoA dehydrogenases	Molecular	KE
+KE:1835	Cortisol and 11β-(OH) testosterone decreased	Cellular	KE
+KE:1836	Decreased plasma Cortisol level	Tissue	KE
+KE:1837	decreased oocyte maturation	Organ	KE
+KE:1839	Testicular Cancer	Organ	KE
+KE:1840	Inhibition, cytochrome oxidase	Molecular	KE
+KE:1841	Encephalitis	Organ	KE
+KE:1842	Prolonged TLR9 activation	Molecular	KE
+KE:1843	Multi Organ Failure involving Acute Respiratory Distress Syndrome	Individual	KE
+KE:1844	systemic inflammatory response syndrome	Individual	KE
+KE:1845	Coagulation	Organ	KE
+KE:1846	Thrombosis and Disseminated Intravascular Coagulation	Individual	KE
+KE:1847	Increased SARS-CoV-2 production	Cellular	KE
+KE:1848	Toll Like Receptor (TLR) Dysregulation	Molecular	KE
+KE:1849	Impaired gustatory nerve	Tissue	KE
+KE:1850	dysgeusia	Organ	KE
+KE:1851	Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	Molecular	KE
+KE:1852	Increased Ang II type 1 receptor (AT1R)	Tissue	KE
+KE:1853	Hyperactivation of ACE/Ang-II/AT1R axis	Molecular	KE
+KE:1854	Dysregulation, ACE2 expression and activity	Molecular	KE
+KE:1855	Increased Sodium-sensitive hypertension	Tissue	KE
+KE:1856	Imbalanced salty and sweet taste responses	Tissue	KE
+KE:1857	Platelet-neutrophil interactions, Increased	Cellular	KE
+KE:1861	Increase, D1 protein deactivation	Cellular	KE
+KE:1862	Decrease, Photosystem II efficiency	Cellular	KE
+KE:1863	Decrease, Reproduction	Individual	KE
+KE:1864	Increase, Programmed cell death	Cellular	KE
+KE:1865	Increase, Oxygen-evolving complex damage	Molecular	KE
+KE:1866	Fibrinolysis, decreased	Molecular	KE
+KE:1867	Bradykinin system, hyperactivated	Molecular	KE
+KE:1868	Hyperinflammation	Tissue	KE
+KE:1869	Diminished protective oxidative stress response	Cellular	KE
+KE:1870	Sustentacular cells, decrease	Cellular	KE
+KE:1871	olfactory sensory neurons, decrease	Cellular	KE
+KE:1872	Olfactory epithelium degeneration	Tissue	KE
+KE:1873	impaired olfactory function (anosmia)	Organ	KE
+KE:1874	blood brain barrier disruption	Cellular	KE
+KE:1875	Cerebrovascular disease (stroke)	Organ	KE
+KE:1877	Altered, retinal layer structure	Tissue	KE
+KE:1878	Decreased, Eye size	Organ	KE
+KE:1879	Bulky DNA adducts, increase	Molecular	KE
+KE:1880	Decreased, ALDH1A (RALDH) enzyme activity	Molecular	KE
+KE:1881	Decreased, all-trans retinoic acid (atRA) concentration	Tissue	KE
+KE:1882	Disrupted, initiation of meiosis of oogonia in the ovary	Cellular	KE
+KE:1883	Decreased, size of the ovarian reserve	Organ	KE
+KE:1884	Inhibition of Fyna	Molecular	KE
+KE:1885	Inhibition of Plxna2	Molecular	KE
+KE:1886	Overexpression of rasl11b	Molecular	KE
+KE:1888	Increased (ectopic) all-trans retinoic acid concentration	Tissue	KE
+KE:1889	Premature initiation of meiosis in fetal male germ cells	Cellular	KE
+KE:1890	Decrease (loss of) fetal male germ cells	Cellular	KE
+KE:1891	abnormal, placental labyrinth vasculature morphology	Tissue	KE
+KE:1892	increase, placental insufficiency	Organ	KE
+KE:1893	increase, Preeclampsia	Individual	KE
+KE:1895	NLRP3 inflammasome activity, increased	Molecular	KE
+KE:1896	Genomic instability	Cellular	KE
+KE:1897	increased MyD88 activation	Molecular	KE
+KE:1898	increased release of danger/damage associated molecular patterns	Tissue	KE
+KE:1899	formation of neutrophil extracellular traps (NETs)	Cellular	KE
+KE:1900	increased platelet surface TLR9 expression	Cellular	KE
+KE:1901	Interferon-I antiviral response, antagonized by SARS-CoV-2	Cellular	KE
+KE:1902	Repression of Gbx2 expression	Molecular	KE
+KE:1903	foxi1 expression, increased	Molecular	KE
+KE:1904	six1b expression, increased	Molecular	KE
+KE:1905	eya1 expression, inhibited	Molecular	KE
+KE:1906	Cystic Fibrosis Transmembrane Regulator Function, Decreased	Molecular	KE
+KE:1907	Airway Surface Liquid Height, Decreased	Tissue	KE
+KE:1908	Cilia Beat Frequency, Decreased	Cellular	KE
+KE:1909	Mucociliary Clearance, Decreased	Individual	KE
+KE:1911	FOXJ1 Protein, Decreased	Cellular	KE
+KE:1912	Motile Cilia Number/Length, Decreased	Cellular	KE
+KE:1913	Endothelial cell dysfunction	Cellular	KE
+KE:1914	Platelet activation, Increased	Cellular	KE
+KE:1915	Neutrophil activation, Increased	Cellular	KE
+KE:1916	Thromboinflammation, Increased	Organ	KE
+KE:1917	Altered gene expression, NRF2 dependent antioxidant pathway	Molecular	KE
+KE:1918	Increased, Myocardial apoptosis	Cellular	KE
+KE:1919	Increased, Cardiac Dysregulation	Tissue	KE
+KE:1920	Altered gene expression, TGF-β dependent fibrosis pathway	Molecular	KE
+KE:1921	Altered gene expression, NF-kB dependent Interleukin-6 pathway	Molecular	KE
+KE:1922	Increased, Reactive metabolites production	Cellular	KE
+KE:1923	Altered gene expression, P53 dependent apoptosis pathway	Molecular	KE
+KE:1924	Increased，Cardiac fibrosis	Organ	KE
+KE:1925	Increased, Vascular smooth muscle cell activation	Cellular	KE
+KE:1926	Increased, Vascular fibrosis	Tissue	KE
+KE:1927	Vascular endothelilal cell autophagy dysfunction	Cellular	KE
+KE:1928	increased，Vascular endothelial dysfunction	Tissue	KE
+KE:1929	Increased incidence of cardiovascular morbidity and mortality in the general population	Population	KE
+KE:1930	altered, inner ear development	Organ	KE
+KE:1931	Intestinal barrier, disruption	Organ	KE
+KE:1933	Increased, Interleukin-6 production	Cellular	KE
+KE:1934	Myocardial Infarction	Organ	KE
+KE:1935	Angiotensin (1-7) levels diminished	Molecular	KE
+KE:1936	Angiotensin II degradation reduced	Molecular	KE
+KE:1937	ADAM17 expression induction	Cellular	KE
+KE:1938	ACE2 increased shedding	Molecular	KE
+KE:1939	Viral infection and host-to-host transmission, proliferated	Individual	KE
+KE:1940	Increased, Reactive oxygen species	Molecular	KE
+KE:1941	Memory Loss	Individual	KE
+KE:1942	Accumulation, Cytosolic toxic Tau oligomers	Cellular	KE
+KE:1943	Hyperphosphorylation of Tau	Cellular	KE
+KE:1944	Synaptic dysfunction	Organ	KE
+KE:1945	Dysfunctional Autophagy	Cellular	KE
+KE:1946	Impaired mechanotransduction of pericytes	Cellular	KE
+KE:1947	Pericyte dysfunction	Cellular	KE
+KE:1948	Increased ACE2 expression	Molecular	KE
+KE:1949	Decrease, GLUT4	Cellular	KE
+KE:1950	Increase, TNF	Molecular	KE
+KE:1951	Decrease, Glucose uptake	Cellular	KE
+KE:1952	Abnormal, Glucose homeostasis	Organ	KE
+KE:1953	Gestational diabetes mellitus	Individual	KE
+KE:1954	Gut microbiota, alteration	Organ	KE
+KE:1955	Acute Myeloid Leukemia	Individual	KE
+KE:1961	Prolongation of Action Potential Duration	Organ	KE
+KE:1962	Prolongation of QT interval	Organ	KE
+KE:1963	Torsades de Pointes	Organ	KE
+KE:1964	Sudden cardiac death	Individual	KE
+KE:1965	Increase, Pollen abnormal	Organ	KE
+KE:1967	Pyroptosis	Cellular	KE
+KE:1970	transposition of the great arteries	Organ	KE
+KE:1971	Increased, tumor growth	Organ	KE
+KE:1972	Increased, Steroidogenic acute regulatory protein (StAR)	Cellular	KE
+KE:1973	Increased, estrogens	Cellular	KE
+KE:1974	Activation of Tumor Protein 53	Cellular	KE
+KE:1977	Disruption of sodium channel gating kinetics	Cellular	KE
+KE:1978	Increase risk, microcephaly	Individual	KE
+KE:1979	Premature cell differentiation	Organ	KE
+KE:1980	Increased microRNA expression	Cellular	KE
+KE:1981	Decreased SIRT1 expression	Cellular	KE
+KE:1982	metastatic breast cancer	Organ	KE
+KE:1983	Disruption, action potential generation	Cellular	KE
+KE:1985	Increased, Kisspeptin signalling	Molecular	KE
+KE:1986	Decreased, Gonadotropins	Molecular	KE
+KE:1987	Decreased, Androgen and Progestin	Cellular	KE
+KE:1988	Decreased, Maturation Inducing Steroid Surge by Granulosa cells	Tissue	KE
+KE:1989	Impaired, Oocyte maturation and ovulation	Tissue	KE
+KE:1990	Increased, Oocyte Atresia	Tissue	KE
+KE:1991	Impaired, Reproduction	Population	KE
+KE:1992	Increased incidence of respiratory morbidity and mortality in the general population	Population	KE
+KE:1993	Increase, Pneumonia	Organ	KE
+KE:1994	Increase, Ferroptosis	Cellular	KE
+KE:1995	Abnormal lipid metabolism	Cellular	KE
+KE:1996	Increased incidence of digestive morbidity and mortality in the general population	Population	KE
+KE:1998	Activation, Microglia	Cellular	KE
+KE:2000	Vascular calcification	Organ	KE
+KE:2001	Cardiac hypertrophy	Organ	KE
+KE:2002	Ventricular remodeling	Organ	KE
+KE:2003	Vascular remodeling	Organ	KE
+KE:2004	Increased, secretion of catecholamine	Cellular	KE
+KE:2005	Altered neurotransmission in development	Cellular	KE
+KE:2006	Secondary genotoxicity	Cellular	KE
+KE:2007	Non-coding RNA expression profile alteration	Molecular	KE
+KE:2008	Chronic obstructive pulmonary disease	Individual	KE
+KE:2009	Activation of inflammation pathway	Cellular	KE
+KE:2010	Pulmonary inflammation	Organ	KE
+KE:2011	Emphysema	Organ	KE
+KE:2012	Fibroblast proliferation and differentiation	Cellular	KE
+KE:2013	Airway remodeling	Organ	KE
+KE:2014	Intestinal epithelial cell apoptosis	Cellular	KE
+KE:2015	Intestinal inflammation	Organ	KE
+KE:2016	Hepatocyte cell apoptosis	Cellular	KE
+KE:2017	Endoplasmic reticulum stress	Cellular	KE
+KE:2019	Non-alcoholic fatty liver disease	Individual	KE
+KE:2020	Decrease, sox9 expression	Molecular	KE
+KE:2021	Increase, slincR expression	Molecular	KE
+KE:2023	Inhibition of Ceramide Synthase	Molecular	KE
+KE:2024	Reduced complex sphingolipids	Cellular	KE
+KE:2025	Affected folate transporter	Cellular	KE
+KE:2026	decreased folate uptake	Cellular	KE
+KE:2027	Antagonism, Smoothened receptor	Molecular	KE
+KE:2028	Decrease, GLI1/2 translocation to nucleus	Molecular	KE
+KE:2029	protein-coupled estrogen receptor 1 (GPER) activation	Molecular	KE
+KE:2030	Activation, PARP1	Molecular	KE
+KE:2031	Releasing, Apoptosis-Inducing Factor (AIF)	Molecular	KE
+KE:2033	Increased sphingolipid-1-phosphate	Cellular	KE
+KE:2034	liver dysfunction	Organ	KE
+KE:2036	Activation of metabotropic glutamate receptor	Molecular	KE
+KE:2037	Inositol triphosphate receptor activation	Molecular	KE
+KE:2038	Activation of calpain signalling	Cellular	KE
+KE:2039	Inhibition GABAA receptor	Molecular	KE
+KE:2040	Decrease, GLI1/2 target gene expression	Cellular	KE
+KE:2041	Decrease, palatal shelf outgrowth	Tissue	KE
+KE:2042	Orofacial clefting	Individual	KE
+KE:2043	Decrease, Sonic Hedgehog second messenger production	Cellular	KE
+KE:2044	Decrease, Smoothend relocation and activation	Cellular	KE
+KE:2045	Increase, Alcohol dehydrogenase	Molecular	KE
+KE:2046	Increase, Vitellogenin mRNA	Molecular	KE
+KE:2047	Delay, Ovarian maturation	Cellular	KE
+KE:2048	Increase, Body volume of female adults	Individual	KE
+KE:2049	Increase, sex ratio (F/M)	Individual	KE
+KE:2050	Increase, developmental abnormalities	Individual	KE
+KE:2051	Decrease, Tyrosine	Molecular	KE
+KE:2052	Decrease, dopa decarboxylase	Cellular	KE
+KE:2053	Increase, Defects in tanning of new cuticle	Individual	KE
+KE:2054	Increase,  impairment of cuticle sclerotization	Individual	KE
+KE:2055	Increase,  pigmentation	Individual	KE
+KE:2056	Increase,  delay in oviposition	Individual	KE
+KE:2057	Decrease,  hatching of egg	Individual	KE
+KE:2058	Decrease, 20-hydroxyecdysone	Molecular	KE
+KE:2059	Decrease, knickkopf gene	Cellular	KE
+KE:2060	Decrease, Chitin laminar organization	Tissue	KE
+KE:2061	Decrease, Prevent chitin degradation by chitinases	Tissue	KE
+KE:2062	Weak, Procuticle protection	Organ	KE
+KE:2063	Decrease, New cuticle secretion	Organ	KE
+KE:2064	Increase, Cytosolic calcium	Cellular	KE
+KE:2066	Altered Signaling Pathways	Molecular	KE
+KE:2067	Altered, Nitric Oxide Levels	Cellular	KE
+KE:2068	Increase, Endothelial Dysfunction	Tissue	KE
+KE:2069	Occurrence, Abnormal Vascular Remodeling	Organ	KE
+KE:2070	Increase, Glycolysis	Cellular	KE
+KE:2071	Decrease, Glucose pool	Cellular	KE
+KE:2072	Increase, Mitochondrial swelling	Cellular	KE
+KE:2075	Cognitive, sensed as hypoxic/low oxygen environment	Organ	KE
+KE:2078	Loss of drebrin	Cellular	KE
+KE:2081	Increased Modified Proteins	Molecular	KE
+KE:2082	Hypospadias, increased	Organ	KE
+KE:2083	Occurrence of Cataracts	Organ	KE
+KE:2084	Increase, Cardiac remodelling	Tissue	KE
+KE:2086	Airway inflammation	Organ	KE
+KE:2087	Increased incidence of respiratory disease	Individual	KE
+KE:2088	Dysfunction of respiratory system	Individual	KE
+KE:2089	Altered Bone Cell Homeostasis	Cellular	KE
+KE:2090	Increase, Bone Remodeling	Tissue	KE
+KE:2091	Occurrence, Bone Loss	Organ	KE
+KE:2092	Promotion, Ovarian Cancer	Organ	KE
+KE:2097	Increase, Pro-Inflammatory Mediators	Tissue	KE
+KE:2098	Increase, Abnormal Neural Remodeling	Tissue	KE
+KE:2099	hERG channel blockade	Molecular	KE
+KE:2100	Inhibition of rapid delayed rectifying potassium current	Cellular	KE
+KE:2104	Decreased, thyroid hormone binding to thyroid hormone receptor	Molecular	KE
+KE:2105	Decreased, myelin basic protein expression in oligodendrocytes	Molecular	KE
+KE:2106	Impaired, oligodendrocyte maturation	Cellular	KE
+KE:2107	Hypomyelination	Tissue	KE
+KE:2108	Altered, white brain matter	Tissue	KE
+KE:2109	Binding, extracellular matrix protein laminin	Molecular	KE
+KE:2110	Disrupted binding, laminin-beta1-integrin receptors with laminin	Molecular	KE
+KE:2111	Decreased, neural progenitor cell adhesion to laminin	Cellular	KE
+KE:2112	Disturbed, radial glia cell alignment and migration	Cellular	KE
+KE:2113	Decreased, radial glia cell density	Cellular	KE
+KE:2114	Disturbed, cortical architecture	Organ	KE
+KE:2115	Altered, cholesterol metabolism	Molecular	KE
+KE:2116	Decreased, oligodendrocyte differentiation	Cellular	KE
+KE:2117	Increase, goblet cell number	Cellular	KE
+KE:2118	Succinate dehydrogenase, inhibited	Molecular	KE
+KE:2119	Insulin resistance, increased	Individual	KE
+KE:2120	Superoxide generation, increased	Cellular	KE
+KE:2121	decreased, Intellectual Quotient	Population	KE
+KE:2123	decreased, Bcl-2 expression	Molecular	KE
+KE:2124	increased, Bax expression	Molecular	KE
+KE:2125	Increased fat mass	Organ	KE
+KE:2126	Estrogen receptor alpha inactivation	Molecular	KE
+KE:2127	Increased adipocyte size	Cellular	KE
+KE:2128	Increased adipocyte numbers	Cellular	KE
+KE:2129	Metabolically unhealthy Obesity	Individual	KE
+KE:2130	increased lipid accumulation	Cellular	KE
+KE:2131	Conjugation, GSH	Cellular	KE
+KE:2132	Increased pro-inflammatory cytokine expression	Cellular	KE
+KE:2134	Increase, Androgen receptor protein expression/abundance	Cellular	KE
+KE:2135	Prostate cancer	Individual	KE
+KE:2136	prostatic intraepithelial neoplasia	Tissue	KE
+KE:2137	Increase, Gonadotropins concentration in plasma	Tissue	KE
+KE:2139	Reduction, the ratio of 17beta-estradiol/11-Keto Testosterone in plasma	Organ	KE
+KE:2144	Impaired insulin signaling	Cellular	KE
+KE:2145	Metabolic syndrome	Population	KE
+KE:2146	Activation of mitogen-activated protein kinase kinase, extracellular signal-regulated kinase 1/2	Molecular	KE
+KE:2147	Decreased, Viable Offspring	Individual	KE
+KE:2148	Increased LCN2/iron complex  binds to SLC22A17 receptor in neuron	Molecular	KE
+KE:2149	Increased intracelluar Iron accumulation	Cellular	KE
+KE:2150	Neurological disorder	Individual	KE
+KE:2151	Disruption, neurotransmitter release	Molecular	KE
+KE:2152	Epigenetic modification process	Cellular	KE
+KE:2153	Expression of factors ruling proliferation, modified	Cellular	KE
+KE:2154	Uterine adenocarcinoma (endometrioid adenocarcinoma Type I)	Organ	KE
+KE:2155	Inhibition of Sulfotransferase E1 (SULT1E1)	Molecular	KE
+KE:2157	Abnormal Cardiac Structure and Function	Organ	KE
+KE:2158	Influenza A Virus (IAV) binds sialic acid glycan receptor	Molecular	KE
+KE:2159	Influenza A virus (IAV) cell entry	Cellular	KE
+KE:2161	Increase, Vascular disrupting effects	Individual	KE
+KE:2162	Activation, HIF1α	Cellular	KE
+KE:2163	Activation Sema6A	Cellular	KE
+KE:2164	Activation, Dll4-Notch pathway	Cellular	KE
+KE:2165	Activation of PPAR	Cellular	KE
+KE:2166	Abnormal expression of NO	Cellular	KE
+KE:2167	Activation of MMP-2 MMP-9	Cellular	KE
+KE:2168	Activation of angiopoietin like protein 4	Cellular	KE
+KE:2169	Activation of Angiogenic cytokines	Cellular	KE
+KE:2170	Activated ANG/Tie2 pathway	Molecular	KE
+KE:2171	Activated BMP/TGF-beta pathway	Cellular	KE
+KE:2172	Activated Wnt/Frizzled pathway	Cellular	KE
+KE:2173	Activated AKT/ERK/PI3K pathway	Cellular	KE
+KE:2174	Inhibition VEGF/VEGFR pathway	Cellular	KE
+KE:2178	Vascular barrier disruption	Tissue	KE
+KE:2179	Impaired Platelet Aggregation	Tissue	KE
+KE:2180	Immune mechanisms antagonized by viral proteins	Molecular	KE
+KE:2181	Angiogenesis dysfunction	Organ	KE
+KE:2182	Phenotype switching of vascular smooth muscle cells	Cellular	KE
+KE:2183	Increased incidence of vascular calcification and atherosclerosis morbidity	Population	KE
+KE:2185	Proliferation of vascular smooth muscle cells	Cellular	KE
+KE:2186	Ryanodine receptor activation	Molecular	KE
+KE:2187	Opening, voltage-gated calcium channels	Molecular	KE
+KE:2188	Activation, caspases	Cellular	KE
+KE:2192	Influenza A Virus production increased	Molecular	KE
+KE:2193	Influenza A Virus (IAV) budding	Cellular	KE
+KE:2194	Influenza A Virus (IAV) shedding and transmission	Individual	KE
+KE:2195	Increase, CNS Neural cell death	Cellular	KE
+KE:2199	Increased, Expression of LXR activated genes	Molecular	KE
+KE:2200	decline, neural progenitor cells	Organ	KE
+KE:2201	Agonism, Retinoic acid receptor	Molecular	KE
+KE:2202	Altered expression of cell cycle genes	Molecular	KE
+KE:2203	Decreased proliferation of cortical neural progenitor cells	Cellular	KE
+KE:2204	Altered brain morphology	Organ	KE
+KE:2205	Increased, essential element imbalance	Molecular	KE
+KE:2206	Increased, histomorphological alteration of testis	Tissue	KE
+KE:2208	Aberrant, synaptic formation and plasticity	Organ	KE
+KE:2210	Reduced cortical thickness	Tissue	KE
+KE:2215	Decrease Left Ventricular function	Organ	KE
+KE:2216	Binding of antagonist to thyroid hormone receptor	Molecular	KE
+KE:2217	Binding of antagonist to glucocorticoid hormone receptor	Molecular	KE
+KE:2218	Binding of (ant)agonist to liver X receptor	Molecular	KE
+KE:2219	Binding of (ant)agonist to peroxisome proliferator–activated receptor alpha	Molecular	KE
+KE:2220	Antagonism, Glucocorticoid hormone receptor	Molecular	KE
+KE:2221	Altered Liver X receptor activity	Molecular	KE
+KE:2222	Altered peroxisome proliferator–activated receptor alpha activity	Molecular	KE
+KE:2223	Reduced number of oligodendrocytes	Cellular	KE
+KE:2224	Dysregulation of transcriptional expression within PPAR signaling network	Molecular	KE
+KE:2225	Disrupted Lipid Storage	Cellular	KE
+KE:2226	Stressor binding PPAR isoforms	Molecular	KE
+KE:2227	Disrupted PPAR isoform nuclear signaling	Molecular	KE
+KE:2228	Cerebellar gene expression. Altered	Molecular	KE
+KE:2229	Cerebellar neuronal differentiation. Decreased	Organ	KE
+KE:2230	Cerebellar hypoplasia	Tissue	KE
+KE:2231	Locomotor function. Impaired	Population	KE
+KE:2232	Antagonism, Retinoic acid receptors	Molecular	KE
+KE:2233	Decreased, ERαβ heterodimers	Molecular	KE
+KE:2236	Decreased, Sodium uptake in gills	Cellular	KE
+KE:2237	Decreased, Plasma sodium concentrations	Tissue	KE
+KE:2238	Increased, Blood viscosity	Tissue	KE
+KE:2239	Increased, Cardiac stress	Organ	KE
+KE:2242	Abnormality, dendritic spine morphology	Cellular	KE
+KE:2243	Succinate Accumulation	Cellular	KE
+KE:2244	Altered Stress Response Signaling	Molecular	KE
+KE:2245	Altered Cell Differentiation Signaling	Molecular	KE
+KE:2251	Estradiol availability, increased	Tissue	KE
+KE:2252	Human leukocyte antigen DQ2/8-gluten complexes, formation	Molecular	KE
+KE:2253	Gluten-reactive T cell receptors, generation	Molecular	KE
+KE:2254	Gluten-reactive and transglutaminase 2 reactive B cell receptors, generation	Molecular	KE
+KE:2255	Innate immune response, activation	Cellular	KE
+KE:2256	Gluten-reactive B cells and transglutaminase 2-reactive B cells, activation	Cellular	KE
+KE:2257	Celiac disease	Individual	KE
+KE:2260	Gluten-reactive CD4+ T cells, activation	Cellular	KE
+KE:2261	Decreased, blood plasma volume	Tissue	KE
+KE:2262	Neuropathy target esterase, inhibited	Molecular	KE
+KE:2263	Lysolecithin, increased	Cellular	KE
+KE:2264	Lysolecithin cell membrane integration, increased	Cellular	KE
+KE:2265	Oligodendrocyte death, increased	Cellular	KE
+KE:2266	Demyelination, increased	Cellular	KE
+KE:2267	Delayed neuropathy, increased	Individual	KE
+KE:2268	Decreased, insulin-induced gene 1 (INSIG1) protein activity	Cellular	KE
+KE:2269	Increased, Sterol Regulatory Element Binding Protein 2 (SREBP2) protein expression	Cellular	KE
+KE:2270	Increased, cholesterol synthesis enzymes	Cellular	KE
+KE:2271	Increased, plasma low-density lipoprotein (LDL) cholesterol	Tissue	KE
+KE:2275	Gluten reactive adaptive T-cells with antigen presenting cells, co-localization	Cellular	KE
+KE:2276	Increased, protein expression of proprotein convertase subtilisin/kexin type 9 (PCSK9)	Cellular	KE
+KE:2277	Inhibition, aromatase activity in plasma	Tissue	KE
+KE:2278	Increased LMNA Mutation	Molecular	KE
+KE:2279	Structural changes in lamin A/C	Cellular	KE
+KE:2280	Increased delay in heart electrical conduction	Organ	KE
+KE:2281	Increased uncoordinated cardiac contraction	Tissue	KE
+KE:2282	Cardiac ion channels blockade	Molecular	KE
+KE:2283	Increased the early premature depolarizations during repolarization	Cellular	KE
+KE:2284	Increased Intracellular cAMP Levels	Cellular	KE
+KE:2285	Increased the delayed and early afterdepolarizations	Cellular	KE
+KE:2287	Impaired Sodium-Calcium Exchange	Cellular	KE
+KE:2288	Phosphodiesterase inhibition	Molecular	KE
+KE:2289	Hyperphosphorylation of ryanodine receptor (RyR2)	Cellular	KE
+KE:2290	Inhibition of Funny current (If)	Molecular	KE
+KE:2291	Slowed Heart Rate	Tissue	KE
+KE:2292	Altered Cardiac Electrical Conduction	Organ	KE
+KE:2293	Aromatase, induction	Molecular	KE
+KE:2294	Plasma estradiol, increased	Cellular	KE
+KE:2295	HCN Channel Inhibition	Molecular	KE
+KE:2296	Reduced Pacemaker Activity in SA Node	Cellular	KE
+KE:2299	Altered, Redox Homeostasis	Molecular	KE
+KE:2300	Disruption, Glucolipid metabolism	Cellular	KE
+KE:2301	Abnormal, Behavior	Individual	KE
+KE:2302	Increase, Malformations	Population	KE
+KE:2305	Premature ovarian Insufficiency	Organ	KE
+KE:2307	Binding of plastoquinone B	Molecular	KE
+KE:2308	Increased, stimulation of brain serotonin 5-HT1a, 5-HT2c receptors	Organ	KE
+KE:2309	Decreased DNA methylation of FAM50B/PTCHD3	Molecular	KE
+KE:2310	Elevated gene expression of FAM50B/PTCHD3	Molecular	KE
+KE:2311	Inhibition of PI3K-Akt pathway	Molecular	KE
+KE:2312	Increased, nasal lesions	Organ	KE
+KE:2316	Increased, pulmonary edema	Organ	KE
+KE:2317	Loss of olfactory function	Organ	KE
+KE:10008	Increased transcription for detoxification and repair mechanism	Molecular	KE
+KE:10009	Elevated ATP demand	Molecular	KE
+KE:10010	Elevated electron transport system activity	Cellular/Tissue	KE
+KE:10011	Depletion of energy reserves	Cellular/Tissue	KE
+KE:10012	Altered cellular energy	Cellular/Tissue	KE
+KE:10013	Impaired growth and development	Individual	KE
+KE:10014	Elevated oxygen consumption	Individual	KE
+KE:10015	Reduced aerobic scope	Individual	KE
+KE:10016	Impaired locomotor activity	Individual	KE
+KE:10024	Invasion	Tissue	KE
+KE:10025	Migration	Tissue	KE
+KE:10034	Enhanced risk for cancer (in mammary gland)	Individual	KE
+KE:10035	Reduced pH in surrounding water		KE
+KE:10036	Altered expression of genes regulating metabolic pathways		KE
+KE:10037	Downregulation of tyrosinase and hexokinase genes		KE
+KE:10038	Deregulation of acid base status		KE
+KE:10039	Higher antioxidant enzyme activities and lipid peroxidation		KE
+KE:10040	Reduced calcification rate		KE
+KE:10041	Altered metabolic rate		KE
+KE:10042	Abnormal development		KE
+KE:10043	Reduced shell thickness		KE
+KE:10049	CYP26 inhibiton		KE
+KE:10050	Increase ATRA levels		KE
+KE:10051	Repression of FGF transcription		KE
+KE:10052	Low ZIC levels		KE
+KE:10053	Low NOG levels		KE
+KE:10054	High BMP levels		KE
+KE:10055	Inhibition of apical constriction		KE
+KE:10056	Disrupted DLPH bending		KE
+KE:10057	Neural tube closure defect		KE
+KE:10058	DNA adduct formation	Molecular	KE
+KE:10059	Decreased LH surge for 24 hours		KE
+KE:10060	Aged oocytes released into oviduct for fertilization		KE
+KE:10061	Senescence-Associated Secretory Phenotype (SASP), Increase		KE
+KE:10062	Colonal Expansion of Undifferentiated Myeloid Progenitor Cells, Increase		KE
+KE:10064	Ischemia		KE
+KE:10065	Vaso-constriction		KE
+KE:10067	Microvascular dysfunction		KE
+KE:10068	Myocarial injury		KE
+KE:10075	lipid storage	Organ	KE
+KE:10077	Body Weight	Individual	KE
+KE:10081	Fatty liver cells	Cellular	KE
+KE:11000	The release of s-HBEGF from HUVECs	Molecular	KE
+KE:11001	S-HBEGF-binding with EGFR	Molecular	KE
+KE:11002	Phosphorylation of JNK2	Molecular	KE
+KE:11003	Activates SIRT1 ser 27 phosphorylation	Molecular	KE
+KE:11004	Keratinocyte hyperdifferentiation	Cellular	KE
+KE:11005	Hyperkeratosis	Tissue	KE
+KE:11006	Hand-foot skin reaction	Organ	KE
+KE:11007	BMP4 inhibition	Molecular	KE
+KE:11008	Loss of apical F-actin	Cellular	KE
+KE:11009	Apical constriction stops	Cellular	KE
+KE:11010	Disrupted DLHPs formation	Cellular	KE
+KE:10506	Hyper-keratosis	Cellular/Tissue	KE
+KE:10512	Thrombosis	Individual	KE
+KE:2018	Insulin resistance	Cellular	KE
+KE:27	N/A, Androgen receptor, Antagonism	Molecular	KE
+KE:211	Propagation, Oxidative stress	Molecular	KE
+KE:356	Increased, Oxidative damage	Individual	KE
+KE:742	Decreased, Androgen receptor activity	Molecular	KE
+KE:785	Activation, Androgen receptor	Molecular	KE
+KE:790	Inhibition, 5alpha-reductase activity	Cellular	KE
+KE:792	Decrease, Bioactivation of testosterone	Tissue	KE
+KE:808	Decreased, Testosterone	Individual	KE
+KE:1650	Epithelial-mesenchymal transition	Tissue	KE
+KE:2022	Altered function of the brain	Organ	KE
+KE:1687	decrease, transcription of genes by AR	Cellular	KE
+KE:1612	Decrease, testosterone synthesis/level	Cellular	KE
+KE:1546	Increased reactive oxygen species (in the mitochondria)	Cellular	KE
+KE:1510	Oxidative Stress in Brain	Molecular	KE
+KE:1418	Increased, steatosis	Organ	KE
+KE:832	Injury, Mitochondria	Cellular	KE
+KE:914	Decrease, Apoptosis of ciliated epithelial cells	Cellular	KE
+KE:920	Occurrence, Metaplasia of goblet cells	Tissue	KE
+KE:921	Occurrence, Hyperplasia of goblet cells	Tissue	KE
+KE:986	Increase, Increased susceptibility to infection	Individual	KE
+KE:1251	Chronic, Mucus hypersecretion	Tissue	KE
+KE:1261	Mitochondrial impairment	Molecular	KE
+KE:1437	Sensing of the stressor by pulmonary cells	Molecular	KE
+KE:1441	Increased systemic total cholesterol pool	Organ	KE
+KE:1440	Formation of HDL-SAA	Cellular	KE
+KE:1483	Dysfunction, Mitochondria	Cellular	KE
+KE:1956	Binding to hERG channel	Molecular	KE
+KE:1957	hERG channel biogenesis interference	Molecular	KE
+KE:1958	Direct hERG channel blockage	Cellular	KE
+KE:1959	Induction of hERG trafficking defects	Cellular	KE
+KE:1960	Inhibition of Ikr	Tissue	KE
+KE:1968	Increase, Mitochondrial Dysfunction	Cellular	KE
+KE:1969	Increase, Oxidative Stress	Molecular	KE
+KE:923	Increase, Proliferation of goblet cells	Cellular	KE

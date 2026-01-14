@@ -1,0 +1,797 @@
+id	name	systems_level_info	node_type
+DEDuCT_Endpoint:1	Abnormal development of gonads in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:2	Abnormal estrous cycles	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:3	Abnormal estrous cycles in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:4	Abnormal neuronal distribution	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:5	Abnormal neuronal distribution in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:6	Abnormal neuronal pigmentation	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:7	Abnormal oocyte morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:8	Abnormal proliferation of germ cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:9	Abnormal proliferation of granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:10	Abnormal proliferation of neuronal cells	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:11	Abnormal proliferation of thyroid cells	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:12	Abnormal sperm morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:13	Abnormal sperm morphology in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:14	Accelerated onset of diabetes	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:15	Accelerated onset of puberty	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:16	Accelerated onset of puberty in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:17	Accumulation of lymphocytes in prostate gland	Immunological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:18	Accumulation of neutrophils in prostate gland	Immunological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:19	Adenocarcinoma	Endocrine-mediated cancer;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:20	Affects GABA-receptors	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:21	Affects Progestagen receptor (PR) expression	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:22	Affects TR-mediated gene expression	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:23	Affects Transthyretin (TTR) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:24	Affects Wnt signaling pathway	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:25	Affects acetylcholinesterase activity	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:26	Affects alpha-cells population in islets of Langerhans	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:27	Affects amino acid metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:28	Affects androgen production	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:29	Affects androgen signaling	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:30	Affects anogenital distance	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:31	Affects anogenital distance in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:32	Affects bile acid metabolism	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:33	Affects bile acid pathway	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:34	Affects blood-brain barrier (BBB)	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:35	Affects blood-testis barrier (BTB)	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:36	Affects blood-testis barrier (BTB) in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:37	Affects brain development	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:38	Affects breast milk quality	Reproductive endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:39	Affects calcium signaling	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:40	Affects calcium signaling in ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:41	Affects calcium signaling in sperm	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:42	Affects calcium transport	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:43	Affects carbohydrates metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:44	Affects catecholamine biosynthesis	Metabolic endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:45	Affects cell metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:46	Affects cholesterol biosynthesis	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:47	Affects cholesterol biosynthesis in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:48	Affects cholesterol metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:49	Affects cholesterol transport	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:50	Affects cholesterol transport in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:51	Affects circadian rhythm	Metabolic endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:52	Affects corticosterone metabolism	Metabolic endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:53	Affects cytokine signaling	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:54	Affects cytokine signaling in offspring	Developmental endocrine-mediated perturbations;Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:55	Affects development of adrenal gland	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:56	Affects development of reproductive system	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:57	Affects development of seminal vesicles	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:58	Affects developmental process	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:59	Affects differentiation process	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:60	Affects dopaminergic pathways	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:61	Affects electron transport chain	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:62	Affects embryonic development	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:63	Affects endometrial angiogenesis	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:64	Affects endometrial development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:65	Affects epididymis development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:66	Affects estrogen metabolism	Metabolic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:67	Affects estrogen signaling	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:68	Affects expression of androgen receptor (AR)	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:69	Affects expression of androgen receptor (AR) in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:70	Affects expression of estrogen receptor (ER)	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:71	Affects expression of estrogen receptor (ER) in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:72	Affects expression of estrogen receptor-alpha (ER-alpha)	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:73	Affects expression of estrogen receptor-alpha (ER-alpha) in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:74	Affects expression of estrogen receptor-beta (ER-beta)	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:75	Affects expression of estrogen receptor-beta (ER-beta) in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:76	Affects expression of follicle-stimulating hormone receptor (FSHR)	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:77	Affects expression of glucocorticoid receptor (GR)	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:78	Affects expression of luteinizing hormone receptor (LHR)	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:79	Affects expression of progesterone receptor (PR)	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:80	Affects expression of progesterone receptor (PR) in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:81	Affects expression of thyroid receptor (TR)	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:82	Affects fatty acid metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:83	Affects fatty acid metabolism in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:84	Affects fertility	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:85	Affects fertility in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:86	Affects folliculogenesis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:87	Affects folliculogenesis in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:88	Affects function of pancreatic cells	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:89	Affects gametogenesis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:90	Affects germ cell development in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:91	Affects germ cell differentiation	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:92	Affects glucocorticoid signaling	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:93	Affects gluconeogenesis	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:94	Affects gluconeogenesis in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:95	Affects glucose metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:96	Affects glucose metabolism in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:97	Affects glycogen metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:98	Affects glycogen metabolism in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:99	Affects glycogenolysis	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:100	Affects granulosa cells function	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:101	Affects hematopoiesis of liver	Hepatic endocrine-mediated perturbations;Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:102	Affects hematopoiesis of spleen	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:103	Affects human umbilical arteries	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:104	Affects implantation	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:105	Affects implantation in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:106	Affects innate immunity	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:107	Affects insulin signaling	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:108	Affects insulin signaling in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:109	Affects intracellular signaling pathway	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:110	Affects iodine uptake into thyroid	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:111	Affects lactation	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:112	Affects leydig cells function	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:113	Affects leydig cells function in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:114	Affects lipid metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:115	Affects lipid metabolism in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:116	Affects litter size	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:117	Affects liver function	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:118	Affects locomotor activity	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:119	Affects mammary gland differentiation	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:120	Affects metabolic rate	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:121	Affects mitochondrial function in liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:122	Affects mitochondrial function in the ovaries	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:123	Affects morphology of hepatocytes	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:124	Affects myogenic differentiation	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:125	Affects neural development	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:126	Affects neuronal density	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:127	Affects neuronal density in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:128	Affects neuronal development	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:129	Affects neuronal differentiation	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:130	Affects neuronal differentiation in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:131	Affects neuronal function	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:132	Affects neuronal signaling	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:133	Affects ovarian angiogenesis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:134	Affects ovarian development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:135	Affects ovarian follicle development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:136	Affects ovarian follicles population	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:137	Affects ovarian follicles population in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:138	Affects ovarian function	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:139	Affects ovarian function in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:140	Affects ovarian reserve	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:141	Affects ovulation	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:142	Affects oxidative phosphorylation	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:143	Affects pancreas development	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:144	Affects parathyroid gland function	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:145	Affects peneration rate of sperms	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:146	Affects penis development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:147	Affects pituitary gland development	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:148	Affects pituitary gland function	Metabolic endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:149	Affects placental development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:150	Affects placental differentiation	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:151	Affects placental function	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:152	Affects placental function in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:153	Affects prenatal development	Reproductive endocrine-mediated perturbations;Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:154	Affects prostate development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:155	Affects prostate function	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:156	Affects relaxin-hormone pathway	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:157	Affects retinoic acid metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:158	Affects sertoli cells development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:159	Affects sertoli cells function	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:160	Affects sertoli cells function in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:161	Affects sexual behavior	Neurological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:162	Affects sexual behavior in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:163	Affects skeletal development	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:164	Affects skeletal development in fetus	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:165	Affects social behavior	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:166	Affects social behavior in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:167	Affects spatial learning	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:168	Affects spatial learning in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:169	Affects spatial memory	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:170	Affects spatial memory in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:171	Affects sperm maturation in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:172	Affects sperm motility	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:173	Affects sperm motility in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:174	Affects spermatogenesis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:175	Affects spermatogenesis in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:176	Affects spleen morphology	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:177	Affects steroid metabolism	Metabolic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:178	Affects steroid metabolism in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:179	Affects steroidogenesis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:180	Affects steroidogenesis in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:181	Affects superoxide dismutase (SOD) levels	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:182	Affects survival of germ cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:183	Affects survival of germ cells in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:184	Affects survival of live fetus	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:185	Affects survival of live fetus in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:186	Affects testicular development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:187	Affects testicular function	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:188	Affects testicular function in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:189	Affects testicular morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:190	Affects testis development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:191	Affects testis development in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:192	Affects testis differentiation	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:193	Affects testosterone metabolism	Metabolic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:194	Affects the biochemical composition of liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:195	Affects the biochemical composition of liver in offspring	Developmental endocrine-mediated perturbations;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:196	Affects the biochemical composition of ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:197	Affects the biochemical composition of pituitary gland	Metabolic endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:198	Affects the biochemical composition of testis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:199	Affects the biochemical composition of uterus	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:200	Affects the normal functioning of reproductive system	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:201	Affects thyroid function	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:202	Affects thyroid function in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:203	Affects thyroid hormone metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:204	Affects thyroid hormone signaling	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:205	Affects thyroid hormone synthesis	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:206	Affects tryptophan metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:207	Affects uterine contraction	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:208	Affects uterine development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:209	Affects uterine function	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:210	Affects uterine morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:211	Affects uterine morphology in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:212	Affects vaginal development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:213	Affects vitamin D metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:214	Affects vitamin metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:215	Affects xenobiotic metabolism	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:216	Affects xenobiotic transport	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:217	Alteration in gonadal morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:218	Alteration in prostate morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:219	Alteration in prostate morphology in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:220	Alteration in the levels of cAMP	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:221	Alteration in vaginal morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:222	Alterations in endometrial morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:223	Alterations in endometrial morphology in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:224	Alterations in immune responses	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:225	Alterations in leydig cell morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:226	Alterations in number of granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:227	Alterations in number of leydig cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:228	Alterations in number of leydig cells in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:229	Alterations in number of sertoli cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:230	Alterations in preputial separation	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:231	Alterations in preputial separation in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:232	Alterations in splenocytes population	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:233	Alterations in thymocytes population	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:234	Alterations in vaginal opening	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:235	Alterations in vaginal opening of offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:236	Altered DOPAC/DA ratio	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:237	Altered adipocyte differentiation	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:238	Altered adipocyte function	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:239	Altered adipocyte morphology	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:240	Altered adipogenesis	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:241	Altered cell cycle in granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:242	Altered cell cycle in neurons	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:243	Altered cell cycle in placental cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:244	Altered cell cycle in testicular cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:245	Altered cell cycle in thyroid cells	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:246	Altered cell cycle of endometrial cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:247	Altered cell cycle of prostate cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:248	Altered estrogen levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:249	Altered estrogen levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:250	Altered germ cells morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:251	Altered gut metabolite levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:252	Altered lipid composition in adipocytes	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:253	Altered lipid profile	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:254	Altered lipogenesis	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:255	Altered lordosis	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:256	Altered proliferation of placental cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:257	Altered proliferation of prostate cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:258	Alters aromatase activity	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:259	Alters aromatase activity in gonads	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:260	Alters endometrial decidualization	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:261	Alters estrogen-responsive genes	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:262	Alters hypothalamic-pituitary-adrenal (HPA) axis	Metabolic endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:263	Alters hypothalamic-pituitary-gonadal axis (HPG axis)	Neurological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:264	Alters hypothalamic-pituitary-liver axis	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:265	Alters hypothalamic-pituitary-ovarian axis	Neurological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:266	Alters hypothalamic-pituitary-testicular axis	Neurological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:267	Alters hypothalamic-pituitary-thyroid axis	Metabolic endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:268	Alters mammary gland development	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:269	Alters sex ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:270	Alters sperm function	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:271	Alters sperm function in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:272	Alters thyroglobulin levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:273	Anophthalmia	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:274	Atrophy in lymphoid tissues	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:275	Atrophy in seminiferous tubules	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:276	Atrophy in seminiferous tubules in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:277	Atrophy of adrenal gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:278	Atrophy of epididymis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:279	Atrophy of mammary gland	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:280	Atrophy of seminal vesicles	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:281	Atrophy of spleen	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:282	Atrophy of thyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:283	Azoospermic	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:284	Beta cell dysfunction	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:285	Cancer phenotype	Endocrine-mediated cancer	DEDuCT_endpoint
+DEDuCT_Endpoint:286	Causes inflammation	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:287	Causes insulin resistance	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:288	Causes insulin resistance in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:289	Causes masculinized behavior	Metabolic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:290	Causes vaginal bleeding	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:291	Cervical carcinoma	Endocrine-mediated cancer;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:292	Changes in Anteroventral periventricular Nucleus (AVPV) volume	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:293	Changes in B-cell populations	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:294	Changes in T-cell populations	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:295	Changes in Testicular Interstitial Fluid (TIF) volume	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:296	Changes in adrenal gland morphology	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:297	Changes in adrenal gland morphology in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:298	Changes in brain morphology	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:299	Changes in brain morphology in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:300	Changes in epididymal morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:301	Changes in haemocrit values	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:302	Changes in hypothalamus morphology	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:303	Changes in liver morphology	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:304	Changes in liver morphology in offspring	Hepatic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:305	Changes in mammary gland morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:306	Changes in mammary gland morphology in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:307	Changes in medial amygdala (MePD) nucleus volume	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:308	Changes in morphology of accessory sex organs	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:309	Changes in morphology of adipose tissue	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:310	Changes in morphology of cervix	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:311	Changes in morphology of granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:312	Changes in morphology of mesenchymal stem cells	Metabolic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:313	Changes in morphology of pancreas	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:314	Changes in morphology of parathyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:315	Changes in morphology of paraurethral glands	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:316	Changes in morphology of pituitary gland	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:317	Changes in morphology of seminal vesicles	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:318	Changes in morphology of seminiferous tubules	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:319	Changes in morphology of seminiferous tubules in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:320	Changes in morphology of thyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:321	Changes in morphology of thyroid gland in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:322	Changes in morphology of vas deferens	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:323	Changes in neuronal morphology	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:324	Changes in number of nipples	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:325	Changes in ovarian morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:326	Changes in ovarian morphology of offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:327	Changes in placental morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:328	Changes in spleen morphology	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:329	Changes in spleen morphology in offspring	Developmental endocrine-mediated perturbations;Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:330	Changes in testicular morphology	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:331	Changes in testicular morphology in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:332	Changes in thymus gland morphology	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:333	Changes in thymus gland morphology in offspring	Developmental endocrine-mediated perturbations;Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:334	Changes in white blood cell (WBC) populations	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:335	Cognitive impairment	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:336	Cognitive impairment in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:337	Compromised endometrial receptivity	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:338	Decrease LDL/HDL ratio	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:339	Decrease in Growth Hormone (GH) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:340	Decrease in T3 levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:341	Decrease in T3 levels in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:342	Decrease in T3/T4 ratio	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:343	Decrease in T4 levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:344	Decrease in T4 levels in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:345	Decrease in T4/T3 ratio	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:346	Decrease in TSH levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:347	Decrease in Thyrotropin-releasing hormone (TRH) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:348	Decrease in corticosterone levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:349	Decrease in corticosterone levels in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:350	Decrease in cortisol levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:351	Decrease in testosterone/LH ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:352	Decrease in testosterone/estradiol ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:353	Decreased 11-Deoxy-corsticosterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:354	Decreased 11-deoxycortisol level	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:355	Decreased 17-OH-pregnenolone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:356	Decreased 17-OH-progesterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:357	Decreased 18 alpha-hydroxypregnenolone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:358	Decreased 21-deoxycortisol level	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:359	Decreased 5-HIAA levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:360	Decreased 5-HIAA/serotonin (5-HT) ratio	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:361	Decreased Acid phosphatase (ACP) activity in the liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:362	Decreased Alanine aminotransferase (ALT) levels	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:363	Decreased Alkaline phosphatase (ALP) levels	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:364	Decreased Anti-Müllerian hormone (AMH) levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:365	Decreased Anti-Müllerian hormone (AMH) levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:366	Decreased Aspartate aminotransferase (AST) levels	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:367	Decreased Dehydroepiandrosterone (DHEA) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:368	Decreased Dihydroxytestosterone (DHT) levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:369	Decreased E1/E2 ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:370	Decreased FSH levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:371	Decreased FSH levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:372	Decreased GABA levels in liver	Neurological endocrine-mediated perturbations;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:373	Decreased HDL levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:374	Decreased HDL levels in offspring	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:375	Decreased Inhibin levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:376	Decreased LDL levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:377	Decreased LH levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:378	Decreased LH levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:379	Decreased Lactate dehydrogenase (LDH) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:380	Decreased Sex hormone-binding globulin (SHBG) levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:381	Decreased TSHR levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:382	Decreased adiponectin levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:383	Decreased adipose tissue weights	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:384	Decreased aldosterone levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:385	Decreased androgen levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:386	Decreased androstenedione levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:387	Decreased arginine vasopressin levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:388	Decreased body weights	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:389	Decreased body weights in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:390	Decreased brain weights	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:391	Decreased brain weights in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:392	Decreased cholesterol levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:393	Decreased cholesterol/HDL ratio	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:394	Decreased corticosteroid levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:395	Decreased cortisone levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:396	Decreased cowper's gland weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:397	Decreased dopamine levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:398	Decreased estradiol levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:399	Decreased estradiol levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:400	Decreased estradiol/progesterone ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:401	Decreased estriol levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:402	Decreased estrogen levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:403	Decreased estrogen/androgen ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:404	Decreased estrone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:405	Decreased estrone levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:406	Decreased gonadotropin-releasing hormone (GnRH) levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:407	Decreased gonadotropin-releasing hormone (GnRH) levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:408	Decreased growth hormone (GH) levels	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:409	Decreased hCG levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:410	Decreased hepatic glycogen levels	Hepatic endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:411	Decreased hypothalamus weights	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:412	Decreased inhibin-B levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:413	Decreased inhibin-B/FSH ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:414	Decreased leptin levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:415	Decreased levels of Corticotropin-releasing hormone (CRH)	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:416	Decreased levels of adrenocortical hormones (ACTH)	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:417	Decreased levels of epinephrine	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:418	Decreased levels of norepinephrine	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:419	Decreased liver weights	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:420	Decreased liver weights in offspring	Developmental endocrine-mediated perturbations;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:421	Decreased mammary gland weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:422	Decreased mitochondrial membrane potential in granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:423	Decreased mitochondrial membrane potential in ovarian cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:424	Decreased mitochondrial membrane potential in sperm	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:425	Decreased mitochondrial membrane potential in testes	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:426	Decreased noradrenaline levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:427	Decreased ovarian weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:428	Decreased ovarian weights in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:429	Decreased oxytocin levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:430	Decreased pancreas weights	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:431	Decreased placental weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:432	Decreased pregnenolone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:433	Decreased progestagens levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:434	Decreased progesterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:435	Decreased progesterone levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:436	Decreased progesterone/estradiol ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:437	Decreased prolactin levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:438	Decreased prolactin levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:439	Decreased prostate weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:440	Decreased prostate weights in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:441	Decreased rT3 levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:442	Decreased retinol content	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:443	Decreased serotonin (5-HT) levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:444	Decreased serum albumin levels in ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:445	Decreased spleen weights	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:446	Decreased spleen weights in offspring	Developmental endocrine-mediated perturbations;Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:447	Decreased testis weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:448	Decreased testis weights in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:449	Decreased testosterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:450	Decreased testosterone levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:451	Decreased thymus gland weights	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:452	Decreased thymus gland weights in offspring	Developmental endocrine-mediated perturbations;Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:453	Decreased triglycerides level	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:454	Decreased uterine weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:455	Decreased uterine weights in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:456	Decreased vas deferens weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:457	Decreased weights of accessory sex organs	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:458	Decreased weights of adrenal gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:459	Decreased weights of adrenal gland in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:460	Decreased weights of bulbocavernosus muscles/LABC	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:461	Decreased weights of epididymis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:462	Decreased weights of epididymis in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:463	Decreased weights of penis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:464	Decreased weights of pituitary gland	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:465	Decreased weights of pituitary gland in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:466	Decreased weights of seminal vesicles	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:467	Decreased weights of seminal vesicles in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:468	Decreased weights of thyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:469	Decreased weights of thyroid gland in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:470	Decreased weights of vagina	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:471	Delayed puberty	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:472	Delayed puberty in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:473	Elevated biliary T4 excretion	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:474	Elevated glucose levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:475	Elevated glucose levels in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:476	Elevated insulin levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:477	Elevated insulin levels in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:478	Endometrial atrophy	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:479	Endometrial carcinoma	Endocrine-mediated cancer;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:480	Endometrial hyperplasia	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:481	Endometrial hyperplasia in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:482	Epigenomic alterations in adipocytes	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:483	Epigenomic alterations in brain	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:484	Epigenomic alterations in brain of offsrping	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:485	Epigenomic alterations in epididymis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:486	Epigenomic alterations in liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:487	Epigenomic alterations in ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:488	Epigenomic alterations in placental cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:489	Epigenomic alterations in prostate cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:490	Epigenomic alterations in seminal vesicle	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:491	Epigenomic alterations in sperm	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:492	Epigenomic alterations in sperm in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:493	Epigenomic alterations in testis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:494	Epigenomic alterations in uterine cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:495	Epitranscriptomic alteration in testis	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:496	Epitranscriptomic alterations in granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:497	Epitranscriptomic alteratons in neuronal cells	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:498	Erectile dysfunction	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:499	Exhibit sexual dimorphism	Neurological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:500	Follicular atresia	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:501	Gait abnormality	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:502	Goiter formation	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:503	Granulosa cell carcinoma	Endocrine-mediated cancer;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:504	Hemangioma in spleen	Endocrine-mediated cancer;Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:505	Hematopietic carcinoma	Endocrine-mediated cancer;Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:506	Hepatocellular carcinoma	Endocrine-mediated cancer;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:507	Hepatocellular hemangioma	Endocrine-mediated cancer;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:508	Hyperplasia in adrenal gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:509	Hyperplasia in liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:510	Hyperplasia in mammary glands	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:511	Hyperplasia in ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:512	Hyperplasia in parathyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:513	Hyperplasia in pituitary gland	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:514	Hyperplasia in testis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:515	Hyperplasia in thyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:516	Hyperplasia of bone marrow	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:517	Hyperplasia of leydig cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:518	Hyperplasia of zona fasciculata in adrenal gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:519	Hypertrophy in thyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:520	Hypospadias	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:521	Impaired glucose tolerance	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:522	Impaired glucose tolerance in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:523	Increase in Growth Hormone (GH) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:524	Increase in LH/FSH ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:525	Increase in LH/Testosterone ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:526	Increase in T3 levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:527	Increase in T3/T4 ratio	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:528	Increase in T4 levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:529	Increase in T4 levels in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:530	Increase in TSH levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:531	Increase in TSH levels in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:532	Increase in Thyrotropin-releasing hormone (TRH) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:533	Increase in activity of glucocorticoid receptor	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:534	Increase in cholesterol/HDL ratio	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:535	Increase in corticosterone levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:536	Increase in corticosterone levels in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:537	Increase in cortisol levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:538	Increase in estradiol/testosterone ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:539	Increase in testosterone/estradiol ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:540	Increase in the number of abnormal sperms	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:541	Increase in uterine weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:542	Increased 11-Deoxy-corticosterone levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:543	Increased 11-deoxycortisol levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:544	Increased 17-OH-pregnenolone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:545	Increased 17-OH-progesterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:546	Increased 17-OH-progesterone to androstenedione ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:547	Increased 21-OH-progesterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:548	Increased 5-HIAA levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:549	Increased 5-HIAA/serotonin (5-HT) ratio	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:550	Increased 5-alpha-dihydrotestosterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:551	Increased AST/ALT ratio	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:552	Increased Acid phosphatase (ACP) activity in the liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:553	Increased Alanine aminotransferase (ALT) levels	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:554	Increased Alanine aminotransferase (ALT) levels in offspring	Developmental endocrine-mediated perturbations;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:555	Increased Alkaline phosphatase (ALP) levels	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:556	Increased Alkaline phosphatase (ALP) levels in offspring	Developmental endocrine-mediated perturbations;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:557	Increased Anti-Müllerian hormone (AMH) levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:558	Increased Aspartate aminotransferase (AST) level	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:559	Increased Aspartate aminotransferase (AST) levels	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:560	Increased Aspartate aminotransferase (AST) levels in offspring	Developmental endocrine-mediated perturbations;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:561	Increased Dehydroepiandrosterone (DHEA) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:562	Increased Dihydroxytestosterone (DHT) levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:563	Increased FSH levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:564	Increased GABA levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:565	Increased HDL levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:566	Increased HMG-CoA reductase in ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:567	Increased HMG-CoA reductase in testis in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:568	Increased LDL levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:569	Increased LH levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:570	Increased LH levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:571	Increased Lactate dehydrogenase (LDH) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:572	Increased Non esterified Fatty acid (NEFA) levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:573	Increased ROS levels in sperms	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:574	Increased TRHR levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:575	Increased VLDL levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:576	Increased adipose tissue weights	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:577	Increased adiposity	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:578	Increased albumin levels in liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:579	Increased aldosterone levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:580	Increased aldosterone levels in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:581	Increased androgen levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:582	Increased androstenedione levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:583	Increased beta-glucuronidase levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:584	Increased bilurubin content	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:585	Increased body weights	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:586	Increased body weights in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:587	Increased brain weights	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:588	Increased brain weights in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:589	Increased calcium levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:590	Increased cholesterol levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:591	Increased cholesterol levels in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:592	Increased corticosteroid levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:593	Increased cortisone levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:594	Increased cowper's gland weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:595	Increased dopamine levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:596	Increased epididymal vesicles in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:597	Increased epitestosterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:598	Increased estradiol levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:599	Increased estradiol levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:600	Increased estriol levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:601	Increased estrogen levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:602	Increased estrogen/androgen ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:603	Increased estrone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:604	Increased globulin levels in liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:605	Increased glucocorticoid levels	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:606	Increased gonadotropin-releasing hormone (GnRH) levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:607	Increased hCG levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:608	Increased hepatic glycogen levels	Hepatic endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:609	Increased hepatic glycogen levels in offspring	Developmental endocrine-mediated perturbations;Hepatic endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:610	Increased hypothalamus weights	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:611	Increased hypothalamus weights in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:612	Increased inhibin-B cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:613	Increased inhibin-B levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:614	Increased leptin levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:615	Increased levels of Corticotropin-releasing hormone (CRH)	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:616	Increased levels of adrenocortical hormones (ACTH)	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:617	Increased levels of epinephrine	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:618	Increased levels of norepinephrine	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:619	Increased liver weights	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:620	Increased liver weights in offspring	Developmental endocrine-mediated perturbations;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:621	Increased mammary gland weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:622	Increased mitochondrial membrane potential in granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:623	Increased noradrenaline levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:624	Increased number of abnormal ovarian antral follicles in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:625	Increased ovarian weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:626	Increased ovarian weights in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:627	Increased oxidative stress in neurons	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:628	Increased oxytocin levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:629	Increased placental weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:630	Increased pregnenolone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:631	Increased progestagens levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:632	Increased progesterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:633	Increased progesterone levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:634	Increased progesterone/estradiol ratio	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:635	Increased prolactin levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:636	Increased prostate weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:637	Increased prostate weights in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:638	Increased retinol content	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:639	Increased retinyl palmitate content	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:640	Increased serotonin (5-HT) levels	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:641	Increased spleen weights	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:642	Increased testis weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:643	Increased testis weights in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:644	Increased testosterone levels	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:645	Increased testosterone levels in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:646	Increased thymus gland weights	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:647	Increased triglycerides level	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:648	Increased triglycerides level in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:649	Increased uterine weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:650	Increased uterine weights in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:651	Increased vas deferens weights	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:652	Increased vasopressin levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:653	Increased weights of accessory sex organs	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:654	Increased weights of adrenal gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:655	Increased weights of adrenal gland in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:656	Increased weights of bulbocavernosus muscles/LABC	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:657	Increased weights of endometrium	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:658	Increased weights of epididymis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:659	Increased weights of epididymis in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:660	Increased weights of penis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:661	Increased weights of pituitary gland	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:662	Increased weights of pituitary gland in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:663	Increased weights of seminal vesicles	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:664	Increased weights of seminal vesicles in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:665	Increased weights of thyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:666	Increased weights of thyroid gland in offspring	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:667	Increased weights of vagina	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:668	Induce DNA damage in hepatocytes	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:669	Induce DNA damage in mammary gland cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:670	Induce DNA damage in neurons	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:671	Induce DNA damage in uterine cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:672	Induce apoptosis in adipose tissue	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:673	Induce apoptosis in adrenal gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:674	Induce apoptosis in liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:675	Induce apoptosis in mammary gland cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:676	Induce apoptosis in mesenchymal stem cells	Metabolic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:677	Induce apoptosis in ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:678	Induce apoptosis in pancreas	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:679	Induce apoptosis in seminiferous tubules	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:680	Induce apoptosis in testis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:681	Induce apoptosis in testis in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:682	Induce apoptosis in thyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:683	Induce apoptosis in uterus	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:684	Induce apoptosis of beta cells	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:685	Induce apoptosis of endometrial cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:686	Induce apoptosis of granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:687	Induce apoptosis of hepatocytes	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:688	Induce apoptosis of leydig cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:689	Induce apoptosis of oocytes	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:690	Induce apoptosis of ovarian follicles	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:691	Induce apoptosis of ovarian follicles in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:692	Induce apoptosis of placental cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:693	Induce apoptosis of sertoli cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:694	Induce apoptosis of spermatogenic cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:695	Induce apoptosis of spermatogenic cells in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:696	Induce apoptosis of thyroid tissue	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:697	Induce apotosis in adipocytes	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:698	Induce apotosis in prostate cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:699	Induce autophagy in granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:700	Induce autophagy in ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:701	Induce autophagy in testis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:702	Induce autophagy in testis in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:703	Induce behavioral changes	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:704	Induce cancer metastasis	Endocrine-mediated cancer	DEDuCT_endpoint
+DEDuCT_Endpoint:705	Induce cuproptosis in ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:706	Induce ferroptosis in liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:707	Induce ferroptosis in ovary	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:708	Induce ferroptosis in pancreas	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:709	Induce ferroptosis in testis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:710	Induce immunological response in testis	Immunological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:711	Induce mitochondrial dysfunction in granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:712	Induce neuronal apoptosis	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:713	Induce neuronal apoptosis in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:714	Induce neuronal autophagy	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:715	Induce testicular damage	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:716	Induce tumor progression	Endocrine-mediated cancer	DEDuCT_endpoint
+DEDuCT_Endpoint:717	Induced ferroptosis in ovaries	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:718	Induced ferroptosis in placenta	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:719	Induced migration capability of tumor cells	Endocrine-mediated cancer	DEDuCT_endpoint
+DEDuCT_Endpoint:720	Inflammatory cholestasis	Hepatic endocrine-mediated perturbations;Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:721	Lead to obesity	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:722	Lead to obesity in offspring	Metabolic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:723	Liver hypertrophy	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:724	Lymph nodes inflammation	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:725	Meningoencephalocele	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:726	Necrosis of liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:727	Neuronal degeneration	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:728	Neuronal degeneration in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:729	Nipple retention	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:730	Occurrence of Insulitis	Immunological endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:731	Occurrence of mammary gland tumor	Endocrine-mediated cancer;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:732	Oligospermic	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:733	Ovarian atrophy	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:734	Ovarian carcinoma	Endocrine-mediated cancer;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:735	Oxidative stress in adrenal gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:736	Oxidative stress in epididymis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:737	Oxidative stress in granulosa cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:738	Oxidative stress in leydig cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:739	Oxidative stress in liver	Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:740	Oxidative stress in liver in offspring	Developmental endocrine-mediated perturbations;Hepatic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:741	Oxidative stress in mammary gland	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:742	Oxidative stress in mesenchymal stem cells	Metabolic endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:743	Oxidative stress in nervous system	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:744	Oxidative stress in nervous system in offspring	Developmental endocrine-mediated perturbations;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:745	Oxidative stress in neurons	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:746	Oxidative stress in ovaries	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:747	Oxidative stress in ovaries in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:748	Oxidative stress in pancreas	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:749	Oxidative stress in pancreatic cells	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:750	Oxidative stress in placenta	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:751	Oxidative stress in prostate	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:752	Oxidative stress in seminal vesicles	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:753	Oxidative stress in sertoli cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:754	Oxidative stress in sperm	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:755	Oxidative stress in testis	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:756	Oxidative stress in testis in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:757	Oxidative stress in thymus	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:758	Oxidative stress in thyroid cells	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:759	Oxidative stress in thyroid gland	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:760	Oxidative stress in thyroid tissue	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:761	Oxidative stress in uterine cells	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:762	Oxidative stress in uterus	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:763	Paralysis	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:764	Pituitary gland carcinoma	Endocrine-mediated cancer;Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:765	Polyspermic zygotes	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:766	Pregnancy complications	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:767	Pregnancy complications in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:768	Prostate atrophy	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:769	Prostate carcinoma	Endocrine-mediated cancer;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:770	Prostate hyperplasia	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:771	Reduced HMG-CoA reductase in testes	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:772	Reduced HMG-CoA reductase in testes in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:773	Reduced acetylcholinesterase activity	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:774	Reduced adiposity	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:775	Reduced femur weights	Developmental endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:776	Reduced glucose levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:777	Reduced glutathione levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:778	Reduced insulin levels	Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:779	Reduced insulin levels in offsrping	Developmental endocrine-mediated perturbations;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:780	Reduced neuronal counts	Neurological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:781	Reduced sperm counts	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:782	Reduced sperm counts in offspring	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:783	Reduced sperm quality	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:784	Testicular atrophy	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:785	Testicular carcinoma	Endocrine-mediated cancer;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:786	Testicular inflammation	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:787	Testitis	Immunological endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:788	Thymus atrophy	Immunological endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:789	Thyroid gland carcinoma	Endocrine-mediated cancer;Metabolic endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:790	Undescended testes (or cryptorchidism)	Developmental endocrine-mediated perturbations;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:791	Uterine atrophy	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:792	Uterine carcinoma	Endocrine-mediated cancer;Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:793	Uterine hyperplasia	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:794	Uterine hypertrophy	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:795	Uterine hypoplasia	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint
+DEDuCT_Endpoint:796	Uterotrophic effect	Reproductive endocrine-mediated perturbations	DEDuCT_endpoint

@@ -1,0 +1,7 @@
+# Supporting Information files
+This folder contains additional supporting information files.
+
+- [chemical_similarity_network_edge_table.tsv](./chemical_similarity_network_edge_table.tsv) - This file contains the pairwise chemical similarity values computed as the Tanimoto coefficient between ECFP4 fingerprints of the two chemicals. For each chemical, the corresponding DEDuCT identifier is provided.
+- [target_similarity_network_edge_table.tsv](./target_similarity_network_edge_table.tsv) - This file contains the pairwise chemical similarity values computed as the Jaccard similarity between gene targets of the two chemicals obtained from ToxCast invitrodb v4.3. For each chemical, the corresponding DEDuCT identifier is provided.
+- [CGPD_tetramers_from_CTD.tsv](./CGPD_tetramers_from_CTD.tsv) - This file contains information on 208829 chemical-gene-phenotype-disease (CGPD) tetramers constructed for 364 EDCs from Comparative Toxicogenomics Database (CTD). For each tetramer, the file provides the corresponding information on the chemical identifier, NCBI gene identifier, NCBI gene name, phenotype identifier, phenotype name, MeSH disease identifier, and MeSH disease name.
+- [DEDuCT_KG](./DEDuCT_KG/) - This folder contains the node and edge tables corresponding to DEDuCT-KG. The node tables are split based on the 7 types of nodes, and the edge tables are split based on the edge types between the corresponding node types.						

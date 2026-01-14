@@ -1,0 +1,386 @@
+id	name	oecd_status	node_type
+AOP:3	Inhibition of the mitochondrial complex I of nigro-striatal neurons leads to parkinsonian motor deficits	WPHA/WNT Endorsed	AOP
+AOP:4	Ecdysone receptor agonism leading to incomplete ecdysis associated mortality		AOP
+AOP:6	Antagonist binding to PPARα leading to body-weight loss	WPHA/WNT Endorsed	AOP
+AOP:7	Aromatase (Cyp19a1) reduction leading to impaired fertility in adult female	Under Review	AOP
+AOP:8	Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals	Under Development	AOP
+AOP:10	Binding to the picrotoxin site of ionotropic GABA receptors leading to epileptic seizures in adult brain	WPHA/WNT Endorsed	AOP
+AOP:12	Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging	WPHA/WNT Endorsed	AOP
+AOP:13	Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities	WPHA/WNT Endorsed	AOP
+AOP:15	Alkylation of DNA in male pre-meiotic germ cells leading to heritable mutations	WPHA/WNT Endorsed	AOP
+AOP:16	Acetylcholinesterase inhibition leading to acute mortality	Under Development	AOP
+AOP:17	Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory	WPHA/WNT Endorsed	AOP
+AOP:18	PPARα activation in utero leading to impaired fertility in males	Under Review	AOP
+AOP:19	Androgen receptor antagonism leading to adverse effects in the male foetus (mammals)		AOP
+AOP:21	Aryl hydrocarbon receptor activation leading to early life stage mortality, via increased COX-2	WPHA/WNT Endorsed	AOP
+AOP:23	Androgen receptor agonism leading to reproductive dysfunction (in repeat-spawning fish)	WPHA/WNT Endorsed	AOP
+AOP:25	Aromatase inhibition leading to reproductive dysfunction	WPHA/WNT Endorsed	AOP
+AOP:27	Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11)	Under Development	AOP
+AOP:28	Cyclooxygenase inhibition leading reproductive failure		AOP
+AOP:30	Estrogen receptor antagonism leading to reproductive dysfunction	Under Review	AOP
+AOP:34	LXR activation leading to hepatic steatosis		AOP
+AOP:36	Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis		AOP
+AOP:37	PPARα activation leading to hepatocellular adenomas and carcinomas in rodents	Under Development	AOP
+AOP:38	Protein Alkylation leading to Liver Fibrosis	WPHA/WNT Endorsed	AOP
+AOP:39	Covalent Binding, Protein, leading to Increase, Allergic Respiratory Hypersensitivity Response	Under Development	AOP
+AOP:40	Covalent Protein binding leading to Skin Sensitisation	WPHA/WNT Endorsed	AOP
+AOP:41	Sustained AhR Activation leading to Rodent Liver Tumours	Under Review	AOP
+AOP:42	Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals	WPHA/WNT Endorsed	AOP
+AOP:43	Disruption of VEGFR Signaling Leading to Developmental Defects	WPHA/WNT Endorsed	AOP
+AOP:48	Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.	WPHA/WNT Endorsed	AOP
+AOP:54	Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment	WPHA/WNT Endorsed	AOP
+AOP:58	NR1I3 (CAR) suppression leading to hepatic steatosis		AOP
+AOP:60	NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis		AOP
+AOP:62	AKT2 activation leading to hepatic steatosis		AOP
+AOP:63	Cyclooxygenase inhibition leading to reproductive dysfunction		AOP
+AOP:64	Glucocorticoid Receptor (GR) Mediated Adult Leydig Cell Dysfunction Leading to Decreased Male Fertility		AOP
+AOP:69	Modulation of Adult Leydig Cell Function Subsequent to Decreased Cholesterol Synthesis or Transport in the Adult Leydig Cell		AOP
+AOP:73	Xenobiotic Inhibition of Dopamine-beta-Hydroxylase and subsequent reduced fecundity		AOP
+AOP:77	Nicotinic acetylcholine receptor activation contributes to abnormal foraging and leads to colony death/failure 1		AOP
+AOP:78	Nicotinic acetylcholine receptor activation contributes to abnormal role change within the worker bee caste leading to colony death failure 1		AOP
+AOP:79	Nicotinic acetylcholine receptor activation contributes to impaired hive thermoregulation and leads to colony loss/failure		AOP
+AOP:80	Nicotinic acetylcholine receptor activation contributes to accumulation of damaged mitochondrial DNA and leads to colony loss/failure		AOP
+AOP:87	Nicotinic acetylcholine receptor activation contributes to abnormal foraging and leads to colony loss/failure		AOP
+AOP:88	Nicotinic acetylcholine receptor activation contributes to abnormal foraging and leads to colony loss/failure via abnormal role change within caste		AOP
+AOP:89	Nicotinic acetylcholine receptor activation followed by desensitization contributes to abnormal foraging and directly leads to colony loss/failure		AOP
+AOP:90	Nicotinic acetylcholine receptor activation contributes to abnormal roll change within the worker bee caste leading to colony loss/failure 2		AOP
+AOP:91	Sodium channel inhibition leading to reduced survival		AOP
+AOP:93	sodium channel inhibition leading to increased predation		AOP
+AOP:94	Sodium channel inhibition leading to congenital malformations		AOP
+AOP:95	Ether-a-go-go (ERG) voltage-gated potassium channel inhibition leading to reduced survival		AOP
+AOP:96	Axonal sodium channel modulation leading to acute mortality		AOP
+AOP:97	5-hydroxytryptamine transporter (5-HTT; SERT) inhibition leading to population decline		AOP
+AOP:98	5-hydroxytryptamine transporter (5-HTT; SERT) inhibition leading to decreased shelter seeking and increased predation		AOP
+AOP:99	Histamine (H2) receptor antagonism leading to reduced survival		AOP
+AOP:100	Cyclooxygenase inhibition leading to reproductive dysfunction via inhibition of female spawning behavior		AOP
+AOP:101	Cyclooxygenase inhibition leading to reproductive dysfunction via inhibition of pheromone release		AOP
+AOP:102	Cyclooxygenase inhibition leading to reproductive dysfunction via interference with meiotic prophase I /metaphase I transition		AOP
+AOP:103	Cyclooxygenase inhibition leading to reproductive dysfunction via interference with spindle assembly checkpoint		AOP
+AOP:104	Altered ion channel activity leading impaired heart function		AOP
+AOP:105	Alpha2u-microglobulin cytotoxicity leading to renal tubular adenomas and carcinomas (in male rat)		AOP
+AOP:106	Chemical binding to tubulin in oocytes leading to aneuploid offspring	Under Review	AOP
+AOP:107	Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat	Under Review	AOP
+AOP:108	Inhibition of pyruvate dehydrogenase kinase leading to hepatocellular adenomas and carcinomas (in mouse and rat)		AOP
+AOP:109	Cytotoxicity leading to bronchioloalveolar adenomas and carcinomas (in mouse)		AOP
+AOP:110	Inhibition of iodide pump activity leading to follicular cell adenomas and carcinomas (in rat and mouse)		AOP
+AOP:111	Decrease in androgen receptor activity leading to Leydig cell tumors (in rat)		AOP
+AOP:112	Increased dopaminergic activity leading to endometrial adenocarcinomas (in Wistar rat)		AOP
+AOP:113	Glutamate-gated chloride channel activation leading to acute mortality		AOP
+AOP:114	HPPD inhibition leading to corneal papillomas and carcinomas (in rat)		AOP
+AOP:115	Epithelial cytotoxicity leading to forestomach tumors (in mouse and rat)		AOP
+AOP:116	Cytotoxicity leading to renal tubular adenomas and carcinomas (in male rat)		AOP
+AOP:117	Androgen receptor activation leading to hepatocellular adenomas and carcinomas (in mouse and rat)	Under Development	AOP
+AOP:118	Chronic cytotoxicity leading to hepatocellular adenomas and carcinomas (in mouse and rat)		AOP
+AOP:119	Inhibition of thyroid peroxidase leading to follicular cell adenomas and carcinomas (in rat and mouse)		AOP
+AOP:120	Inhibition of 5α-reductase leading to Leydig cell tumors (in rat)		AOP
+AOP:121	Urinary bladder calculi leading to urothelial papillomas and carcinomas (in mouse and rat)		AOP
+AOP:122	Prolyl hydroxylase inhibition leading to reproductive dysfunction via increased HIF1 heterodimer formation		AOP
+AOP:123	Unknown MIE leading to reproductive dysfunction via increased HIF-1alpha transcription		AOP
+AOP:124	HMG-CoA reductase inhibition leading to decreased fertility		AOP
+AOP:126	Alpha-noradrenergic antagonism leads to reduced fecundity via delayed ovulation		AOP
+AOP:128	Kidney dysfunction by decreased thyroid hormone	Under Development	AOP
+AOP:130	Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity	Under Development	AOP
+AOP:131	Aryl hydrocarbon receptor activation leading to uroporphyria	WPHA/WNT Endorsed	AOP
+AOP:134	Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals		AOP
+AOP:136	Intracellular Acidification Induced Olfactory Epithelial Injury Leading to Site of Contact Nasal Tumors	Under Review	AOP
+AOP:139	Alkylation of DNA leading to cancer 1		AOP
+AOP:144	Endocytic lysosomal uptake leading to liver fibrosis	Under Review	AOP
+AOP:148	EGFR Activation Leading to Decreased Lung Function	Under Development	AOP
+AOP:149	Peptide Oxidation Leading to Hypertension	Under Development	AOP
+AOP:150	Aryl hydrocarbon receptor activation leading to early life stage mortality, via reduced VEGF	WPHA/WNT Endorsed	AOP
+AOP:151	AhR activation leading to preeclampsia	Under Development	AOP
+AOP:154	Inhibition of Calcineurin Activity Leading to Impaired T-Cell Dependent Antibody Response	WPHA/WNT Endorsed	AOP
+AOP:155	Deiodinase 2 inhibition leading to increased mortality via reduced posterior swim bladder inflation	WPHA/WNT Endorsed	AOP
+AOP:156	Deiodinase 2 inhibition leading to increased mortality via reduced anterior swim bladder inflation	WPHA/WNT Endorsed	AOP
+AOP:157	Deiodinase 1 inhibition leading to increased mortality via reduced posterior swim bladder inflation	WPHA/WNT Endorsed	AOP
+AOP:158	Deiodinase 1 inhibition leading to increased mortality via reduced anterior swim bladder inflation	WPHA/WNT Endorsed	AOP
+AOP:159	Thyroperoxidase inhibition leading to increased mortality via reduced anterior swim bladder inflation	WPHA/WNT Endorsed	AOP
+AOP:160	Ionotropic gamma-aminobutyric acid receptor activation mediated neurotransmission inhibition leading to mortality		AOP
+AOP:161	Glutamate-gated chloride channel activation leading to neurotransmission inhibition associated mortality		AOP
+AOP:164	Beta-2 adrenergic agonist activity leading to mesovarian leiomyomas in the rat and mouse		AOP
+AOP:167	Early-life estrogen receptor activity leading to endometrial carcinoma in the mouse.		AOP
+AOP:173	Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis	WPHA/WNT Endorsed	AOP
+AOP:175	Thyroperoxidase inhibition leading to altered amphibian metamorphosis		AOP
+AOP:176	Sodium Iodide Symporter (NIS) Inhibition leading to altered amphibian metamorphosis		AOP
+AOP:188	Iodotyrosine deiodinase (IYD) inhibition leading to altered amphibian metamorphosis		AOP
+AOP:189	Type I iodothyronine deiodinase (DIO1) inhibition leading to altered amphibian metamorphosis		AOP
+AOP:190	Type II iodothyronine deiodinase (DIO2) inhibition leading to altered amphibian metamorphosis		AOP
+AOP:191	Type III iodotyrosine deiodinase (DIO3) inhibition leading to altered amphibian metamorphosis		AOP
+AOP:192	Pendrin inhibition leading to altered amphibian metamorphosis		AOP
+AOP:193	Dual oxidase (DUOX) inhibition leading to altered amphibian metamorphosis		AOP
+AOP:194	Hepatic nuclear receptor activation leading to altered amphibian metamorphosis		AOP
+AOP:195	5-hydroxytryptamine transporter (5-HTT) inhibition leading to population increase		AOP
+AOP:196	Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation		AOP
+AOP:201	Juvenile hormone receptor agonism leading to male offspring induction associated population decline		AOP
+AOP:202	Inhibitor binding to topoisomerase II leading to infant leukaemia	WPHA/WNT Endorsed	AOP
+AOP:203	5-hydroxytryptamine transporter inhibition leading to decreased reproductive success and population decline		AOP
+AOP:204	5-hydroxytryptamine transporter inhibition leading to increased reproductive success and population increase		AOP
+AOP:205	AOP from chemical insult to cell death		AOP
+AOP:206	Peroxisome proliferator-activated receptors γ inactivation leading to lung fibrosis	Under Development	AOP
+AOP:207	NADPH oxidase and P38 MAPK activation leading to reproductive failure in Caenorhabditis elegans		AOP
+AOP:209	Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP		AOP
+AOP:212	Histone deacetylase inhibition leading to testicular atrophy	WPHA/WNT Endorsed	AOP
+AOP:213	Inhibition of fatty acid beta oxidation leading to nonalcoholic steatohepatitis (NASH)		AOP
+AOP:216	Deposition of energy leading to population decline via DNA strand breaks and follicular atresia		AOP
+AOP:218	Inhibition of CYP7B activity leads to decreased reproductive success via decreased locomotor activity		AOP
+AOP:219	Inhibition of CYP7B activity leads to decreased reproductive success via decreased sexual behavior		AOP
+AOP:220	Cyp2E1 Activation Leading to Liver Cancer	WPHA/WNT Endorsed	AOP
+AOP:227	NSAID induced PTGS1 inactivation to gastric ulcer		AOP
+AOP:228	NSAID induced PTGS2 inactivation to gastric ulcer		AOP
+AOP:232	NFE2/Nrf2 repression to steatosis		AOP
+AOP:233	Mu Opioid Receptor Agonism leading to Analgesia via K Channel Opening		AOP
+AOP:234	Mu Opioid Receptor Agonism leading to Analgesia via Ca Channel Inhibition		AOP
+AOP:235	Serotonin 1A Receptor Agonism leading to Anti-depressant Activity via K Channel Opening		AOP
+AOP:236	Serotonin 1A Receptor Agonism leading to Anti-depressant Activity via Ca Channel Inhibition		AOP
+AOP:237	Substance interaction with lung resident cell membrane components leading to atherosclerosis	Under Development	AOP
+AOP:238	Deposition of energy leading to population decline via DNA strand breaks and oocyte apoptosis		AOP
+AOP:241	Latent Transforming Growth Factor beta1 activation leads to pulmonary fibrosis		AOP
+AOP:242	Inhibition of lysyl oxidase leading to enhanced chronic fish toxicity		AOP
+AOP:245	Reduction in photophosphorylation leading to growth inhibition in aquatic plants		AOP
+AOP:256	Inhibition of mitochondrial DNA polymerase gamma leading to kidney toxicity	Under Development	AOP
+AOP:257	Receptor mediated endocytosis and lysosomal overload leading to kidney toxicity	Under Development	AOP
+AOP:258	Renal protein alkylation leading to kidney toxicity	Under Development	AOP
+AOP:260	CYP2E1 activation and formation of protein adducts leading to neurodegeneration		AOP
+AOP:261	L-type calcium channel blockade leading to heart failure via decrease in cardiac contractility	Under Development	AOP
+AOP:263	Uncoupling of oxidative phosphorylation leading to  growth inhibition via decreased cell proliferation	WPHA/WNT Endorsed	AOP
+AOP:264	Uncoupling of oxidative phosphorylation leading to growth inhibition via ATP depletion associated cell death	Under Development	AOP
+AOP:265	Uncoupling of oxidative phosphorylation leading to growth inhibition via increased cytosolic calcium	Under Development	AOP
+AOP:266	Uncoupling of oxidative phosphorylation leading to growth inhibition via decreased Na-K ATPase activity	Under Development	AOP
+AOP:267	Uncoupling of oxidative phosphorylation leading to growth inhibition via glucose depletion	Under Development	AOP
+AOP:268	Uncoupling of oxidative phosphorylation leading to growth inhibition via mitochondrial swelling	Under Development	AOP
+AOP:269	Elevated ATP demand for detoxification and repair mechanisms leading to impaired growth and development		AOP
+AOP:270	Elevated ATP demand for detoxification and repair mechanisms leading to impaired locomotor activity		AOP
+AOP:271	Inhibition of thyroid peroxidase leading to impaired fertility in fish	Under Development	AOP
+AOP:272	Deposition of energy leading to lung cancer	WPHA/WNT Endorsed	AOP
+AOP:274	Histone deacetylase inhibition leads to impeded craniofacial development		AOP
+AOP:275	Histone deacetylase inhibition leads to neural tube defects		AOP
+AOP:276	Inhibition of complex I of the electron transport chain leading to chemical induced Fanconi syndrome		AOP
+AOP:277	Impaired IL-1R1 signaling leading to Impaired T-Cell Dependent Antibody Response	WPHA/WNT Endorsed	AOP
+AOP:278	IKK complex inhibition leading to liver injury		AOP
+AOP:279	Microtubule interacting drugs lead to peripheral neuropathy		AOP
+AOP:280	α-diketone-induced bronchiolitis obliterans		AOP
+AOP:281	Acetylcholinesterase Inhibition Leading to Neurodegeneration		AOP
+AOP:282	Adverse outcome pathway on photochemical toxicity initiated by light exposure	Under Review	AOP
+AOP:286	Mitochondrial complex III antagonism leading to growth inhibition (1)		AOP
+AOP:287	Mitochondrial complex III antagonism leading to growth inhibition (2)		AOP
+AOP:288	Inhibition of 17α-hydrolase/C 10,20-lyase (Cyp17A1) activity leads to birth reproductive defects (cryptorchidism) in male (mammals)		AOP
+AOP:289	Inhibition of 5α-reductase leading to impaired fecundity in female fish	Under Development	AOP
+AOP:290	Mitochondrial ATP synthase antagonism leading to growth inhibition (1)		AOP
+AOP:291	Mitochondrial ATP synthase antagonism leading to growth inhibition (2)		AOP
+AOP:292	Inhibition of tyrosinase leads to decreased population in fish	Under Development	AOP
+AOP:293	Increased DNA damage leading to increased risk of breast cancer	Under Development	AOP
+AOP:294	Increased reactive oxygen and nitrogen species (RONS) leading to increased risk of breast cancer	Under Development	AOP
+AOP:296	Oxidative DNA damage leading to chromosomal aberrations and mutations	WPHA/WNT Endorsed	AOP
+AOP:297	Inhibition of retinaldehyde dehydrogenase leads to population decline	Under Development	AOP
+AOP:298	Increase in reactive oxygen species (ROS) leading to human treatment-resistant gastric cancer via chronic ROS	Under Review	AOP
+AOP:299	Deposition of energy leading to population decline via DNA oxidation and follicular atresia		AOP
+AOP:300	Thyroid Receptor Antagonism and Subsequent Adverse Neurodevelopmental Outcomes in Mammals	Under Development	AOP
+AOP:301	Inhibition of Cystathionine Beta synthase leading to impaired the early development of anterior-posterior axis		AOP
+AOP:302	Lung surfactant function inhibition leading to decreased lung function	Under Development	AOP
+AOP:303	Frustrated phagocytosis-induced lung cancer	Under Development	AOP
+AOP:304	TBX1 inhibition leading to congenital cardiac conotruncal anomalies		AOP
+AOP:305	5α-reductase inhibition leading to short anogenital distance (AGD) in male (mammalian) offspring	Under Development	AOP
+AOP:306	Androgen receptor (AR) antagonism leading to short anogenital distance (AGD) in male (mammalian) offspring	Under Development	AOP
+AOP:309	Luteinizing hormone receptor antagonism leading to reproductive dysfunction		AOP
+AOP:310	Embryonic Activation of the AHR leading to Reproductive failure, via epigenetic down-regulation of GnRHR		AOP
+AOP:311	Deposition of energy leading to population decline via DNA oxidation and oocyte apoptosis		AOP
+AOP:312	Acetylcholinesterase Inhibition leading to Acute Mortality via Impaired Coordination & Movement​		AOP
+AOP:313	Stimulation of TLR7/8 in dendric cells leading to Psoriatic skin disease	Under Development	AOP
+AOP:314	Binding to estrogen receptor (ER)-α in immune cells leading to exacerbation of systemic lupus erythematosus (SLE)	Under Development	AOP
+AOP:315	Inhibition of JAK3 leading to impairment of T-Cell Dependent Antibody Response	Under Development	AOP
+AOP:316	Trypsin inhibition leading to pancreatic acinar cell tumors	Under Development	AOP
+AOP:318	Glucocorticoid Receptor activation leading to hepatic steatosis		AOP
+AOP:320	Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality	Under Development	AOP
+AOP:321	Reduced environmental pH leading to thinner shells in Mytilus edulis		AOP
+AOP:322	Alkylation of DNA leading to reduced sperm count		AOP
+AOP:323	PPARalpha Agonism Leading to Decreased Viable Offspring via Decreased 11-Ketotestosterone		AOP
+AOP:324	Excessive reactive oxygen species leading to growth inhibition via oxidative DNA damage and cell death		AOP
+AOP:325	Excessive reactive oxygen species leading to growth inhibition via lipid peroxidation and cell death		AOP
+AOP:326	Excessive reactive oxygen species leading to growth inhibition via protein oxidation and cell death		AOP
+AOP:327	Excessive reactive oxygen species production leading to mortality (1)		AOP
+AOP:328	Excessive reactive oxygen species production leading to mortality (2)		AOP
+AOP:329	Excessive reactive oxygen species production leading to mortality (3)		AOP
+AOP:330	Excessive reactive oxygen species production leading to mortality (4)		AOP
+AOP:331	Excessive reactive oxygen species leading to growth inhibition via oxidative DNA damage and reduced cell proliferation		AOP
+AOP:332	Excessive reactive oxygen species leading to growth inhibition via lipid peroxidation and reduced cell proliferation		AOP
+AOP:333	Excessive reactive oxygen species leading to growth inhibition via uncoupling of oxidative phosphorylation		AOP
+AOP:334	Glucocorticoid Receptor Agonism Leading to Impaired Fin Regeneration		AOP
+AOP:335	AOP for urothelial carcinogenesis due to chemical cytotoxicity by mitochondrial impairment		AOP
+AOP:336	DNA methyltransferase inhibition leading to population decline (1)		AOP
+AOP:337	DNA methyltransferase inhibition leading to population decline (2)		AOP
+AOP:338	DNA methyltransferase inhibition leading to population decline (3)		AOP
+AOP:339	DNA methyltransferase inhibition leading to population decline (4)		AOP
+AOP:340	DNA methyltransferase inhibition leading to transgenerational effects (1)		AOP
+AOP:341	DNA methyltransferase inhibition leading to transgenerational effects (2)		AOP
+AOP:342	S-adenosylmethionine depletion leading to population decline (1)		AOP
+AOP:343	S-adenosylmethionine depletion leading to population decline (2)		AOP
+AOP:344	Androgen receptor (AR) antagonism leading to nipple retention (NR) in male (mammalian) offspring	Under Development	AOP
+AOP:345	Androgen receptor (AR) antagonism leading to decreased fertility in females	Under Development	AOP
+AOP:346	Aromatase inhibition leads to male-biased sex ratio via impacts on gonad differentiation	WPHA/WNT Endorsed	AOP
+AOP:347	Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis		AOP
+AOP:348	Inhibition of 11β-Hydroxysteroid Dehydrogenase leading to decreased population trajectory	Under Development	AOP
+AOP:349	Inhibition of 11β-hydroxylase leading to decresed population trajectory	Under Development	AOP
+AOP:358	Chitinase inhibition leading to mortality	Under Development	AOP
+AOP:359	Chitobiase inhibition leading to mortality	Under Development	AOP
+AOP:360	Chitin synthase 1 inhibition leading to mortality	WPHA/WNT Endorsed	AOP
+AOP:361	Sulfonylureareceptor binding leading to mortality	Under Development	AOP
+AOP:362	Immune mediated hepatitis		AOP
+AOP:363	Thyroperoxidase inhibition leading to altered visual function via altered retinal layer structure	Under Review	AOP
+AOP:364	Thyroperoxidase inhibition leading to altered visual function via decreased eye size	Under Development	AOP
+AOP:365	Thyroperoxidase inhibition leading to altered visual function via altered photoreceptor patterning	Under Development	AOP
+AOP:366	Competitive binding to thyroid hormone carrier protein transthyretin (TTR) leading to altered amphibian metamorphosis		AOP
+AOP:367	Competitive binding to thyroid hormone carrier protein thyroid binding globulin (TBG) leading to altered amphibian metamorphosis		AOP
+AOP:368	Cytochrome oxidase inhibition leading to increased nasal lesions		AOP
+AOP:372	Androgen receptor antagonism leading to testicular cancer		AOP
+AOP:374	Binding of Sars-CoV-2 spike protein to ACE 2 receptors expressed on brain cells (neuronal and non-neuronal) leads to neuroinflammation resulting in encephalitis	Under Development	AOP
+AOP:376	Androgen receptor agonism leading to male-biased sex ratio	WPHA/WNT Endorsed	AOP
+AOP:379	Binding to ACE2 leading to thrombosis and disseminated intravascular coagulation	Under Development	AOP
+AOP:381	Binding of viral S-glycoprotein to ACE2 receptor leading to dysgeusia	Under Development	AOP
+AOP:382	Angiotensin II type 1 receptor (AT1R) agonism leading to lung fibrosis	Under Development	AOP
+AOP:383	Inhibition of Angiotensin-converting enzyme 2 leading to liver fibrosis	Under Development	AOP
+AOP:384	Hyperactivation of ACE/Ang-II/AT1R axis leading to chronic kidney disease		AOP
+AOP:386	Deposition of ionizing energy leading to population decline via inhibition of photosynthesis		AOP
+AOP:387	Deposition of ionising energy leading to population decline via mitochondrial dysfunction		AOP
+AOP:388	Deposition of ionising energy  leading to population decline via programmed cell death		AOP
+AOP:389	Oxygen-evolving complex damage leading to population decline via inhibition of photosynthesis		AOP
+AOP:392	Decreased fibrinolysis and activated bradykinin system leading to hyperinflammation	Under Development	AOP
+AOP:394	SARS-CoV-2 infection of olfactory epithelium leading to impaired olfactory function (short-term anosmia)	Under Development	AOP
+AOP:397	Bulky DNA adducts leading to mutations	Under Development	AOP
+AOP:398	Decreased ALDH1A (RALDH) activity leading to decreased fertility via disrupted meiotic initiation of fetal oogonia	Under Development	AOP
+AOP:399	Inhibition of Fyna leading to increased mortality via decreased eye size (Microphthalmos)		AOP
+AOP:405	Organo-Phosphate Chemicals induced inhibition of AChE  leading to impaired cognitive function		AOP
+AOP:406	SARS-CoV-2 infection leading to hyperinflammation		AOP
+AOP:409	Frustrated phagocytosis leads to malignant mesothelioma		AOP
+AOP:410	GSK3beta inactivation leading to increased mortality via defects in developing inner ear		AOP
+AOP:411	Oxidative stress Leading to Decreased Lung Function		AOP
+AOP:413	Oxidation and antagonism of reduced glutathione leading to mortality via acute renal failure		AOP
+AOP:414	Aryl hydrocarbon receptor activation leading to lung fibrosis through TGF-β dependent fibrosis toxicity pathway		AOP
+AOP:415	Aryl hydrocarbon receptor activation leading to lung fibrosis through IL-6 toxicity pathway		AOP
+AOP:416	Aryl hydrocarbon receptor activation leading to lung cancer through IL-6 toxicity pathway		AOP
+AOP:417	Aryl hydrocarbon receptor activation leading to lung cancer through AHR-ARNT toxicity pathway		AOP
+AOP:418	Aryl hydrocarbon receptor activation leading to impaired lung function through AHR-ARNT toxicity pathway		AOP
+AOP:419	Aryl hydrocarbon receptor activation leading to impaired lung function through P53 toxicity pathway		AOP
+AOP:420	Aryl hydrocarbon receptor activation leading to lung cancer through sustained NRF2 toxicity pathway		AOP
+AOP:422	Binding of SARS-CoV-2 to ACE2 in enterocytes leads to intestinal barrier disruption	Under Development	AOP
+AOP:423	Toxicological mechanisms of hepatocyte apoptosis through the PARP1 dependent cell death pathway		AOP
+AOP:424	Oxidative stress Leading to Decreased Lung Function via CFTR dysfunction		AOP
+AOP:425	Oxidative Stress Leading to Decreased Lung Function via Decreased FOXJ1		AOP
+AOP:428	Binding of S-protein to ACE2 in enterocytes induces ACE2 dysregulation leading to gut dysbiosis	Under Development	AOP
+AOP:430	Binding of SARS-CoV-2 to ACE2 leads to viral infection proliferation	Under Development	AOP
+AOP:431	Increased tumor necrosis factor (TNF) leading to increased risk of gestational diabetes mellitus (GDM)		AOP
+AOP:432	Deposition of Energy by Ionizing Radiation leading to Acute Myeloid Leukemia		AOP
+AOP:433	hERG channel blockade leading to sudden cardiac death		AOP
+AOP:434	CYP26 inhibition leading to disturbed dorsal lateral hinge point bending which causes neural tube closure defects		AOP
+AOP:435	Deposition of ionising energy leads to population decline via pollen abnormal		AOP
+AOP:436	Inhibition of RALDH2 causes reduced all-trans retinoic acid levels, leading to transposition of the great arteries		AOP
+AOP:437	Inhibition of mitochondrial electron transport chain (ETC) complexes leading to kidney toxicity	Under Development	AOP
+AOP:438	reactive oxygen species generation leading to increased cardiovascular morbidity and mortality		AOP
+AOP:439	Activation of the AhR leading to metastatic breast cancer	Under Development	AOP
+AOP:440	Hypothalamus estrogen receptors activity suppression leading to ovarian cancer via ovarian epithelial cell hyperplasia	Under Development	AOP
+AOP:441	Ionizing radiation-induced DNA damage leads to microcephaly via apoptosis and premature cell differentiation		AOP
+AOP:442	Binding to voltage gate sodium channels during development leads to cognitive impairment	Under Review	AOP
+AOP:443	DNA damage and mutations leading to Metastatic Breast Cancer	Under Development	AOP
+AOP:444	Ionizing radiation leads to reduced reproduction in Eisenia fetida via reduced spermatogenesis and cocoon hatchability		AOP
+AOP:445	Estrogen Receptor Alpha Agonism leads to Impaired Reproduction		AOP
+AOP:446	PM-related Adverse outcome pathway frameworks on various systems		AOP
+AOP:447	Kidney failure induced by inhibition of mitochondrial electron transfer chain through apoptosis, inflammation and oxidative stress pathways		AOP
+AOP:448	ROS, inflammation, and activation of nAChR lead to increased incidence of cardiovascular morbidity and mortality		AOP
+AOP:449	Ceramide synthase inhibition leading to neural tube defects		AOP
+AOP:450	Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality		AOP
+AOP:451	Interaction with lung resident cell membrane components leads to lung cancer		AOP
+AOP:452	Adverse outcome pathway of PM-induced respiratory toxicity		AOP
+AOP:453	Reactive oxygen species and subsequent oxidative stress lead to increased incidence of digestive morbidity and mortality in the general population		AOP
+AOP:455	Aryl hydrocarbon receptor activation leading to early life stage mortality via sox9 repression induced impeded craniofacial development	Under Review	AOP
+AOP:456	Aryl hydrocarbon receptor activation leading to early life stage mortality via sox9 repression induced cardiovascular toxicity	Under Review	AOP
+AOP:457	Succinate dehydrogenase inhibition leading to increased insulin resistance through reduction in circulating thyroxine		AOP
+AOP:458	AhR activation in the liver leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals		AOP
+AOP:459	AhR activation in the thyroid leading to Subsequent Adverse Neurodevelopmental Outcomes in Mammals		AOP
+AOP:460	Antagonism of Smoothened receptor leading to orofacial clefting	Under Development	AOP
+AOP:463	The AOP framwork on silica nanopariticles induced hepatoxicity		AOP
+AOP:464	Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits		AOP
+AOP:465	Alcohol dehydrogenase leading to reproductive dysfunction		AOP
+AOP:466	Doda decarboxylase leading to mortality		AOP
+AOP:467	Knickkopf leading to mortality		AOP
+AOP:468	Binding of SARS-CoV-2 to ACE2 leads to hyperinflammation (via cell death)		AOP
+AOP:469	Reactive oxygen speicies overproduction leading to increased digestive morbidity and mortality in generation population		AOP
+AOP:470	Deposition of energy leads to abnormal vascular remodeling	Under Review	AOP
+AOP:472	DNA adduct formation leading to kidney failure		AOP
+AOP:474	Succinate dehydrogenase inactivation leads to cancer by promoting EMT	Under Development	AOP
+AOP:475	Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons	Under Development	AOP
+AOP:477	Androgen receptor (AR) antagonism leading to hypospadias in male (mammalian) offspring		AOP
+AOP:478	Deposition of energy leading to occurrence of cataracts	Under Review	AOP
+AOP:479	Mitochondrial complexes inhibition leading to left ventricular function decrease via increased myocardial oxidative stress	Under Development	AOP
+AOP:480	Mitochondrial complexes inhibition leading to heart failure via decreased ATP production	Under Development	AOP
+AOP:482	Deposition of energy leading to occurrence of bone loss	Under Review	AOP
+AOP:483	Deposition of Energy Leading to Learning and Memory Impairment	Under Review	AOP
+AOP:485	Thyroid hormone antagonism leading to impaired oligodendrocyte maturation during development and subsequent decreased cognition		AOP
+AOP:486	Binding to the extracellular protein laminin leading to decreased cognitive function		AOP
+AOP:488	Increased reactive oxygen species production leading to decreased cognitive function		AOP
+AOP:490	Co-activation of IP3R and RyR leads to reduced IQ through non-cholinergic mechanisms		AOP
+AOP:491	Decrease, GLI1/2 target gene expression leads to orofacial clefting	Under Development	AOP
+AOP:492	Glutathione conjugation leading to reproductive dysfunction via oxidative stress		AOP
+AOP:493	ERa inactivation alters AT expansion and functions and leads to insulin resistance and metabolically unhealthy obesity		AOP
+AOP:494	AhR activation leading to liver fibrosis		AOP
+AOP:495	Androgen receptor activation leading to prostate cancer		AOP
+AOP:496	Androgen receptor agonism leading to reproduction dysfunction （in zebrafish）		AOP
+AOP:497	ERa inactivation alters mitochondrial functions and insulin signalling in skeletal muscle and leads to insulin resistance and metabolic syndrome		AOP
+AOP:498	Increased LCN2/iron complex leading to neurological disorders		AOP
+AOP:499	Activation of MEK-ERK1/2 leads to deficits in learning and cognition via disrupted neurotransmitter release		AOP
+AOP:500	Activation of MEK-ERK1/2 leads to deficits in learning and cognition via ROS and apoptosis		AOP
+AOP:501	Excessive iron accumulation leading to neurological disorders		AOP
+AOP:503	Activation of uterine estrogen receptor-alfa leading to endometrial adenocarcinoma, via epigenetic modulation	Under Review	AOP
+AOP:504	SULT1E1 inhibition leading to uterine adenocarcinoma via increased estrogen availability at target organ level		AOP
+AOP:505	Reactive Oxygen Species (ROS) formation leads to cancer via inflammation pathway		AOP
+AOP:506	Binding of Influenza A Virus (IAV) to Sialic Acid Glycan Receptor leads to viral infection proliferation		AOP
+AOP:507	Nrf2 inhibition leading to vascular disrupting effects via inflammation pathway		AOP
+AOP:508	Nrf2 inhibition leading to vascular disrupting effects through activating HIF1α, Semaphorin 6A, and Dll4-Notch pathway		AOP
+AOP:509	Nrf2 inhibition leading to vascular disrupting effects through activating apoptosis signal pathway and mitochondrial dysfunction		AOP
+AOP:510	Demethylation of PPAR promotor leading to vascular disrupting effects		AOP
+AOP:511	The AOP framework on ROS-mediated oxidative stress induced vascular disrupting effects		AOP
+AOP:513	Reactive Oxygen (ROS) formation leads to cancer via Peroxisome proliferation-activated receptor (PPAR) pathway		AOP
+AOP:517	Pregnane X Receptor (PXR) activation leads to liver steatosis		AOP
+AOP:518	Liver X Receptor (LXR) activation leads to liver steatosis		AOP
+AOP:519	Cardiac ion channels blockade  leading to  increased incidence of cardiovascular morbidity and mortality		AOP
+AOP:520	Retinoic acid receptor agonism during neurodevelopment leading to impaired learning and memory		AOP
+AOP:521	Essential element imbalance leads to reproductive failure via oxidative stress		AOP
+AOP:523	Retinoic acid receptor agonism during neurodevelopment leading to microcephaly		AOP
+AOP:524	Gluten-driven immune activation leading to celiac disease in genetically predisposed individuals		AOP
+AOP:525	Reduced oligodendrocyte differentiation during neurodevelopment leading to impaired learning and memory		AOP
+AOP:529	Perfluorooctanesulfonic acid (PFOS) binding to peroxisome proliferator-activated receptors (PPARs) causes dysregulation of lipid metabolism and subsequent liver steatosis		AOP
+AOP:530	Endocytotic lysosomal uptake leads to intestinal barrier disruption		AOP
+AOP:531	VEGFR inhibition leading to Keratinocyte differentiation-associate Hand-foot skin reaction		AOP
+AOP:532	Retinoic acid receptor agonism during cerebellar development leading to impaired locomotor function		AOP
+AOP:533	Retinoic acid receptor antagonism during neurodevelopment leading to impaired learning and memory		AOP
+AOP:534	Succinate dehydrogenase (SDH) inhibition leads to cancer through oxidative stress		AOP
+AOP:535	Binding and activation of GPER leading to learning and memory impairments		AOP
+AOP:536	Estrogen receptor agonism leading to reduced survival and population growth due to renal failure		AOP
+AOP:537	Estrogen receptor agonism leads to reduced fecundity via increased vitellogenin in the liver		AOP
+AOP:539	Decreased Sodium/Potassium ATPase activity leads to Heart failure		AOP
+AOP:540	Oxidative Stress in the Fish Ovary Leads to Reproductive Impairment via Reduced Vitellogenin Production		AOP
+AOP:541	Excessive ROS generation leading to increased incidence of vascular calcification by VSMC phenotype switching		AOP
+AOP:543	Inhibition of neuropathy target esterase leading to delayed neuropathy via lysolecithin cell membrane integration		AOP
+AOP:544	Inhibition of neuropathy target esterase leading to delayed neuropathy via increased inflammation		AOP
+AOP:545	Activation, Pregnane-X receptor, NR1l2 leads to increased plasma low-density lipoprotein (LDL) cholesterol via increased cholesterol synthesis		AOP
+AOP:546	Succinate dehydrogenase inactivation leads to cancer through hypoxic-like mechanisms		AOP
+AOP:548	Activation, Pregnane-X receptor, NR1l2 leads to increased plasma low-density lipoprotein (LDL) cholesterol via increased PCSK9 protein expression		AOP
+AOP:549	Aromatase inhibition leads to reproductive toxicity (including growth and developmental toxicity) in adult female zebrafish		AOP
+AOP:550	Increased LMNA gene mutation leading to heart failure		AOP
+AOP:551	Increased Muscarinic M2 Receptor leading to Arrhythmia		AOP
+AOP:552	Inhibiton of L-Type Calcium Channels leading to heart failure via QT interval prolongation and Torsades de Pointes (TdP)		AOP
+AOP:553	Inhibition of Voltage-gated sodium channels (Na⁺ channels)  leading to heart failure		AOP
+AOP:554	β-adrenergic receptor agonists leading to arrhythmias.		AOP
+AOP:555	Inhibition, Ether-a-go-go (ERG) Voltage-Gated Potassium Channel leading to heart failure		AOP
+AOP:556	Decreased Na/K ATPase activity leading to heart failure		AOP
+AOP:558	Phosphodiesterase inhibition leading to heart failure		AOP
+AOP:559	Inhibition of acetylcholinesterase (AChE) leading to arrhythmias		AOP
+AOP:560	Inhibition of Funny current (If) leading to Arrhythmias		AOP
+AOP:561	Aromatase induction leading to estrogen receptor alpha activation via increased estradiol		AOP
+AOP:562	HCN Channel Inhibition leading to Arrhythmias		AOP
+AOP:563	Aryl hydrocarbon Receptor (AHR) activation causes Premature Ovarian Insufficiency via Bax mediated apoptosis		AOP
+AOP:564	DBDPE-induced inhibition of mitochondrial complex Ⅰ leading to population decline via neurotoxicity and metabotoxicity.		AOP
+AOP:567	Binding of plastoquinone B leading to decrease, population growth rate via decrease, photosystem II efficiency		AOP
+AOP:568	Inhibition, 5-hydroxytryptamine transporter (5-HTT; SERT) leads to Inhibition, Feeding		AOP
+AOP:569	Decreased DNA methylation of FAM50B/PTCHD3 leading to IQ loss of children via PI3K-Akt pathway		AOP
+AOP:572	Imidacloprid-Induced BMP4 inhibition Leading to Neural Tube Closure Defects		AOP
+AOP:573	Inhibition, cytochrome oxidase leads to Increased, pulmonary edema		AOP
+AOP:574	Inhibition, cytochrome oxidase leads to Loss of olfactory function		AOP
