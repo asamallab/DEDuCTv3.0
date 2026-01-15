@@ -1,5 +1,5 @@
-# Supporting Information files
-This folder contains additional supporting information files.
+# Supporting Data files
+This folder contains additional supporting data files.
 
 - [chemical_similarity_network_edge_table.tsv](./chemical_similarity_network_edge_table.tsv) - This file contains the pairwise chemical similarity values computed as the Tanimoto coefficient between ECFP4 fingerprints of the two chemicals. For each chemical, the corresponding DEDuCT identifier is provided.
 - [target_similarity_network_edge_table.tsv](./target_similarity_network_edge_table.tsv) - This file contains the pairwise chemical similarity values computed as the Jaccard similarity between gene targets of the two chemicals obtained from ToxCast invitrodb v4.3. For each chemical, the corresponding DEDuCT identifier is provided.
