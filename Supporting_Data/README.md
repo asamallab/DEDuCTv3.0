@@ -1,6 +1,8 @@
 # Supporting Data files
 This folder contains additional supporting data files.
 
+- [SITables_DEDuCT3.xlsx](./SITables_DEDuCT3.xlsx) - This file contains information on the curated chemical data including associated endocrine-mediated effect information, computed NOAEL and LOAEL values, compiled chemical list information, AOP information, EDC-AOP associations, and obesogen and neurodegenerative disorders case studies related information, associated with the manuscript.
+- [SITextFigures_DEDuCT3.pdf](./SITextFigures_DEDuCT3.pdf) - This file contains additional methodological details and figures associated with the manuscript.
 - [chemical_similarity_network_edge_table.tsv](./chemical_similarity_network_edge_table.tsv) - This file contains the pairwise chemical similarity values computed as the Tanimoto coefficient between ECFP4 fingerprints of the two chemicals. For each chemical, the corresponding DEDuCT identifier is provided.
 - [target_similarity_network_edge_table.tsv](./target_similarity_network_edge_table.tsv) - This file contains the pairwise chemical similarity values computed as the Jaccard similarity between gene targets of the two chemicals obtained from ToxCast invitrodb v4.3. For each chemical, the corresponding DEDuCT identifier is provided.
 - [CGPD_tetramers_from_CTD.tsv](./CGPD_tetramers_from_CTD.tsv) - This file contains information on 208829 chemical-gene-phenotype-disease (CGPD) tetramers constructed for 364 EDCs from Comparative Toxicogenomics Database (CTD). For each tetramer, the file provides the corresponding information on the chemical identifier, NCBI gene identifier, NCBI gene name, phenotype identifier, phenotype name, MeSH disease identifier, and MeSH disease name.
